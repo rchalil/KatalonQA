@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gmail - Try again with invalid login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f64be65-3f23-45b6-bfb4-a5d6737ccd18</testCaseGuid>
+</TestCaseEntity>

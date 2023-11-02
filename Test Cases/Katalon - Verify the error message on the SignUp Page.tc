@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Katalon - Verify the error message on the SignUp Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fc9017b-53ad-4a2f-9797-f4cceaf5e8cb</testCaseGuid>
+</TestCaseEntity>

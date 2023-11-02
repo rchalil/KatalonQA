@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gmail - Incorrect login verification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d86c7f81-cc94-4009-9514-8fd1d1c10f65</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PMI - Verify the 3 languages present in PMI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a51d5b02-b00a-4281-93b7-f50d17b12be4</testCaseGuid>
+</TestCaseEntity>
