@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Deloitte Engineering</name>
+   <tag></tag>
+   <elementGuidId>3c91dece-92ce-4527-a746-1d66edb251de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='row4']/div/div/div/div/div/a/div/div[2]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>61e87141-a675-48b1-8682-ade04c1ccd38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deloitte Engineering</value>
+      <webElementGuid>f983bd15-17d0-4892-8d23-1c86fe7ffb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row4&quot;)/div[@class=&quot;layoutcolumnctrl section&quot;]/div[@class=&quot;auto-width-column&quot;]/div[@class=&quot;awc-one-hundred&quot;]/div[1]/div[@class=&quot;featuredpromo section&quot;]/a[@class=&quot;promo-focus&quot;]/div[@class=&quot;featured-promo descriptive-promo insight-white&quot;]/div[@class=&quot;article-text&quot;]/h2[1]</value>
+      <webElementGuid>b97b360c-5464-459e-995d-c97b159774cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='row4']/div/div/div/div/div/a/div/div[2]/h2</value>
+      <webElementGuid>04ddee7c-6378-4926-9919-094d58854785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>ec062cbe-1475-48a0-ba49-169460a6431e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Deloitte Engineering' or . = 'Deloitte Engineering')]</value>
+      <webElementGuid>c5974b33-861e-4e14-8b3d-82e6d63faae2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

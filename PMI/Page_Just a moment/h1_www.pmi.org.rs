@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_www.pmi.org</name>
+   <tag></tag>
+   <elementGuidId>63c10264-aca8-4cae-82f5-209ce4aed1b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.zone-name-title.h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>b75676b6-7320-41d9-a274-c89fa6fc6763</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zone-name-title h1</value>
+      <webElementGuid>61fad989-0bbd-4e12-8ba8-1d0fbbf632e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>www.pmi.org</value>
+      <webElementGuid>01e64ab7-0be9-46e5-86bb-17033e527fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;lang-en&quot;]/body[@class=&quot;no-js&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content&quot;]/h1[@class=&quot;zone-name-title h1&quot;]</value>
+      <webElementGuid>b66bc117-a4a9-462b-808e-da035c335d55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>404937f6-ba4a-4c90-a7f6-1d3e36b8cf78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'www.pmi.org' or . = 'www.pmi.org')]</value>
+      <webElementGuid>b0714051-9e67-4c44-bed6-212b9c2750a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

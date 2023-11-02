@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Veja em Portugus</name>
+   <tag></tag>
+   <elementGuidId>bbb7a2f3-c0a5-48b9-a59a-8091bdc1b767</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-layout']/div[3]/div/div/div/div/div/div[2]/div/div/div/p[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5f1bc8a1-2b01-4938-bedc-be31a51ed9cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/certifications?sc_camp=8A8BABF66EF9499DB5CCD1C1044CB211</value>
+      <webElementGuid>3573df1d-77e6-4c21-912f-25c20b0ec228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Veja em Português</value>
+      <webElementGuid>1f39ef7c-99a3-454d-a9b9-8631c2dd7137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;container-fluid image-resize-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row d-row&quot;]/div[@class=&quot;wide-row-content&quot;]/div[@class=&quot;wide-row&quot;]/div[@class=&quot;col-12 col-md-4 aside&quot;]/div[@class=&quot;rte widget-sidebar no-margin-bottom notification&quot;]/div[1]/div[@class=&quot;rte-no-wrapper&quot;]/p[3]/a[1]</value>
+      <webElementGuid>dd3ae549-977c-426c-8d51-f2588dc6cb7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-layout']/div[3]/div/div/div/div/div/div[2]/div/div/div/p[3]/a</value>
+      <webElementGuid>0865bb72-865d-4dd3-a4be-226dcb332984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Veja em Português')]</value>
+      <webElementGuid>f95dc90c-73e4-4114-b731-831b5b323c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/certifications?sc_camp=8A8BABF66EF9499DB5CCD1C1044CB211')]</value>
+      <webElementGuid>0a264c35-eee4-4ccb-ba26-c6a201b3d4e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/a</value>
+      <webElementGuid>7e3b14d4-31c3-41c6-8658-98ba0132c7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/certifications?sc_camp=8A8BABF66EF9499DB5CCD1C1044CB211' and (text() = 'Veja em Português' or . = 'Veja em Português')]</value>
+      <webElementGuid>56a9c187-0e04-4c83-ba0f-b7a3dbe903db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

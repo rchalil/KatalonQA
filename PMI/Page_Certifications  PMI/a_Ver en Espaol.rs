@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ver en Espaol</name>
+   <tag></tag>
+   <elementGuidId>6bc21542-8936-4faf-86e0-d4bdd490662a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rte.widget-sidebar.no-margin-bottom.notification > div > div.rte-no-wrapper > p:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main-layout']/div[3]/div/div/div/div/div/div[2]/div/div/div/p[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4105d20c-4688-4228-8590-3402fbd340df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/certifications?sc_camp=D750AAC10C2F4378CE6D51F8D987F49D</value>
+      <webElementGuid>6f47b258-80f6-44a2-8396-92370bcb69a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ver en Español</value>
+      <webElementGuid>fa25ba9c-933f-44d9-9925-8f70602d5cd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-layout&quot;)/div[@class=&quot;container-fluid image-resize-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row d-row&quot;]/div[@class=&quot;wide-row-content&quot;]/div[@class=&quot;wide-row&quot;]/div[@class=&quot;col-12 col-md-4 aside&quot;]/div[@class=&quot;rte widget-sidebar no-margin-bottom notification&quot;]/div[1]/div[@class=&quot;rte-no-wrapper&quot;]/p[2]/a[1]</value>
+      <webElementGuid>75e64eb3-fba8-4954-886b-78f039c9c93a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-layout']/div[3]/div/div/div/div/div/div[2]/div/div/div/p[2]/a</value>
+      <webElementGuid>d4e6fe26-730f-4ade-a59b-8533e9eafbde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ver en Español')]</value>
+      <webElementGuid>378e85a9-7b85-4f0a-90db-ed820af04e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/certifications?sc_camp=D750AAC10C2F4378CE6D51F8D987F49D')]</value>
+      <webElementGuid>53f6119b-b216-4ca2-b513-6b45bd87cad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/p[2]/a</value>
+      <webElementGuid>22f25766-ee93-4593-bbd8-fc279993043a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/certifications?sc_camp=D750AAC10C2F4378CE6D51F8D987F49D' and (text() = 'Ver en Español' or . = 'Ver en Español')]</value>
+      <webElementGuid>c509fd05-3390-4eaa-86cc-856ef96eef8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
