@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_tax</name>
+   <tag></tag>
+   <elementGuidId>68460725-5a73-4801-a108-bf2d4c4e2f55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cmp-search-page']/div/h1/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.cmp-search-page__title.aem-GridColumn.aem-GridColumn--default--1 > strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>47dcad81-ad82-4e4f-8abe-01d248c3ec2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>“tax”</value>
+      <webElementGuid>19c363ba-1cee-448f-8389-8409f7e9bcb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cmp-search-page&quot;)/div[@class=&quot;aem-Grid aem-Grid--1&quot;]/h1[@class=&quot;cmp-search-page__title aem-GridColumn aem-GridColumn--default--1&quot;]/strong[1]</value>
+      <webElementGuid>400b92aa-1f65-47d6-bb92-97f2178a1115</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cmp-search-page']/div/h1/strong</value>
+      <webElementGuid>a1d6d694-0e9b-46ac-9be4-c718ec7e4956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/strong</value>
+      <webElementGuid>a0bdf736-0845-4c11-b493-a1540d47cafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '“tax”' or . = '“tax”')]</value>
+      <webElementGuid>d5f3a6f7-ff68-427b-a61d-36dc9d18c91b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

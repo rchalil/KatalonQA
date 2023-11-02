@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Life Sciences  Health Care</name>
+   <tag></tag>
+   <elementGuidId>3fe8ed14-22f7-40ed-ad4e-3249511462a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='list2']/div/div/div[2]/ul/li[5]/h4/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>57aeb908-ac0c-48d2-92d6-b668fb1ea767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/us/en/industries/life-sciences-and-health-care.html?icid=top_life-sciences-and-health-care</value>
+      <webElementGuid>4c4dc07b-dd09-45b2-87d6-fdf0c6865a46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>a4c80904-466b-40ae-8f36-4290349793bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Life Sciences &amp; Health Care</value>
+      <webElementGuid>44c23b6d-8e7b-4f6d-b1bb-8d6a0f39427e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list2&quot;)/div[@class=&quot;cmp-pr-nav__menu open menu-hover&quot;]/div[@class=&quot;cmp-container-width aem-Grid aem-Grid--12&quot;]/div[@class=&quot;cmp-pr-nav__menu__links-wrapper aem-GridColumn aem-GridColumn--default--9 aem-GridColumn--phone--12&quot;]/ul[@class=&quot;cmp-pr-nav__menu__links-section aem-Grid aem-Grid--12&quot;]/li[@class=&quot;cmp-pr-nav__menu__item aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12&quot;]/h4[1]/a[1]</value>
+      <webElementGuid>7cf06684-596d-425e-ace3-9d024f8162d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='list2']/div/div/div[2]/ul/li[5]/h4/a</value>
+      <webElementGuid>3fe18e83-90e5-4649-8a42-bbf3560d2c36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Life Sciences &amp; Health Care')]</value>
+      <webElementGuid>aa806f73-3691-4cde-be4f-422418f15aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/us/en/industries/life-sciences-and-health-care.html?icid=top_life-sciences-and-health-care')]</value>
+      <webElementGuid>5290681e-5029-49d0-ab8c-c40e336d7f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div[2]/ul/li[5]/h4/a</value>
+      <webElementGuid>a0caf0b0-b85a-41ca-81f0-d3f05fa55a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/us/en/industries/life-sciences-and-health-care.html?icid=top_life-sciences-and-health-care' and (text() = 'Life Sciences &amp; Health Care' or . = 'Life Sciences &amp; Health Care')]</value>
+      <webElementGuid>b72c596f-8659-4f56-b9f9-2b146cedb8ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

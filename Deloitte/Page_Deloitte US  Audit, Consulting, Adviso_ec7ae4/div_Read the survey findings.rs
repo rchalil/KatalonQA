@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Read the survey findings</name>
+   <tag></tag>
+   <elementGuidId>ef4668f9-00ed-4728-9a3d-91b45f8b668c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='showcase-image']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.reverse-btn.button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1bdd307-49a5-4cc3-b7f8-2042987ea71d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reverse-btn button</value>
+      <webElementGuid>b6c4fceb-1575-4a24-8763-38c2f8a58459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read the survey findings</value>
+      <webElementGuid>6346ba53-a191-44d3-9541-53512e74dc26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;showcase-image&quot;)/div[@class=&quot;showcase-content-wrap&quot;]/div[@class=&quot;showcase-basic-content fade-load&quot;]/div[@class=&quot;content-wrap&quot;]/div[@class=&quot;reverse-btn button&quot;]</value>
+      <webElementGuid>73cea5f7-1ff4-4be5-96fc-8448df40ee6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='showcase-image']/div/div/div/div</value>
+      <webElementGuid>8db80cd4-3536-4cdc-9ed2-73f47d1cd33b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/div/div/div</value>
+      <webElementGuid>abb74892-c65a-4199-a809-ac7ea5d9f62f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Read the survey findings' or . = 'Read the survey findings')]</value>
+      <webElementGuid>507091b9-6abb-4949-8216-f44033ff7258</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

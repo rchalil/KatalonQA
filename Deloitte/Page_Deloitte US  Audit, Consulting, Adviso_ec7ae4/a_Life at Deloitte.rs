@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Life at Deloitte</name>
+   <tag></tag>
+   <elementGuidId>405260e4-d53c-4618-9b39-6331aadb147c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='list4']/div/div/div[2]/ul/li[5]/h4/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>82036c00-3788-4cde-be8f-7d85c4255c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/us/en/careers/life-at-deloitte.html?icid=top_life-at-deloitte</value>
+      <webElementGuid>f54be595-0d04-4f0d-9cee-cc58d0206061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>53e75734-ded6-4199-b2d5-06363cdb5fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Life at Deloitte</value>
+      <webElementGuid>cbd611c8-771c-47c8-8502-eeb550f44873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list4&quot;)/div[@class=&quot;cmp-pr-nav__menu open menu-hover&quot;]/div[@class=&quot;cmp-container-width aem-Grid aem-Grid--12&quot;]/div[@class=&quot;cmp-pr-nav__menu__links-wrapper aem-GridColumn aem-GridColumn--default--9 aem-GridColumn--phone--12&quot;]/ul[@class=&quot;cmp-pr-nav__menu__links-section aem-Grid aem-Grid--12&quot;]/li[@class=&quot;cmp-pr-nav__menu__item aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12&quot;]/h4[1]/a[1]</value>
+      <webElementGuid>1a1599c6-10c7-4cfa-9e8b-1b865c47714a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='list4']/div/div/div[2]/ul/li[5]/h4/a</value>
+      <webElementGuid>44969b68-4cc1-4d6e-88ff-c71f366a757f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Life at Deloitte')]</value>
+      <webElementGuid>3385a184-5bf2-4513-880b-d109ffddbfeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/us/en/careers/life-at-deloitte.html?icid=top_life-at-deloitte')]</value>
+      <webElementGuid>2de2d03f-925c-4c45-9e75-94c5f2500322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div/div[2]/ul/li[5]/h4/a</value>
+      <webElementGuid>ef1f11d1-000a-42a4-8e16-6c8fd456bfc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/us/en/careers/life-at-deloitte.html?icid=top_life-at-deloitte' and (text() = 'Life at Deloitte' or . = 'Life at Deloitte')]</value>
+      <webElementGuid>d1ae26ba-6949-4252-9bed-295a3f5fe4f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

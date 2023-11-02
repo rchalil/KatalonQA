@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Username is required</name>
+   <tag></tag>
+   <elementGuidId>f97966f7-683d-4b01-8f32-6bb959cbea40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='liveLoginErrorsContainer']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert--error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>320a2721-2c29-410d-a109-d47d0223eb7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert--error</value>
+      <webElementGuid>bb076aa2-85e8-4b07-8ee0-0d8cf6128f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>1874d027-6a75-46ba-b34a-17e6d883547d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Username is required.</value>
+      <webElementGuid>0619baaa-17f8-4e89-9bf8-883a920c7f7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;liveLoginErrorsContainer&quot;)/div[@class=&quot;alert alert--error&quot;]</value>
+      <webElementGuid>f6b5dbd6-db95-43ff-a583-708e628bbfe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='liveLoginErrorsContainer']/div</value>
+      <webElementGuid>f3ce7466-15c5-42fe-b513-ec61e6efcd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>b4d64eb4-a354-4768-9e60-ea96101c65a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Username is required.' or . = ' Username is required.')]</value>
+      <webElementGuid>46fc66a2-3f29-49b1-b3d7-d4648a74a01b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

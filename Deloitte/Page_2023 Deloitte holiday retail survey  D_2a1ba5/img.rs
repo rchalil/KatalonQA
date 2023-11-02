@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>309c647b-271c-41f8-9cf9-88a8bb460563</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='holidayretail-cta-button']/a/div/div[2]/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Download the full survey findings&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>04242461-93a6-4fc1-a1cd-98bb19c2e9a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www2.deloitte.com/content/dam/insights/us/USI-dev/2023/january/pitching-machine/assets/icon-download.svg</value>
+      <webElementGuid>39a33af0-77ea-4e90-bdda-a2dc73a50021</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Download the full survey findings</value>
+      <webElementGuid>65cfc987-dc88-4fc7-a850-d6b19d8d6545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Download the full survey findings</value>
+      <webElementGuid>b4006bb0-9e81-42aa-bfd9-df7c71844958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;holidayretail-cta-button&quot;)/a[1]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;take&quot;]/span[@class=&quot;ml-2 arrow-top-right&quot;]/img[1]</value>
+      <webElementGuid>49f7f606-6570-4f07-9728-6745be4eb322</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='holidayretail-cta-button']/a/div/div[2]/span/img</value>
+      <webElementGuid>d5c5e1e0-2921-49f8-8cac-a047b4cd2d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Download the full survey findings']</value>
+      <webElementGuid>1ac226cb-738e-4d47-ba19-4db2d5c859d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>34c84736-1386-4a9f-b882-828b01b64fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www2.deloitte.com/content/dam/insights/us/USI-dev/2023/january/pitching-machine/assets/icon-download.svg' and @alt = 'Download the full survey findings' and @title = 'Download the full survey findings']</value>
+      <webElementGuid>51947abf-8960-458e-aeff-2c318e4e5290</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

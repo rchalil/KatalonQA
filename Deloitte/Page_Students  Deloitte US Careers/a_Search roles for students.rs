@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Search roles for students</name>
+   <tag></tag>
+   <elementGuidId>9c5ab484-ae4a-4ffa-9324-017bdf1a4f75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='careers-search']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.search-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68b11d8a-5566-4c66-a444-f3f37ad0fa0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search-link</value>
+      <webElementGuid>5d50e3ca-49ab-4774-8583-12f600d191f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://apply.deloitte.com/careers/SearchJobs?sort=relevancy&amp;3_5_3=478,477,480</value>
+      <webElementGuid>98b4078c-e4b3-4f66-8c61-81be72be31a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Search roles for students
+    </value>
+      <webElementGuid>462c412c-df1e-41ef-bde2-4af173eeb1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;careers-search&quot;)/a[@class=&quot;search-link&quot;]</value>
+      <webElementGuid>e909c6ff-6116-427e-925f-040122b61eb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='careers-search']/a</value>
+      <webElementGuid>5d142639-94ee-46f5-b804-0deb17c44a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Search roles for students')]</value>
+      <webElementGuid>edb1cd56-54b1-4761-b852-d83355a0748c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://apply.deloitte.com/careers/SearchJobs?sort=relevancy&amp;3_5_3=478,477,480')]</value>
+      <webElementGuid>abd265cd-c76c-45a8-bf8b-a021d0021fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a</value>
+      <webElementGuid>ed49bd88-e609-46a8-969f-60c146be7cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://apply.deloitte.com/careers/SearchJobs?sort=relevancy&amp;3_5_3=478,477,480' and (text() = '
+        Search roles for students
+    ' or . = '
+        Search roles for students
+    ')]</value>
+      <webElementGuid>0b63182d-b572-4251-a38b-d2e2c442fc5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

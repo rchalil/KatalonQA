@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Experienced Professionals</name>
+   <tag></tag>
+   <elementGuidId>110b4c6f-dad8-492f-96af-9f45706ec45a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='list4']/div/div/div[2]/ul/li[3]/h4/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a5e42d3d-bcef-4452-9afb-15448f3377ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/us/en/careers/experienced-hires.html?icid=top_experienced-hires</value>
+      <webElementGuid>1538b3c4-ab72-485c-af52-0b7054fb9e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>f0d183c5-31ae-444c-806d-72dec090c3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Experienced Professionals</value>
+      <webElementGuid>b2203248-ebf7-42d2-acae-09334db8cfae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list4&quot;)/div[@class=&quot;cmp-pr-nav__menu open menu-hover&quot;]/div[@class=&quot;cmp-container-width aem-Grid aem-Grid--12&quot;]/div[@class=&quot;cmp-pr-nav__menu__links-wrapper aem-GridColumn aem-GridColumn--default--9 aem-GridColumn--phone--12&quot;]/ul[@class=&quot;cmp-pr-nav__menu__links-section aem-Grid aem-Grid--12&quot;]/li[@class=&quot;cmp-pr-nav__menu__item aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--phone--12 navigation-column&quot;]/h4[1]/a[1]</value>
+      <webElementGuid>d42c1da2-1770-4fc3-ac6d-bf3bbe89f649</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='list4']/div/div/div[2]/ul/li[3]/h4/a</value>
+      <webElementGuid>86bdb51f-9fe0-40b6-98af-d3b2fe9b758d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Experienced Professionals')]</value>
+      <webElementGuid>23ce79b6-6dfb-4e00-aacc-8930082a6d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/us/en/careers/experienced-hires.html?icid=top_experienced-hires')]</value>
+      <webElementGuid>18560c8e-f437-45eb-81c7-17e9fe322883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div/div[2]/ul/li[3]/h4/a</value>
+      <webElementGuid>2b75bcbe-95cf-4c8b-a739-83c01153b38a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/us/en/careers/experienced-hires.html?icid=top_experienced-hires' and (text() = 'Experienced Professionals' or . = 'Experienced Professionals')]</value>
+      <webElementGuid>5e5f521c-3523-4cb8-bafe-14e5c3e22820</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

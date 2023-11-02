@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Life Sciences</name>
+   <tag></tag>
+   <elementGuidId>28b4f9ae-6781-4066-8ba4-09d0e912640a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Life Sciences')])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a.label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>85d1e586-1dab-4a56-bd3e-c615c776ca05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/us/en/pages/life-sciences-and-health-care/topics/life-sciences.html?icid=nav2_life-sciences</value>
+      <webElementGuid>0d2b4ef9-93af-4ca7-a44f-b6fe339bb2a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e4d8dddb-afbe-4074-959b-247e45613648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>09186487-f0f6-4795-b930-a3f7964f9f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Life Sciences</value>
+      <webElementGuid>32ce0b68-6966-420e-8826-14f83465d3d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-flash no-applicationcache geolocation history postmessage svg websockets supports no-microdata localstorage sessionstorage websqldatabase svgfilters webworkers hashchange audio canvas canvastext video webgl cssgradients multiplebgs opacity rgba placeholder inlinesvg no-touchevents checked fontface generatedcontent hairline lastchild nthchild cssscrollbar hsla formvalidation no-localizednumber svgclippaths smil svgasimg textshadow cssanimations bgpositionxy backgroundsize bgsizecover borderimage borderradius boxshadow boxsizing csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside ellipsis flexbox flexboxlegacy cssreflections csstransforms csstransforms3d csstransitions no-forcetouch indexeddb indexeddb-deletedatabase no-flash no-applicationcache geolocation history postmessage svg websockets supports no-microdata localstorage sessionstorage websqldatabase svgfilters webworkers hashchange audio canvas canvastext video webgl cssgradients multiplebgs opacity rgba placeholder inlinesvg no-touchevents checked fontface generatedcontent hairline lastchild nthchild cssscrollbar hsla formvalidation no-localizednumber svgclippaths smil svgasimg textshadow cssanimations bgpositionxy backgroundsize bgsizecover borderimage borderradius boxshadow boxsizing csscolumns csscolumns-width csscolumns-span csscolumns-fill csscolumns-gap csscolumns-rule csscolumns-rulecolor csscolumns-rulestyle csscolumns-rulewidth csscolumns-breakbefore csscolumns-breakafter csscolumns-breakinside ellipsis flexbox flexboxlegacy cssreflections csstransforms csstransforms3d csstransitions no-forcetouch indexeddb indexeddb-deletedatabase no-csshyphens softhyphens softhyphensfind no-csshyphens softhyphens softhyphensfind&quot;]/body[@class=&quot;ccm-enabled ng-scope&quot;]/div[@class=&quot;wrapper topic-page&quot;]/div[@class=&quot;extended-background&quot;]/div[@class=&quot;tier&quot;]/div[@class=&quot;col-100&quot;]/div[@class=&quot;topic-link-list tabbed-nav fade-load&quot;]/ul[1]/li[3]/a[@class=&quot;label&quot;]</value>
+      <webElementGuid>2f5dd518-a52d-4c4f-9f19-f6b74f7d2778</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Life Sciences')])[4]</value>
+      <webElementGuid>5252eff9-dc48-42d9-9b52-3754e5f09e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/us/en/pages/life-sciences-and-health-care/topics/life-sciences.html?icid=nav2_life-sciences')]</value>
+      <webElementGuid>fb70b336-d9b2-4ad6-96e2-54a8389c666d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>f6dd712b-7ce7-4334-8536-c166de3a780c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/us/en/pages/life-sciences-and-health-care/topics/life-sciences.html?icid=nav2_life-sciences' and (text() = 'Life Sciences' or . = 'Life Sciences')]</value>
+      <webElementGuid>d8740f85-dcb3-4b57-a366-a15dbea37a44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
