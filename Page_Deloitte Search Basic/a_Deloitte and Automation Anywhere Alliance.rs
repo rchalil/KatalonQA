@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Deloitte and Automation Anywhere Alliance</name>
+   <tag></tag>
+   <elementGuidId>502b9e8d-199c-4d9d-9e38-2735e2d6da4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.cmp-search-list__headline.cmp-search__headline > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e2cd0543-da3e-4938-abd5-01e82328431b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/us/en/pages/consulting/solutions/automation-anywhere.html</value>
+      <webElementGuid>265a496d-bd2a-4492-8811-7ce23cbba168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deloitte and Automation Anywhere Alliance</value>
+      <webElementGuid>9ac66b3f-8269-46f9-9edb-968f790aec1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cmp-search-page&quot;)/div[@class=&quot;aem-Grid aem-Grid--10&quot;]/div[@class=&quot;cmp-search-page__content aem-GridColumn aem-GridColumn--default--8&quot;]/div[@class=&quot;cmp-search-page__search&quot;]/ds-results-list[1]/ul[@class=&quot;cmp-search-list&quot;]/li[1]/ds-solution[@class=&quot;cmp-search-list__item BI-search—result&quot;]/div[@class=&quot;cmp-search-list__content&quot;]/h2[@class=&quot;cmp-search-list__headline cmp-search__headline&quot;]/a[1]</value>
+      <webElementGuid>09cda453-53f9-480f-af84-7a7fea285291</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a</value>
+      <webElementGuid>8ae1ef99-7ec5-41d1-97b4-2bf6ae5bef60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Deloitte and Automation Anywhere Alliance')]</value>
+      <webElementGuid>14ef13c7-2f28-4930-8252-29698af9d89d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/us/en/pages/consulting/solutions/automation-anywhere.html')])[2]</value>
+      <webElementGuid>af8165fe-a7da-4bce-813a-2bc25059dc65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>0bd193ee-aa08-4d54-802c-9fb471604b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/us/en/pages/consulting/solutions/automation-anywhere.html' and (text() = 'Deloitte and Automation Anywhere Alliance' or . = 'Deloitte and Automation Anywhere Alliance')]</value>
+      <webElementGuid>d57b36c0-010b-481e-9fa8-695096caba0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

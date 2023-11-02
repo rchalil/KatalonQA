@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Get started</name>
+   <tag></tag>
+   <elementGuidId>694c159b-bf84-4d1d-9238-4370f6c9d4c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.get-started-button.trackable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc23aab1-4fc4-47b4-bc21-e86731761fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>get-started-button trackable</value>
+      <webElementGuid>9f471981-39ad-4123-b0ce-6b2d6d48a64d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-name</name>
+      <type>Main</type>
+      <value>Get started header Button Clicked</value>
+      <webElementGuid>11a24f34-90cd-4b46-b20b-3d4b126b3969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-label</name>
+      <type>Main</type>
+      <value>Business Outcome Page</value>
+      <webElementGuid>ed2ca3ea-00d3-45a1-9e06-d1040767ce91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-category</name>
+      <type>Main</type>
+      <value>User acquisition</value>
+      <webElementGuid>fcc22036-5cb7-4310-be29-2287268ed9c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get started</value>
+      <webElementGuid>be4d7001-2656-4565-bee0-70542209ef63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;BusinessOutcomes_wrapBusinessOutcome__StnZ3&quot;]/section[@class=&quot;hero-section&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;get-started-button trackable&quot;]</value>
+      <webElementGuid>cebc8798-466e-441b-931a-2e5ba6462822</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section/div/div</value>
+      <webElementGuid>0a0bdb4f-4b18-489b-ba30-babdab07d034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div/div</value>
+      <webElementGuid>40d4df4a-614d-4d2a-9c3c-ebd52c3b0484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Get started' or . = 'Get started')]</value>
+      <webElementGuid>903f58cd-531f-4034-98c5-34797836717c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

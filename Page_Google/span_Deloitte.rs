@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Deloitte</name>
+   <tag></tag>
+   <elementGuidId>5f763832-d73f-4abc-86c5-ceebb7185789</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jZ2SBf']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wM6W7d > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94cde203-b846-4bb0-8896-13a9d7d90203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deloitte</value>
+      <webElementGuid>0dd28a0b-1566-45b4-b9fc-ef26f2866e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jZ2SBf&quot;)/div[@class=&quot;wM6W7d&quot;]/span[1]</value>
+      <webElementGuid>9985b98a-b9ff-48a1-a8bc-1ad8fa62325e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jZ2SBf']/div/span</value>
+      <webElementGuid>7963726f-a44f-4adc-9b0e-c8039b9ae267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>1fbe7476-4a8c-4613-b2f5-953f7a32d8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Deloitte' or . = 'Deloitte')]</value>
+      <webElementGuid>c8b0ff0f-8b05-49fd-86f2-3628f8799f3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
