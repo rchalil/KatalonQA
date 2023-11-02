@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reshna - PMI Suite1,Edge Chromium 118,,,2023-10-31 23:55:11,2023-10-31 23:55:40,28.390s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the 3 languages present in PMI,Edge Chromium 118,,,2023-10-31 23:55:12,2023-10-31 23:55:26,14.307s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 118,,,2023-10-31 23:55:12,2023-10-31 23:55:12,0.079s,PASSED
+"openBrowser("""")",Edge Chromium 118,,,2023-10-31 23:55:12,2023-10-31 23:55:16,4.435s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Edge Chromium 118,,,2023-10-31 23:55:16,2023-10-31 23:55:21,4.401s,PASSED
+maximizeWindow(),Edge Chromium 118,,,2023-10-31 23:55:21,2023-10-31 23:55:21,0.449s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/span_OK""))",Edge Chromium 118,,,2023-10-31 23:55:21,2023-10-31 23:55:23,1.865s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_View in English""), ""View in English"")",Edge Chromium 118,,,2023-10-31 23:55:23,2023-10-31 23:55:25,1.382s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Ver en Espaol""), ""Ver en Español"")",Edge Chromium 118,,,2023-10-31 23:55:25,2023-10-31 23:55:25,0.506s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Veja em Portugus""), ""Veja em Português"")",Edge Chromium 118,,,2023-10-31 23:55:25,2023-10-31 23:55:25,0.350s,PASSED
+closeBrowser(),Edge Chromium 118,,,2023-10-31 23:55:25,2023-10-31 23:55:26,0.578s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 118,,,2023-10-31 23:55:26,2023-10-31 23:55:26,0.005s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the spanish language in PMI,Edge Chromium 118,,,2023-10-31 23:55:26,2023-10-31 23:55:40,13.758s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 118,,,2023-10-31 23:55:26,2023-10-31 23:55:26,0.004s,PASSED
+"openBrowser("""")",Edge Chromium 118,,,2023-10-31 23:55:26,2023-10-31 23:55:29,2.688s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Edge Chromium 118,,,2023-10-31 23:55:29,2023-10-31 23:55:33,3.712s,PASSED
+maximizeWindow(),Edge Chromium 118,,,2023-10-31 23:55:33,2023-10-31 23:55:33,0.253s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/span_OK""))",Edge Chromium 118,,,2023-10-31 23:55:33,2023-10-31 23:55:34,1.327s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Ver en Espaol""))",Edge Chromium 118,,,2023-10-31 23:55:34,2023-10-31 23:55:39,4.649s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/PMI/Page_Just a moment/h1_www.pmi.org""), 0)",Edge Chromium 118,,,2023-10-31 23:55:39,2023-10-31 23:55:39,0.400s,PASSED
+closeBrowser(),Edge Chromium 118,,,2023-10-31 23:55:39,2023-10-31 23:55:40,0.563s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 118,,,2023-10-31 23:55:40,2023-10-31 23:55:40,0.002s,PASSED

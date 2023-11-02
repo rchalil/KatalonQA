@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reshna - Katalon Suite4,Chrome 118.0.0.0,,,2023-10-31 23:32:31,2023-10-31 23:32:55,23.551s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Katalon version,Chrome 118.0.0.0,,,2023-10-31 23:32:32,2023-10-31 23:32:43,11.793s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 23:32:32,2023-10-31 23:32:32,0.114s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 23:32:32,2023-10-31 23:32:37,4.589s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-10-31 23:32:37,2023-10-31 23:32:40,3.496s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 23:32:40,2023-10-31 23:32:40,0.308s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-10-31 23:32:40,2023-10-31 23:32:42,1.641s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/span_Katalon Studio 9.0.0""), ""Katalon Studio 9.0.0"")",Chrome 118.0.0.0,,,2023-10-31 23:32:42,2023-10-31 23:32:43,0.646s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 23:32:43,2023-10-31 23:32:43,0.731s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 23:32:43,2023-10-31 23:32:43,0.009s,PASSED
+,,,,,,,
+Test Cases/Katalon - Why katelon verification,Chrome 118.0.0.0,,,2023-10-31 23:32:43,2023-10-31 23:32:55,11.476s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 23:32:44,2023-10-31 23:32:44,0.005s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 23:32:44,2023-10-31 23:32:47,2.995s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-10-31 23:32:47,2023-10-31 23:32:50,3.018s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 23:32:50,2023-10-31 23:32:50,0.249s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-10-31 23:32:50,2023-10-31 23:32:52,2.082s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Chrome 118.0.0.0,,,2023-10-31 23:32:52,2023-10-31 23:32:53,0.696s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Easy, speed""), ""Easy, speed"")",Chrome 118.0.0.0,,,2023-10-31 23:32:53,2023-10-31 23:32:53,0.484s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Flexibility, Scalability""), ""Flexibility, Scalability"")",Chrome 118.0.0.0,,,2023-10-31 23:32:53,2023-10-31 23:32:53,0.323s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Visibility""), 0)",Chrome 118.0.0.0,,,2023-10-31 23:32:53,2023-10-31 23:32:54,0.361s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Innovation  AI""), ""Innovation & AI"")",Chrome 118.0.0.0,,,2023-10-31 23:32:54,2023-10-31 23:32:54,0.359s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Low cost, high ROI""), ""Low cost, high ROI"")",Chrome 118.0.0.0,,,2023-10-31 23:32:54,2023-10-31 23:32:55,0.440s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 23:32:55,2023-10-31 23:32:55,0.321s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 23:32:55,2023-10-31 23:32:55,0.002s,PASSED

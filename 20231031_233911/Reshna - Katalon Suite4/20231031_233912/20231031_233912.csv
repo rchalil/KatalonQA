@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reshna - Katalon Suite4,Edge Chromium 118,,,2023-10-31 23:39:16,2023-10-31 23:39:55,38.255s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Katalon version,Edge Chromium 118,,,2023-10-31 23:39:16,2023-10-31 23:39:28,11.586s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 118,,,2023-10-31 23:39:17,2023-10-31 23:39:17,0.059s,PASSED
+"openBrowser("""")",Edge Chromium 118,,,2023-10-31 23:39:17,2023-10-31 23:39:21,4.157s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Edge Chromium 118,,,2023-10-31 23:39:21,2023-10-31 23:39:24,3.274s,PASSED
+maximizeWindow(),Edge Chromium 118,,,2023-10-31 23:39:24,2023-10-31 23:39:24,0.321s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Edge Chromium 118,,,2023-10-31 23:39:24,2023-10-31 23:39:27,2.619s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/span_Katalon Studio 9.0.0""), ""Katalon Studio 9.0.0"")",Edge Chromium 118,,,2023-10-31 23:39:27,2023-10-31 23:39:28,0.477s,PASSED
+closeBrowser(),Edge Chromium 118,,,2023-10-31 23:39:28,2023-10-31 23:39:28,0.502s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 118,,,2023-10-31 23:39:28,2023-10-31 23:39:28,0.004s,PASSED
+,,,,,,,
+Test Cases/Katalon - Why katelon verification,Edge Chromium 118,,,2023-10-31 23:39:28,2023-10-31 23:39:41,13.319s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 118,,,2023-10-31 23:39:28,2023-10-31 23:39:28,0.002s,PASSED
+"openBrowser("""")",Edge Chromium 118,,,2023-10-31 23:39:28,2023-10-31 23:39:31,3.256s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Edge Chromium 118,,,2023-10-31 23:39:31,2023-10-31 23:39:35,3.526s,PASSED
+maximizeWindow(),Edge Chromium 118,,,2023-10-31 23:39:35,2023-10-31 23:39:35,0.274s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Edge Chromium 118,,,2023-10-31 23:39:35,2023-10-31 23:39:38,2.766s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Edge Chromium 118,,,2023-10-31 23:39:38,2023-10-31 23:39:39,0.588s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Easy, speed""), ""Easy, speed"")",Edge Chromium 118,,,2023-10-31 23:39:39,2023-10-31 23:39:39,0.592s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Flexibility, Scalability""), ""Flexibility, Scalability"")",Edge Chromium 118,,,2023-10-31 23:39:39,2023-10-31 23:39:40,0.376s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Visibility""), 0)",Edge Chromium 118,,,2023-10-31 23:39:40,2023-10-31 23:39:40,0.497s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Innovation  AI""), ""Innovation & AI"")",Edge Chromium 118,,,2023-10-31 23:39:40,2023-10-31 23:39:40,0.325s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Low cost, high ROI""), ""Low cost, high ROI"")",Edge Chromium 118,,,2023-10-31 23:39:40,2023-10-31 23:39:41,0.309s,PASSED
+closeBrowser(),Edge Chromium 118,,,2023-10-31 23:39:41,2023-10-31 23:39:41,0.642s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 118,,,2023-10-31 23:39:41,2023-10-31 23:39:41,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Contact an expert in Katalon,Edge Chromium 118,,,2023-10-31 23:39:41,2023-10-31 23:39:55,13.132s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 118,,,2023-10-31 23:39:41,2023-10-31 23:39:41,0.002s,PASSED
+"openBrowser("""")",Edge Chromium 118,,,2023-10-31 23:39:41,2023-10-31 23:39:44,2.810s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Edge Chromium 118,,,2023-10-31 23:39:44,2023-10-31 23:39:48,3.411s,PASSED
+maximizeWindow(),Edge Chromium 118,,,2023-10-31 23:39:48,2023-10-31 23:39:48,0.145s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Edge Chromium 118,,,2023-10-31 23:39:48,2023-10-31 23:39:50,2.374s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us""))",Edge Chromium 118,,,2023-10-31 23:39:50,2023-10-31 23:39:53,2.317s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/div_Contact an expert""))",Edge Chromium 118,,,2023-10-31 23:39:53,2023-10-31 23:39:54,1.093s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/div_Submit""), 0)",Edge Chromium 118,,,2023-10-31 23:39:54,2023-10-31 23:39:54,0.354s,PASSED
+closeBrowser(),Edge Chromium 118,,,2023-10-31 23:39:54,2023-10-31 23:39:55,0.512s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 118,,,2023-10-31 23:39:55,2023-10-31 23:39:55,0.002s,PASSED
