@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Reshna - Deloitte Suite1" time="55.232" tests="2" failures="0" errors="0">
+   <testsuite name="Reshna - Deloitte Suite1" tests="2" failures="0" errors="0" time="55.232" skipped="0" timestamp="2023-10-31 22:25:58" hostname="rchalil - USPRNRCHALIL2.us.deloitte.com" id="Test Suites/Reshna - Deloitte Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231031_222551\\Reshna - Deloitte Suite1\\20231031_222551"/>
+         <property name="logFiles" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231031_222551\\Reshna - Deloitte Suite1\\20231031_222551\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="rchalil - USPRNRCHALIL2.us.deloitte.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+         <property name="browser" value="Chrome 118.0.0.0"/>
+         <property name="hostAddress" value="10.0.0.182"/>
+         <property name="sessionId" value="880e3b4ca4b3d30a451fc283b64b59fa"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Deloitte - Search job within Deloitte Careers" time="40.079" classname="Test Cases/Deloitte - Search job within Deloitte Careers" status="PASSED">
+         <system-out><![CDATA[2023-10-31 22:25:58 - [TEST_CASE][PASSED] - Test Cases/Deloitte - Search job within Deloitte Careers: Test Cases/Deloitte - Search job within Deloitte Careers
+
+2023-10-31 22:25:58 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-31 22:25:58 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 22:25:58 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-31 22:25:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-31 22:25:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-31 22:25:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-31 22:26:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-31 22:26:03 - [TEST_STEP][PASSED] - navigateToUrl("https://www2.deloitte.com/us/en.html"): Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-10-31 22:26:05 - [MESSAGE][PASSED] - Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-10-31 22:26:05 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-10-31 22:26:06 - [MESSAGE][PASSED] - Current window maximized
+
+2023-10-31 22:26:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-10-31 22:26:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-10-31 22:26:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-chevron")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-chevron' is clicked on
+
+2023-10-31 22:26:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-chevron' is clicked on
+
+2023-10-31 22:26:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Experienced Professionals")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Experienced Professionals' is clicked on
+
+2023-10-31 22:26:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Experienced Professionals' is clicked on
+
+2023-10-31 22:26:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Experienced Hires  Deloitte US/a_Search roles for experienced hires")): Object: 'Object Repository/Deloitte/Page_Experienced Hires  Deloitte US/a_Search roles for experienced hires' is clicked on
+
+2023-10-31 22:26:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Experienced Hires  Deloitte US/a_Search roles for experienced hires' is clicked on
+
+2023-10-31 22:26:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Job Search  Deloitte US/input_search")): Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/input_search' is clicked on
+
+2023-10-31 22:26:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/input_search' is clicked on
+
+2023-10-31 22:26:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_c168f5")): Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_c168f5' is clicked on
+
+2023-10-31 22:26:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_c168f5' is clicked on
+
+2023-10-31 22:26:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Aguascalientes")): Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Aguascalientes' is clicked on
+
+2023-10-31 22:26:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Aguascalientes' is clicked on
+
+2023-10-31 22:26:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_af5ac6")): Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_af5ac6' is clicked on
+
+2023-10-31 22:26:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_af5ac6' is clicked on
+
+2023-10-31 22:26:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Aguascalientes_1")): Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Aguascalientes_1' is clicked on
+
+2023-10-31 22:26:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Aguascalientes_1' is clicked on
+
+2023-10-31 22:26:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_27cdb3")): Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_27cdb3' is clicked on
+
+2023-10-31 22:26:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_27cdb3' is clicked on
+
+2023-10-31 22:26:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Consulting")): Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Consulting' is clicked on
+
+2023-10-31 22:26:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Consulting' is clicked on
+
+2023-10-31 22:26:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Job Search  Deloitte US/button_Search")): Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/button_Search' is clicked on
+
+2023-10-31 22:26:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Job Search  Deloitte US/button_Search' is clicked on
+
+2023-10-31 22:26:37 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Deloitte/Page_Job Search  Deloitte US/div_3 jobs                                 _be6295"), 0): Object 'Object Repository/Deloitte/Page_Job Search  Deloitte US/div_3 jobs                                 _be6295' is present
+
+2023-10-31 22:26:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 22:26:38 - [MESSAGE][PASSED] - Object 'Object Repository/Deloitte/Page_Job Search  Deloitte US/div_3 jobs                                 _be6295' is present
+
+2023-10-31 22:26:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-31 22:26:38 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-31 22:26:38 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-31 22:26:38 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 22:26:38 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Download Deloitte Survey findins - Switch Window" time="14.796" classname="Test Cases/Download Deloitte Survey findins - Switch Window" status="PASSED">
+         <system-out><![CDATA[2023-10-31 22:26:38 - [TEST_CASE][PASSED] - Test Cases/Download Deloitte Survey findins - Switch Window: Test Cases/Download Deloitte Survey findins - Switch Window
+
+2023-10-31 22:26:38 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-31 22:26:38 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 22:26:38 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-31 22:26:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-31 22:26:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-31 22:26:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-31 22:26:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-31 22:26:41 - [TEST_STEP][PASSED] - navigateToUrl("https://www2.deloitte.com/us/en.html"): Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-10-31 22:26:44 - [MESSAGE][PASSED] - Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-10-31 22:26:44 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-10-31 22:26:44 - [MESSAGE][PASSED] - Current window maximized
+
+2023-10-31 22:26:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-10-31 22:26:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-10-31 22:26:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings' is clicked on
+
+2023-10-31 22:26:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings' is clicked on
+
+2023-10-31 22:26:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img")): Object: 'Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img' is clicked on
+
+2023-10-31 22:26:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img' is clicked on
+
+2023-10-31 22:26:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-31 22:26:53 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-31 22:26:53 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-31 22:26:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 22:26:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-10-31 22:25:58 - [TEST_SUITE][PASSED] - Reshna - Deloitte Suite1: Test Cases/Download Deloitte Survey findins - Switch Window]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

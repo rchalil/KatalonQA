@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reshna - Deloitte Suite2,Chrome 118.0.0.0,,,2023-10-31 22:52:11,2023-10-31 22:52:45,34.165s,PASSED
+,,,,,,,
+Test Cases/Deloitte - Careers Test,Chrome 118.0.0.0,,,2023-10-31 22:52:11,2023-10-31 22:52:30,18.527s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 22:52:11,2023-10-31 22:52:11,0.075s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 22:52:11,2023-10-31 22:52:15,3.934s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-10-31 22:52:15,2023-10-31 22:52:18,2.646s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 22:52:18,2023-10-31 22:52:18,0.216s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-10-31 22:52:18,2023-10-31 22:52:23,4.959s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Careers""))",Chrome 118.0.0.0,,,2023-10-31 22:52:23,2023-10-31 22:52:24,0.665s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life at Deloitte""))",Chrome 118.0.0.0,,,2023-10-31 22:52:24,2023-10-31 22:52:26,2.527s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_OurPeople""), 0)",Chrome 118.0.0.0,,,2023-10-31 22:52:26,2023-10-31 22:52:27,0.841s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_Culture""), 0)",Chrome 118.0.0.0,,,2023-10-31 22:52:27,2023-10-31 22:52:27,0.353s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_Careers""), 0)",Chrome 118.0.0.0,,,2023-10-31 22:52:27,2023-10-31 22:52:28,0.328s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_WhyDeloitte""), 0)",Chrome 118.0.0.0,,,2023-10-31 22:52:28,2023-10-31 22:52:28,0.303s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_Careers""))",Chrome 118.0.0.0,,,2023-10-31 22:52:28,2023-10-31 22:52:28,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/img_careers-thumbnail-img""))",Chrome 118.0.0.0,,,2023-10-31 22:52:28,2023-10-31 22:52:29,0.497s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 22:52:29,2023-10-31 22:52:29,0.526s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 22:52:29,2023-10-31 22:52:30,0.006s,PASSED
+,,,,,,,
+Test Cases/Verify Tax in Deloitte website,Chrome 118.0.0.0,,,2023-10-31 22:52:30,2023-10-31 22:52:45,15.378s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 22:52:30,2023-10-31 22:52:30,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 22:52:30,2023-10-31 22:52:32,2.660s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-10-31 22:52:32,2023-10-31 22:52:35,2.794s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 22:52:35,2023-10-31 22:52:35,0.243s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-10-31 22:52:35,2023-10-31 22:52:40,5.002s,PASSED
+"setText(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c""), ""tax"")",Chrome 118.0.0.0,,,2023-10-31 22:52:40,2023-10-31 22:52:41,1.020s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search""))",Chrome 118.0.0.0,,,2023-10-31 22:52:41,2023-10-31 22:52:44,2.491s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Deloitte Search Basic/h1_Results for tax""), 0)",Chrome 118.0.0.0,,,2023-10-31 22:52:44,2023-10-31 22:52:45,0.693s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 22:52:45,2023-10-31 22:52:45,0.367s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 22:52:45,2023-10-31 22:52:45,0.002s,PASSED

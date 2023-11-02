@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reshna - Deloitte Suite1,Chrome 118.0.0.0,,,2023-10-31 22:25:58,2023-10-31 22:26:53,55.232s,PASSED
+,,,,,,,
+Test Cases/Deloitte - Search job within Deloitte Careers,Chrome 118.0.0.0,,,2023-10-31 22:25:58,2023-10-31 22:26:38,40.079s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 22:25:58,2023-10-31 22:25:58,0.124s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 22:25:59,2023-10-31 22:26:03,4.315s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-10-31 22:26:03,2023-10-31 22:26:05,2.388s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 22:26:05,2023-10-31 22:26:06,0.356s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-10-31 22:26:06,2023-10-31 22:26:11,5.200s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-chevron""))",Chrome 118.0.0.0,,,2023-10-31 22:26:11,2023-10-31 22:26:12,0.743s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Experienced Professionals""))",Chrome 118.0.0.0,,,2023-10-31 22:26:12,2023-10-31 22:26:15,3.526s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Experienced Hires  Deloitte US/a_Search roles for experienced hires""))",Chrome 118.0.0.0,,,2023-10-31 22:26:15,2023-10-31 22:26:20,4.454s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/input_search""))",Chrome 118.0.0.0,,,2023-10-31 22:26:20,2023-10-31 22:26:20,0.479s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_c168f5""))",Chrome 118.0.0.0,,,2023-10-31 22:26:20,2023-10-31 22:26:23,2.486s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Aguascalientes""))",Chrome 118.0.0.0,,,2023-10-31 22:26:23,2023-10-31 22:26:23,0.723s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_af5ac6""))",Chrome 118.0.0.0,,,2023-10-31 22:26:23,2023-10-31 22:26:26,2.755s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Aguascalientes_1""))",Chrome 118.0.0.0,,,2023-10-31 22:26:26,2023-10-31 22:26:27,0.680s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/span_select2-selection select2-selection--m_27cdb3""))",Chrome 118.0.0.0,,,2023-10-31 22:26:27,2023-10-31 22:26:29,2.703s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/li_Consulting""))",Chrome 118.0.0.0,,,2023-10-31 22:26:29,2023-10-31 22:26:30,0.686s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/button_Search""))",Chrome 118.0.0.0,,,2023-10-31 22:26:30,2023-10-31 22:26:37,7.006s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/div_3 jobs                                 _be6295""), 0)",Chrome 118.0.0.0,,,2023-10-31 22:26:37,2023-10-31 22:26:38,0.689s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 22:26:38,2023-10-31 22:26:38,0.447s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 22:26:38,2023-10-31 22:26:38,0.005s,PASSED
+,,,,,,,
+Test Cases/Download Deloitte Survey findins - Switch Window,Chrome 118.0.0.0,,,2023-10-31 22:26:38,2023-10-31 22:26:53,14.796s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 22:26:38,2023-10-31 22:26:38,0.005s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 22:26:38,2023-10-31 22:26:41,2.905s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-10-31 22:26:41,2023-10-31 22:26:44,2.484s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 22:26:44,2023-10-31 22:26:44,0.351s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-10-31 22:26:44,2023-10-31 22:26:49,4.549s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings""))",Chrome 118.0.0.0,,,2023-10-31 22:26:49,2023-10-31 22:26:51,2.831s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img""))",Chrome 118.0.0.0,,,2023-10-31 22:26:51,2023-10-31 22:26:53,1.058s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 22:26:53,2023-10-31 22:26:53,0.485s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 22:26:53,2023-10-31 22:26:53,0.002s,PASSED
