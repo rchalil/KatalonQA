@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Gmail/Page_Gmail/span_Next",
+      "brokenLocator": "//div[@id\u003d\u0027identifierNext\u0027]/div/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/div/button/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231101_114432/Reshna - Gmail Suite/20231101_114433/Object Repository/Gmail/Page_Gmail/span_Next_position.png"
+    }
+  ]
+}

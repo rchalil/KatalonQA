@@ -1,0 +1,796 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reshna - All TCs Suite2,Chrome 118.0.0.0,,,2023-11-01 10:06:23,2023-11-01 10:28:01,21m - 38.662s,FAILED
+,,,,,,,
+Test Cases/Deloitte - Careers Test,Chrome 118.0.0.0,,,2023-11-01 10:06:23,2023-11-01 10:06:48,25.076s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:06:23,2023-11-01 10:06:23,0.073s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:06:23,2023-11-01 10:06:27,4.266s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:06:27,2023-11-01 10:06:31,3.481s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:06:31,2023-11-01 10:06:31,0.318s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:06:31,2023-11-01 10:06:36,4.733s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Careers""))",Chrome 118.0.0.0,,,2023-11-01 10:06:36,2023-11-01 10:06:37,0.963s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life at Deloitte""))",Chrome 118.0.0.0,,,2023-11-01 10:06:37,2023-11-01 10:06:45,8.036s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_OurPeople""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:06:45,2023-11-01 10:06:46,0.651s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_Culture""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:06:46,2023-11-01 10:06:46,0.303s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_Careers""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:06:46,2023-11-01 10:06:46,0.303s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_WhyDeloitte""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:06:46,2023-11-01 10:06:47,0.322s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_Careers""))",Chrome 118.0.0.0,,,2023-11-01 10:06:47,2023-11-01 10:06:47,0.405s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/img_careers-thumbnail-img""))",Chrome 118.0.0.0,,,2023-11-01 10:06:47,2023-11-01 10:06:48,0.511s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:06:48,2023-11-01 10:06:48,0.470s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:06:48,2023-11-01 10:06:48,0.005s,PASSED
+,,,,,,,
+Test Cases/Deloitte - dropdown value selection test,Chrome 118.0.0.0,,,2023-11-01 10:06:48,2023-11-01 10:07:05,17.017s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:06:48,2023-11-01 10:06:48,0.003s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:06:48,2023-11-01 10:06:51,2.807s,PASSED
+"navigateToUrl(""https://apply.deloitte.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:06:51,2023-11-01 10:06:54,2.595s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:06:54,2023-11-01 10:06:54,0.149s,PASSED
+"setText(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/input9336-search__field""), ""new"")",Chrome 118.0.0.0,,,2023-11-01 10:06:54,2023-11-01 10:06:54,0.831s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/li_New Jersey""))",Chrome 118.0.0.0,,,2023-11-01 10:06:54,2023-11-01 10:06:56,1.772s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/button_Search""))",Chrome 118.0.0.0,,,2023-11-01 10:06:56,2023-11-01 10:07:03,7.133s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/div_2 jobs                                 _eba8a8""))",Chrome 118.0.0.0,,,2023-11-01 10:07:03,2023-11-01 10:07:04,0.683s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/div_2 jobs                                 _eba8a8""))",Chrome 118.0.0.0,,,2023-11-01 10:07:04,2023-11-01 10:07:04,0.324s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/div_2 jobs                                 _eba8a8""))",Chrome 118.0.0.0,,,2023-11-01 10:07:04,2023-11-01 10:07:05,0.330s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:07:05,2023-11-01 10:07:05,0.285s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:07:05,2023-11-01 10:07:05,0.002s,PASSED
+,,,,,,,
+Test Cases/Deloitte - Search job within Deloitte Careers,Chrome 118.0.0.0,,,2023-11-01 10:07:46,2023-11-01 10:07:59,12.384s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:07:46,2023-11-01 10:07:46,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:07:46,2023-11-01 10:07:50,3.137s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:07:50,2023-11-01 10:07:52,2.359s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:07:52,2023-11-01 10:07:52,0.375s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:07:52,2023-11-01 10:07:57,5.121s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search""))",Chrome 118.0.0.0,,,2023-11-01 10:07:57,2023-11-01 10:07:58,0.718s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Experienced Professionals""))",Chrome 118.0.0.0,,,2023-11-01 10:07:58,2023-11-01 10:07:59,0.652s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:07:59,2023-11-01 10:07:59,0.001s,PASSED
+,,,,,,,
+Test Cases/Deloitte - Verify Deloitte Login with invalid credentials,Chrome 118.0.0.0,,,2023-11-01 10:07:59,2023-11-01 10:08:09,9.821s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:07:59,2023-11-01 10:07:59,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:07:59,2023-11-01 10:08:02,3.279s,PASSED
+"navigateToUrl(""https://apply.deloitte.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:08:02,2023-11-01 10:08:05,2.609s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:08:05,2023-11-01 10:08:05,0.129s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/a_Login""))",Chrome 118.0.0.0,,,2023-11-01 10:08:05,2023-11-01 10:08:06,1.344s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Login  Deloitte US/button_Log in""))",Chrome 118.0.0.0,,,2023-11-01 10:08:06,2023-11-01 10:08:07,1.245s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Deloitte/Page_Login  Deloitte US/div_Username is required""), ""Username is required."")",Chrome 118.0.0.0,,,2023-11-01 10:08:07,2023-11-01 10:08:08,0.560s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Deloitte/Page_Login  Deloitte US/div_Password is required""), ""Password is required."")",Chrome 118.0.0.0,,,2023-11-01 10:08:08,2023-11-01 10:08:08,0.299s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:08:08,2023-11-01 10:08:09,0.257s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:08:09,2023-11-01 10:08:09,0.001s,PASSED
+,,,,,,,
+Test Cases/Download Deloitte Survey findins - Switch Window,Chrome 118.0.0.0,,,2023-11-01 10:08:09,2023-11-01 10:08:26,16.895s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:08:09,2023-11-01 10:08:09,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:08:09,2023-11-01 10:08:12,3.211s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:08:12,2023-11-01 10:08:14,2.436s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:08:14,2023-11-01 10:08:15,0.312s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:08:15,2023-11-01 10:08:20,5.355s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings""))",Chrome 118.0.0.0,,,2023-11-01 10:08:20,2023-11-01 10:08:24,4.242s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img""))",Chrome 118.0.0.0,,,2023-11-01 10:08:24,2023-11-01 10:08:25,0.810s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:08:25,2023-11-01 10:08:26,0.423s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:08:26,2023-11-01 10:08:26,0.002s,PASSED
+,,,,,,,
+Test Cases/Gmail - Forgot email verification,Chrome 118.0.0.0,,,2023-11-01 10:08:26,2023-11-01 10:09:04,38.162s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:08:26,2023-11-01 10:08:26,0.003s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:08:26,2023-11-01 10:08:29,2.890s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyz2KxDaCIoSux7c4LnD_19qaKALraXqCL6tDXgQtR0fl_r0sRWKJdWPPWF9Ald7Va9H4pwIZA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285881911%3A1698779896826121&theme=glif#inbox"")",Chrome 118.0.0.0,,,2023-11-01 10:08:29,2023-11-01 10:08:30,1.400s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:08:30,2023-11-01 10:08:30,0.140s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/button_Forgot email""))",Chrome 118.0.0.0,,,2023-11-01 10:08:30,2023-11-01 10:08:31,1.212s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:08:31,2023-11-01 10:09:03,31.566s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/div_Enter a valid email or phone number""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:03,2023-11-01 10:09:03,0.534s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:09:03,2023-11-01 10:09:04,0.283s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:04,2023-11-01 10:09:04,0.001s,PASSED
+,,,,,,,
+Test Cases/Gmail - Incorrect login verification,Chrome 118.0.0.0,,,2023-11-01 10:09:04,2023-11-01 10:09:11,7.344s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:04,2023-11-01 10:09:04,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:09:04,2023-11-01 10:09:07,2.844s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywlj-QeinCv6drOjCNfoQ8bXTmpp7Hl7eVjr0AUWTEmWXqv0AIumDuU5lI3vpnkTyFo2aOM&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458760932%3A1698778577004689&theme=glif#inbox"")",Chrome 118.0.0.0,,,2023-11-01 10:09:07,2023-11-01 10:09:08,1.021s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:09:08,2023-11-01 10:09:08,0.144s,PASSED
+"setText(findTestObject(""Object Repository/Gmail/Page_Gmail/input_identifier""), ""abcxyz"")",Chrome 118.0.0.0,,,2023-11-01 10:09:08,2023-11-01 10:09:09,0.826s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:09:09,2023-11-01 10:09:10,1.516s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Couldnt sign you in""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:10,2023-11-01 10:09:11,0.425s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:09:11,2023-11-01 10:09:11,0.470s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:11,2023-11-01 10:09:11,0.002s,PASSED
+,,,,,,,
+Test Cases/Gmail - Try again with invalid login,Chrome 118.0.0.0,,,2023-11-01 10:09:11,2023-11-01 10:09:23,12.284s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:11,2023-11-01 10:09:11,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:09:11,2023-11-01 10:09:14,3.116s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S218891431%3A1698778883803894&theme=glif#inbox"")",Chrome 118.0.0.0,,,2023-11-01 10:09:14,2023-11-01 10:09:16,1.302s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:09:16,2023-11-01 10:09:16,0.195s,PASSED
+"setText(findTestObject(""Object Repository/Gmail/Page_Gmail/input_identifier""), ""abcxyz"")",Chrome 118.0.0.0,,,2023-11-01 10:09:16,2023-11-01 10:09:17,0.841s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:09:17,2023-11-01 10:09:18,1.449s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb""))",Chrome 118.0.0.0,,,2023-11-01 10:09:18,2023-11-01 10:09:20,2.270s,PASSED
+"setText(findTestObject(""Object Repository/Gmail/Page_Gmail/input_identifier""), ""abcxyz"")",Chrome 118.0.0.0,,,2023-11-01 10:09:20,2023-11-01 10:09:21,0.888s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:09:21,2023-11-01 10:09:22,0.489s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:22,2023-11-01 10:09:23,1.086s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:09:23,2023-11-01 10:09:23,0.500s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:23,2023-11-01 10:09:23,0.001s,PASSED
+,,,,,,,
+Test Cases/Gmail - Verify the validation message,Chrome 118.0.0.0,,,2023-11-01 10:09:23,2023-11-01 10:09:29,5.460s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:23,2023-11-01 10:09:23,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:09:23,2023-11-01 10:09:26,2.827s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyzR6pw5d28fypnZRPD2z3UMAtruQJTmGrturMB1BE3plFqEShDNo4O4MTXu67xx9JFqi_TIZw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292309958%3A1698780033683571&theme=glif#inbox"")",Chrome 118.0.0.0,,,2023-11-01 10:09:26,2023-11-01 10:09:27,1.061s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:09:27,2023-11-01 10:09:27,0.146s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:09:27,2023-11-01 10:09:28,0.488s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/div_Email or phoneEnter an email or phone number""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:28,2023-11-01 10:09:28,0.435s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:09:28,2023-11-01 10:09:29,0.377s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:29,2023-11-01 10:09:29,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon - Benefits test,Chrome 118.0.0.0,,,2023-11-01 10:09:29,2023-11-01 10:09:43,14.050s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:29,2023-11-01 10:09:29,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:09:29,2023-11-01 10:09:32,2.863s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:09:32,2023-11-01 10:09:35,3.124s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:09:35,2023-11-01 10:09:35,0.310s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:09:35,2023-11-01 10:09:37,1.740s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo""))",Chrome 118.0.0.0,,,2023-11-01 10:09:37,2023-11-01 10:09:40,2.586s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Seamless test automation with an end-to_9d1ee8""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:40,2023-11-01 10:09:41,1.014s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Visibility throughout the test pipeline""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:41,2023-11-01 10:09:41,0.576s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Centralized workflows to focus on softw_0ff7fc""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:41,2023-11-01 10:09:41,0.311s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Low-code UI to keep everyone, tech or b_bd4e50""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:41,2023-11-01 10:09:42,0.334s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Out-of-the-box fit for any ALM, CI tool_5242ad""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:42,2023-11-01 10:09:42,0.741s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:09:42,2023-11-01 10:09:43,0.340s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:43,2023-11-01 10:09:43,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon - Learn More verification,Chrome 118.0.0.0,,,2023-11-01 10:09:43,2023-11-01 10:09:57,14.184s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:43,2023-11-01 10:09:43,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:09:43,2023-11-01 10:09:46,2.778s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:09:46,2023-11-01 10:09:49,3.001s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:09:49,2023-11-01 10:09:49,0.143s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:09:49,2023-11-01 10:09:51,1.879s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Learn more""))",Chrome 118.0.0.0,,,2023-11-01 10:09:51,2023-11-01 10:09:51,0.627s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Learn more""))",Chrome 118.0.0.0,,,2023-11-01 10:09:51,2023-11-01 10:09:53,1.896s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/div_TABLE OF CONTENTS""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:09:53,2023-11-01 10:09:54,1.192s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/a_Key performance improvements in Katalon S_185eed""))",Chrome 118.0.0.0,,,2023-11-01 10:09:54,2023-11-01 10:09:55,0.499s,PASSED
+"rightClick(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/strong_Key performance improvements in Kata_e75e1d""))",Chrome 118.0.0.0,,,2023-11-01 10:09:55,2023-11-01 10:09:56,0.636s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/strong_Key performance improvements in Kata_e75e1d""))",Chrome 118.0.0.0,,,2023-11-01 10:09:56,2023-11-01 10:09:56,0.437s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/strong_Key performance improvements in Kata_e75e1d""))",Chrome 118.0.0.0,,,2023-11-01 10:09:56,2023-11-01 10:09:57,0.667s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:09:57,2023-11-01 10:09:57,0.336s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:57,2023-11-01 10:09:57,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Review star verification,Chrome 118.0.0.0,,,2023-11-01 10:09:57,2023-11-01 10:10:09,12.225s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:09:57,2023-11-01 10:09:57,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:09:57,2023-11-01 10:10:00,2.771s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:10:00,2023-11-01 10:10:03,2.936s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:10:03,2023-11-01 10:10:03,0.166s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:10:03,2023-11-01 10:10:05,1.921s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo""))",Chrome 118.0.0.0,,,2023-11-01 10:10:05,2023-11-01 10:10:08,2.775s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/img_rating""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:10:08,2023-11-01 10:10:09,1.112s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:10:09,2023-11-01 10:10:09,0.452s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:10:09,2023-11-01 10:10:09,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Contact an expert in Katalon,Chrome 118.0.0.0,,,2023-11-01 10:10:09,2023-11-01 10:10:22,12.712s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:10:09,2023-11-01 10:10:09,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:10:09,2023-11-01 10:10:12,2.861s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:10:12,2023-11-01 10:10:16,3.732s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:10:16,2023-11-01 10:10:16,0.129s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:10:16,2023-11-01 10:10:17,1.398s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us""))",Chrome 118.0.0.0,,,2023-11-01 10:10:17,2023-11-01 10:10:20,2.270s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/div_Contact an expert""))",Chrome 118.0.0.0,,,2023-11-01 10:10:20,2023-11-01 10:10:21,1.179s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/div_Submit""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:10:21,2023-11-01 10:10:22,0.757s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:10:22,2023-11-01 10:10:22,0.285s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:10:22,2023-11-01 10:10:22,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Contact us link is present,Chrome 118.0.0.0,,,2023-11-01 10:10:22,2023-11-01 10:10:34,11.844s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:10:22,2023-11-01 10:10:22,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:10:22,2023-11-01 10:10:25,2.954s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:10:25,2023-11-01 10:10:28,3.302s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:10:28,2023-11-01 10:10:28,0.150s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:10:28,2023-11-01 10:10:30,1.741s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:10:30,2023-11-01 10:10:31,0.573s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us""))",Chrome 118.0.0.0,,,2023-11-01 10:10:31,2023-11-01 10:10:33,1.779s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/h1_How can we help""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:10:33,2023-11-01 10:10:33,0.902s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:10:33,2023-11-01 10:10:34,0.340s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:10:34,2023-11-01 10:10:34,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Gartner in Katalon site,Chrome 118.0.0.0,,,2023-11-01 10:10:34,2023-11-01 10:10:48,13.702s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:10:34,2023-11-01 10:10:34,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:10:34,2023-11-01 10:10:37,2.815s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:10:37,2023-11-01 10:10:39,2.747s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:10:39,2023-11-01 10:10:43,3.062s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo""))",Chrome 118.0.0.0,,,2023-11-01 10:10:43,2023-11-01 10:10:45,2.447s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/img_industry""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:10:45,2023-11-01 10:10:47,2.150s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:10:47,2023-11-01 10:10:48,0.392s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:10:48,2023-11-01 10:10:48,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Incorrect email verification,Chrome 118.0.0.0,,,2023-11-01 10:10:48,2023-11-01 10:11:04,16.915s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:10:48,2023-11-01 10:10:48,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:10:48,2023-11-01 10:10:50,2.712s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:10:50,2023-11-01 10:10:53,2.770s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial""))",Chrome 118.0.0.0,,,2023-11-01 10:10:53,2023-11-01 10:10:57,3.443s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in""))",Chrome 118.0.0.0,,,2023-11-01 10:10:57,2023-11-01 10:10:58,1.463s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up""))",Chrome 118.0.0.0,,,2023-11-01 10:10:58,2023-11-01 10:10:59,1.223s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:10:59,2023-11-01 10:11:04,4.877s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:11:04,2023-11-01 10:11:04,0.326s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:04,2023-11-01 10:11:04,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Katalon version,Chrome 118.0.0.0,,,2023-11-01 10:11:04,2023-11-01 10:11:13,8.795s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:04,2023-11-01 10:11:04,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:11:05,2023-11-01 10:11:07,2.775s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:11:07,2023-11-01 10:11:10,2.971s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:11:10,2023-11-01 10:11:10,0.143s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:11:10,2023-11-01 10:11:12,1.404s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/span_Katalon Studio 9.0.0""), ""Katalon Studio 9.0.0"")",Chrome 118.0.0.0,,,2023-11-01 10:11:12,2023-11-01 10:11:13,1.178s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:11:13,2023-11-01 10:11:13,0.256s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:13,2023-11-01 10:11:13,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify the error message on the SignUp Page,Chrome 118.0.0.0,,,2023-11-01 10:11:13,2023-11-01 10:11:26,13.103s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:13,2023-11-01 10:11:13,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:11:13,2023-11-01 10:11:16,3.086s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:11:16,2023-11-01 10:11:19,3.048s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:11:19,2023-11-01 10:11:20,0.150s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:11:20,2023-11-01 10:11:22,1.961s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial""))",Chrome 118.0.0.0,,,2023-11-01 10:11:22,2023-11-01 10:11:24,2.929s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up""))",Chrome 118.0.0.0,,,2023-11-01 10:11:24,2023-11-01 10:11:26,1.080s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields""), ""Please fill all form fields"")",Chrome 118.0.0.0,,,2023-11-01 10:11:26,2023-11-01 10:11:26,0.449s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:11:26,2023-11-01 10:11:26,0.314s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:26,2023-11-01 10:11:26,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Video verification,Chrome 118.0.0.0,,,2023-11-01 10:11:26,2023-11-01 10:11:40,13.842s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:26,2023-11-01 10:11:26,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:11:26,2023-11-01 10:11:29,2.778s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:11:29,2023-11-01 10:11:33,3.644s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:11:33,2023-11-01 10:11:33,0.155s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:11:33,2023-11-01 10:11:34,1.438s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo""))",Chrome 118.0.0.0,,,2023-11-01 10:11:34,2023-11-01 10:11:38,3.483s,PASSED
+"waitForElementClickable(findTestObject(""Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background""), 10)",Chrome 118.0.0.0,,,2023-11-01 10:11:38,2023-11-01 10:11:39,1.423s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background""))",Chrome 118.0.0.0,,,2023-11-01 10:11:39,2023-11-01 10:11:40,0.455s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:11:40,2023-11-01 10:11:40,0.370s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:40,2023-11-01 10:11:40,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon - Why katelon verification,Chrome 118.0.0.0,,,2023-11-01 10:11:40,2023-11-01 10:11:52,11.368s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:40,2023-11-01 10:11:40,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:11:40,2023-11-01 10:11:43,2.956s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:11:43,2023-11-01 10:11:47,3.626s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:11:47,2023-11-01 10:11:47,0.345s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:11:47,2023-11-01 10:11:49,1.728s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Chrome 118.0.0.0,,,2023-11-01 10:11:49,2023-11-01 10:11:49,0.544s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Easy, speed""), ""Easy, speed"")",Chrome 118.0.0.0,,,2023-11-01 10:11:49,2023-11-01 10:11:50,0.484s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Flexibility, Scalability""), ""Flexibility, Scalability"")",Chrome 118.0.0.0,,,2023-11-01 10:11:50,2023-11-01 10:11:50,0.318s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Visibility""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:11:50,2023-11-01 10:11:51,0.300s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Innovation  AI""), ""Innovation & AI"")",Chrome 118.0.0.0,,,2023-11-01 10:11:51,2023-11-01 10:11:51,0.325s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Low cost, high ROI""), ""Low cost, high ROI"")",Chrome 118.0.0.0,,,2023-11-01 10:11:51,2023-11-01 10:11:51,0.340s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:11:51,2023-11-01 10:11:52,0.326s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:52,2023-11-01 10:11:52,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon Course finding,Chrome 118.0.0.0,,,2023-11-01 10:11:52,2023-11-01 10:12:16,24.778s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:11:52,2023-11-01 10:11:52,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:11:52,2023-11-01 10:11:55,2.833s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:11:55,2023-11-01 10:11:58,3.321s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:11:58,2023-11-01 10:11:58,0.144s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:11:58,2023-11-01 10:12:00,1.708s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources""))",Chrome 118.0.0.0,,,2023-11-01 10:12:00,2023-11-01 10:12:00,0.697s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources""))",Chrome 118.0.0.0,,,2023-11-01 10:12:00,2023-11-01 10:12:01,0.531s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy""))",Chrome 118.0.0.0,,,2023-11-01 10:12:01,2023-11-01 10:12:01,0.438s,PASSED
+"switchToWindowTitle(""Katalon Academy - Automation Testing Courses to Level Up"")",Chrome 118.0.0.0,,,2023-11-01 10:12:01,2023-11-01 10:12:05,3.260s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course""))",Chrome 118.0.0.0,,,2023-11-01 10:12:05,2023-11-01 10:12:06,0.925s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_""))",Chrome 118.0.0.0,,,2023-11-01 10:12:06,2023-11-01 10:12:06,0.674s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img""))",Chrome 118.0.0.0,,,2023-11-01 10:12:06,2023-11-01 10:12:07,0.809s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s""), ""test automation"")",Chrome 118.0.0.0,,,2023-11-01 10:12:07,2023-11-01 10:12:08,0.791s,PASSED
+"sendKeys(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s""), Keys.chord(ENTER))",Chrome 118.0.0.0,,,2023-11-01 10:12:08,2023-11-01 10:12:11,2.708s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a""))",Chrome 118.0.0.0,,,2023-11-01 10:12:11,2023-11-01 10:12:14,3.810s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:12:14,2023-11-01 10:12:15,0.839s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:12:15,2023-11-01 10:12:16,1.073s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:12:16,2023-11-01 10:12:16,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon Download Studio check,Chrome 118.0.0.0,,,2023-11-01 10:12:16,2023-11-01 10:12:32,16.090s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:12:16,2023-11-01 10:12:16,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:12:17,2023-11-01 10:12:20,3.248s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:12:20,2023-11-01 10:12:23,3.390s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:12:23,2023-11-01 10:12:23,0.163s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:12:23,2023-11-01 10:12:25,1.670s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio""))",Chrome 118.0.0.0,,,2023-11-01 10:12:25,2023-11-01 10:12:27,2.303s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d""))",Chrome 118.0.0.0,,,2023-11-01 10:12:27,2023-11-01 10:12:29,1.358s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64""))",Chrome 118.0.0.0,,,2023-11-01 10:12:29,2023-11-01 10:12:29,0.815s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0""))",Chrome 118.0.0.0,,,2023-11-01 10:12:29,2023-11-01 10:12:30,0.488s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8""))",Chrome 118.0.0.0,,,2023-11-01 10:12:30,2023-11-01 10:12:31,0.829s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:12:31,2023-11-01 10:12:31,0.530s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download""))",Chrome 118.0.0.0,,,2023-11-01 10:12:31,2023-11-01 10:12:32,0.313s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -""), ""Sign up now ->"")",Chrome 118.0.0.0,,,2023-11-01 10:12:32,2023-11-01 10:12:32,0.301s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:12:32,2023-11-01 10:12:32,0.520s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:12:32,2023-11-01 10:12:32,0.003s,PASSED
+,,,,,,,
+Test Cases/Katalon Price Check,Chrome 118.0.0.0,,,2023-11-01 10:12:32,2023-11-01 10:12:49,16.879s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:12:32,2023-11-01 10:12:32,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:12:33,2023-11-01 10:12:36,3.042s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:12:36,2023-11-01 10:12:39,3.258s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:12:39,2023-11-01 10:12:39,0.331s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:12:39,2023-11-01 10:12:41,2.227s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Pricing""))",Chrome 118.0.0.0,,,2023-11-01 10:12:41,2023-11-01 10:12:44,2.788s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kse_number""), ""5"")",Chrome 118.0.0.0,,,2023-11-01 10:12:44,2023-11-01 10:12:46,2.236s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_testcloud_number""), ""5"")",Chrome 118.0.0.0,,,2023-11-01 10:12:46,2023-11-01 10:12:48,1.249s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kre_number""), ""5"")",Chrome 118.0.0.0,,,2023-11-01 10:12:48,2023-11-01 10:12:49,1.058s,PASSED
+"scrollToPosition(0, 3)",Chrome 118.0.0.0,,,2023-11-01 10:12:49,2023-11-01 10:12:49,0.027s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:12:49,2023-11-01 10:12:49,0.568s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:12:49,2023-11-01 10:12:49,0.001s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the 3 languages present in PMI,Chrome 118.0.0.0,,,2023-11-01 10:12:49,2023-11-01 10:13:02,12.728s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:12:49,2023-11-01 10:12:49,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:12:49,2023-11-01 10:12:52,2.909s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Chrome 118.0.0.0,,,2023-11-01 10:12:52,2023-11-01 10:12:57,4.328s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:12:57,2023-11-01 10:12:57,0.173s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/span_OK""))",Chrome 118.0.0.0,,,2023-11-01 10:12:57,2023-11-01 10:12:59,2.136s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_View in English""), ""View in English"")",Chrome 118.0.0.0,,,2023-11-01 10:12:59,2023-11-01 10:13:00,1.012s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Ver en Espaol""), ""Ver en Español"")",Chrome 118.0.0.0,,,2023-11-01 10:13:00,2023-11-01 10:13:00,0.327s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Veja em Portugus""), ""Veja em Português"")",Chrome 118.0.0.0,,,2023-11-01 10:13:00,2023-11-01 10:13:01,0.358s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:13:01,2023-11-01 10:13:02,1.385s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:13:02,2023-11-01 10:13:02,0.001s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the portugese language in PMI,Chrome 118.0.0.0,,,2023-11-01 10:13:02,2023-11-01 10:13:16,13.817s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:13:02,2023-11-01 10:13:02,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:13:02,2023-11-01 10:13:05,3.226s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Chrome 118.0.0.0,,,2023-11-01 10:13:05,2023-11-01 10:13:09,3.856s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:13:09,2023-11-01 10:13:10,0.442s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_OK""))",Chrome 118.0.0.0,,,2023-11-01 10:13:10,2023-11-01 10:13:11,0.977s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Veja em Portugus""))",Chrome 118.0.0.0,,,2023-11-01 10:13:11,2023-11-01 10:13:15,4.282s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/PMI/Page_Just a moment/h1_www.pmi.org""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:13:15,2023-11-01 10:13:16,0.674s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:13:16,2023-11-01 10:13:16,0.281s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:13:16,2023-11-01 10:13:16,0.001s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the spanish language in PMI,Chrome 118.0.0.0,,,2023-11-01 10:13:16,2023-11-01 10:13:30,14.025s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:13:16,2023-11-01 10:13:16,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:13:16,2023-11-01 10:13:19,3.020s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Chrome 118.0.0.0,,,2023-11-01 10:13:19,2023-11-01 10:13:23,4.356s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:13:23,2023-11-01 10:13:24,0.217s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/span_OK""))",Chrome 118.0.0.0,,,2023-11-01 10:13:24,2023-11-01 10:13:25,1.134s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Ver en Espaol""))",Chrome 118.0.0.0,,,2023-11-01 10:13:25,2023-11-01 10:13:29,4.055s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/PMI/Page_Just a moment/h1_www.pmi.org""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:13:29,2023-11-01 10:13:29,0.736s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:13:29,2023-11-01 10:13:30,0.420s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:13:30,2023-11-01 10:13:30,0.002s,PASSED
+,,,,,,,
+Test Cases/Search Automation within Deloitte site,Chrome 118.0.0.0,,,2023-11-01 10:15:41,2023-11-01 10:16:05,23.698s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:15:41,2023-11-01 10:15:41,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:15:41,2023-11-01 10:15:44,3.107s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:15:44,2023-11-01 10:15:47,3.209s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:15:47,2023-11-01 10:15:48,0.211s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:15:48,2023-11-01 10:15:52,4.395s,PASSED
+"setText(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c""), ""Automation"")",Chrome 118.0.0.0,,,2023-11-01 10:15:52,2023-11-01 10:15:53,0.989s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search""))",Chrome 118.0.0.0,,,2023-11-01 10:15:53,2023-11-01 10:15:53,0.379s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:15:53,2023-11-01 10:16:01,7.114s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance""))",Chrome 118.0.0.0,,,2023-11-01 10:16:01,2023-11-01 10:16:03,2.913s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Anywhere Alliance  Deloitte US/div_Deloitte and Automation Anywhere Allian_b995eb""))",Chrome 118.0.0.0,,,2023-11-01 10:16:03,2023-11-01 10:16:04,0.693s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Automation Anywhere Alliance  Deloitte US/h1_Deloitte and Automation Anywhere Alliance""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:16:04,2023-11-01 10:16:04,0.300s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:16:04,2023-11-01 10:16:05,0.372s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:16:05,2023-11-01 10:16:05,0.002s,PASSED
+,,,,,,,
+Test Cases/Search Google,Chrome 118.0.0.0,,,2023-11-01 10:16:05,2023-11-01 10:16:41,35.823s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:16:05,2023-11-01 10:16:05,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:16:05,2023-11-01 10:16:08,2.812s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:16:08,2023-11-01 10:16:09,1.205s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:16:09,2023-11-01 10:16:09,0.137s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""katalon"")",Chrome 118.0.0.0,,,2023-11-01 10:16:09,2023-11-01 10:16:10,0.691s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_katalon""))",Chrome 118.0.0.0,,,2023-11-01 10:16:10,2023-11-01 10:16:11,0.926s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool""))",Chrome 118.0.0.0,,,2023-11-01 10:16:11,2023-11-01 10:16:14,3.493s,PASSED
+"click(findTestObject(""Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool""))",Chrome 118.0.0.0,,,2023-11-01 10:16:14,2023-11-01 10:16:18,3.454s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Chrome 118.0.0.0,,,2023-11-01 10:16:18,2023-11-01 10:16:20,1.986s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Platform""))",Chrome 118.0.0.0,,,2023-11-01 10:16:20,2023-11-01 10:16:20,0.617s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Chrome 118.0.0.0,,,2023-11-01 10:16:20,2023-11-01 10:16:21,0.463s,PASSED
+"click(findTestObject(""Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started""))",Chrome 118.0.0.0,,,2023-11-01 10:16:21,2023-11-01 10:16:40,19.376s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:16:40,2023-11-01 10:16:41,0.578s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:16:41,2023-11-01 10:16:41,0.001s,PASSED
+,,,,,,,
+Test Cases/Verify Consulting present within Deloitte site,Chrome 118.0.0.0,,,2023-11-01 10:16:41,2023-11-01 10:16:57,16.098s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:16:41,2023-11-01 10:16:41,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:16:41,2023-11-01 10:16:44,2.883s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:16:44,2023-11-01 10:16:47,3.130s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:16:47,2023-11-01 10:16:50,3.612s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services""))",Chrome 118.0.0.0,,,2023-11-01 10:16:50,2023-11-01 10:16:51,0.708s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services""))",Chrome 118.0.0.0,,,2023-11-01 10:16:51,2023-11-01 10:16:52,0.507s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Consulting""))",Chrome 118.0.0.0,,,2023-11-01 10:16:52,2023-11-01 10:16:54,2.402s,PASSED
+"click(findTestObject(""Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting""))",Chrome 118.0.0.0,,,2023-11-01 10:16:54,2023-11-01 10:16:56,1.763s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:16:56,2023-11-01 10:16:56,0.618s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:16:56,2023-11-01 10:16:57,0.382s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:16:57,2023-11-01 10:16:57,0.001s,PASSED
+,,,,,,,
+Test Cases/Verify LifeScience in Deloitte Industry,Chrome 118.0.0.0,,,2023-11-01 10:17:32,2023-11-01 10:17:44,12.078s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:17:32,2023-11-01 10:17:32,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:17:32,2023-11-01 10:17:35,3.092s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:17:35,2023-11-01 10:17:38,2.427s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:17:38,2023-11-01 10:17:38,0.283s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:17:38,2023-11-01 10:17:43,4.890s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search""))",Chrome 118.0.0.0,,,2023-11-01 10:17:43,2023-11-01 10:17:44,0.799s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care""))",Chrome 118.0.0.0,,,2023-11-01 10:17:44,2023-11-01 10:17:44,0.570s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:17:44,2023-11-01 10:17:44,0.001s,PASSED
+,,,,,,,
+Test Cases/Verify Tax in Deloitte website,Chrome 118.0.0.0,,,2023-11-01 10:17:44,2023-11-01 10:17:58,14.239s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:17:44,2023-11-01 10:17:44,0.000s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:17:44,2023-11-01 10:17:47,3.128s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:17:47,2023-11-01 10:17:50,2.377s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:17:50,2023-11-01 10:17:50,0.322s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:17:50,2023-11-01 10:17:54,4.222s,PASSED
+"setText(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c""), ""tax"")",Chrome 118.0.0.0,,,2023-11-01 10:17:54,2023-11-01 10:17:55,0.979s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search""))",Chrome 118.0.0.0,,,2023-11-01 10:17:55,2023-11-01 10:17:57,2.140s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Deloitte Search Basic/h1_Results for tax""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:17:57,2023-11-01 10:17:58,0.658s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:17:58,2023-11-01 10:17:58,0.347s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:17:58,2023-11-01 10:17:58,0.001s,PASSED
+,,,,,,,
+Test Cases/Deloitte - Careers Test,Chrome 118.0.0.0,,,2023-11-01 10:17:58,2023-11-01 10:18:16,17.351s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:17:58,2023-11-01 10:17:58,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:17:58,2023-11-01 10:18:01,2.946s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:18:01,2023-11-01 10:18:04,2.409s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:18:04,2023-11-01 10:18:04,0.442s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:18:04,2023-11-01 10:18:09,4.460s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Careers""))",Chrome 118.0.0.0,,,2023-11-01 10:18:09,2023-11-01 10:18:09,0.739s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life at Deloitte""))",Chrome 118.0.0.0,,,2023-11-01 10:18:09,2023-11-01 10:18:12,2.520s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_OurPeople""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:18:12,2023-11-01 10:18:14,1.594s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_Culture""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:18:14,2023-11-01 10:18:14,0.293s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_Careers""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:18:14,2023-11-01 10:18:14,0.381s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_WhyDeloitte""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:18:14,2023-11-01 10:18:15,0.286s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/p_Careers""))",Chrome 118.0.0.0,,,2023-11-01 10:18:15,2023-11-01 10:18:15,0.374s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Deloitte/Page_Life at Deloitte  Deloitte US/img_careers-thumbnail-img""))",Chrome 118.0.0.0,,,2023-11-01 10:18:15,2023-11-01 10:18:15,0.485s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:18:15,2023-11-01 10:18:16,0.394s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:18:16,2023-11-01 10:18:16,0.000s,PASSED
+,,,,,,,
+Test Cases/Deloitte - dropdown value selection test,Chrome 118.0.0.0,,,2023-11-01 10:18:16,2023-11-01 10:18:32,16.335s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:18:16,2023-11-01 10:18:16,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:18:16,2023-11-01 10:18:19,2.850s,PASSED
+"navigateToUrl(""https://apply.deloitte.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:18:19,2023-11-01 10:18:21,2.541s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:18:21,2023-11-01 10:18:21,0.129s,PASSED
+"setText(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/input9336-search__field""), ""new"")",Chrome 118.0.0.0,,,2023-11-01 10:18:21,2023-11-01 10:18:22,0.783s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/li_New Jersey""))",Chrome 118.0.0.0,,,2023-11-01 10:18:22,2023-11-01 10:18:24,1.765s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/button_Search""))",Chrome 118.0.0.0,,,2023-11-01 10:18:24,2023-11-01 10:18:30,6.583s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/div_2 jobs                                 _eba8a8""))",Chrome 118.0.0.0,,,2023-11-01 10:18:30,2023-11-01 10:18:31,0.688s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/div_2 jobs                                 _eba8a8""))",Chrome 118.0.0.0,,,2023-11-01 10:18:31,2023-11-01 10:18:31,0.312s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/div_2 jobs                                 _eba8a8""))",Chrome 118.0.0.0,,,2023-11-01 10:18:31,2023-11-01 10:18:32,0.314s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:18:32,2023-11-01 10:18:32,0.355s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:18:32,2023-11-01 10:18:32,0.001s,PASSED
+,,,,,,,
+Test Cases/Deloitte - Search job within Deloitte Careers,Chrome 118.0.0.0,,,2023-11-01 10:19:10,2023-11-01 10:19:22,12.290s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:19:10,2023-11-01 10:19:10,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:19:10,2023-11-01 10:19:13,3.134s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:19:13,2023-11-01 10:19:16,3.417s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:19:16,2023-11-01 10:19:17,0.187s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:19:17,2023-11-01 10:19:21,4.196s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search""))",Chrome 118.0.0.0,,,2023-11-01 10:19:21,2023-11-01 10:19:22,0.723s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Experienced Professionals""))",Chrome 118.0.0.0,,,2023-11-01 10:19:22,2023-11-01 10:19:22,0.618s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:19:22,2023-11-01 10:19:22,0.001s,PASSED
+,,,,,,,
+Test Cases/Deloitte - Verify Deloitte Login with invalid credentials,Chrome 118.0.0.0,,,2023-11-01 10:19:22,2023-11-01 10:19:32,10.227s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:19:22,2023-11-01 10:19:22,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:19:22,2023-11-01 10:19:25,2.980s,PASSED
+"navigateToUrl(""https://apply.deloitte.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:19:25,2023-11-01 10:19:28,2.513s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:19:28,2023-11-01 10:19:28,0.124s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Job Search  Deloitte US/a_Login""))",Chrome 118.0.0.0,,,2023-11-01 10:19:28,2023-11-01 10:19:29,1.438s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Login  Deloitte US/button_Log in""))",Chrome 118.0.0.0,,,2023-11-01 10:19:29,2023-11-01 10:19:30,0.953s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Deloitte/Page_Login  Deloitte US/div_Username is required""), ""Username is required."")",Chrome 118.0.0.0,,,2023-11-01 10:19:30,2023-11-01 10:19:32,1.646s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Deloitte/Page_Login  Deloitte US/div_Password is required""), ""Password is required."")",Chrome 118.0.0.0,,,2023-11-01 10:19:32,2023-11-01 10:19:32,0.297s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:19:32,2023-11-01 10:19:32,0.263s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:19:32,2023-11-01 10:19:32,0.001s,PASSED
+,,,,,,,
+Test Cases/Download Deloitte Survey findins - Switch Window,Chrome 118.0.0.0,,,2023-11-01 10:19:32,2023-11-01 10:19:48,15.477s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:19:32,2023-11-01 10:19:32,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:19:32,2023-11-01 10:19:35,2.731s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:19:35,2023-11-01 10:19:37,2.204s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:19:37,2023-11-01 10:19:38,0.408s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:19:38,2023-11-01 10:19:42,4.529s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings""))",Chrome 118.0.0.0,,,2023-11-01 10:19:42,2023-11-01 10:19:46,4.068s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img""))",Chrome 118.0.0.0,,,2023-11-01 10:19:46,2023-11-01 10:19:48,1.131s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:19:48,2023-11-01 10:19:48,0.385s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:19:48,2023-11-01 10:19:48,0.001s,PASSED
+,,,,,,,
+Test Cases/Gmail - Forgot email verification,Chrome 118.0.0.0,,,2023-11-01 10:19:48,2023-11-01 10:20:25,37.552s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:19:48,2023-11-01 10:19:48,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:19:48,2023-11-01 10:19:51,2.729s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyz2KxDaCIoSux7c4LnD_19qaKALraXqCL6tDXgQtR0fl_r0sRWKJdWPPWF9Ald7Va9H4pwIZA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285881911%3A1698779896826121&theme=glif#inbox"")",Chrome 118.0.0.0,,,2023-11-01 10:19:51,2023-11-01 10:19:52,1.052s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:19:52,2023-11-01 10:19:52,0.158s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/button_Forgot email""))",Chrome 118.0.0.0,,,2023-11-01 10:19:52,2023-11-01 10:19:53,1.237s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:19:53,2023-11-01 10:20:25,31.565s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/div_Enter a valid email or phone number""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:20:25,2023-11-01 10:20:25,0.493s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:20:25,2023-11-01 10:20:25,0.303s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:20:25,2023-11-01 10:20:25,0.001s,PASSED
+,,,,,,,
+Test Cases/Gmail - Incorrect login verification,Chrome 118.0.0.0,,,2023-11-01 10:20:25,2023-11-01 10:20:33,7.413s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:20:26,2023-11-01 10:20:26,0.003s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:20:26,2023-11-01 10:20:28,2.793s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywlj-QeinCv6drOjCNfoQ8bXTmpp7Hl7eVjr0AUWTEmWXqv0AIumDuU5lI3vpnkTyFo2aOM&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458760932%3A1698778577004689&theme=glif#inbox"")",Chrome 118.0.0.0,,,2023-11-01 10:20:28,2023-11-01 10:20:29,1.133s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:20:29,2023-11-01 10:20:30,0.178s,PASSED
+"setText(findTestObject(""Object Repository/Gmail/Page_Gmail/input_identifier""), ""abcxyz"")",Chrome 118.0.0.0,,,2023-11-01 10:20:30,2023-11-01 10:20:31,0.899s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:20:31,2023-11-01 10:20:32,1.489s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Couldnt sign you in""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:20:32,2023-11-01 10:20:33,0.532s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:20:33,2023-11-01 10:20:33,0.367s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:20:33,2023-11-01 10:20:33,0.001s,PASSED
+,,,,,,,
+Test Cases/Gmail - Try again with invalid login,Chrome 118.0.0.0,,,2023-11-01 10:20:33,2023-11-01 10:20:47,13.869s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:20:33,2023-11-01 10:20:33,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:20:33,2023-11-01 10:20:36,2.769s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S218891431%3A1698778883803894&theme=glif#inbox"")",Chrome 118.0.0.0,,,2023-11-01 10:20:36,2023-11-01 10:20:37,1.151s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:20:37,2023-11-01 10:20:37,0.149s,PASSED
+"setText(findTestObject(""Object Repository/Gmail/Page_Gmail/input_identifier""), ""abcxyz"")",Chrome 118.0.0.0,,,2023-11-01 10:20:37,2023-11-01 10:20:38,0.776s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:20:38,2023-11-01 10:20:39,1.448s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb""))",Chrome 118.0.0.0,,,2023-11-01 10:20:39,2023-11-01 10:20:44,4.487s,PASSED
+"setText(findTestObject(""Object Repository/Gmail/Page_Gmail/input_identifier""), ""abcxyz"")",Chrome 118.0.0.0,,,2023-11-01 10:20:44,2023-11-01 10:20:45,0.849s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:20:45,2023-11-01 10:20:45,0.569s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:20:45,2023-11-01 10:20:46,1.285s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:20:46,2023-11-01 10:20:47,0.369s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:20:47,2023-11-01 10:20:47,0.001s,PASSED
+,,,,,,,
+Test Cases/Gmail - Verify the validation message,Chrome 118.0.0.0,,,2023-11-01 10:20:47,2023-11-01 10:20:52,5.422s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:20:47,2023-11-01 10:20:47,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:20:47,2023-11-01 10:20:50,2.752s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyzR6pw5d28fypnZRPD2z3UMAtruQJTmGrturMB1BE3plFqEShDNo4O4MTXu67xx9JFqi_TIZw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292309958%3A1698780033683571&theme=glif#inbox"")",Chrome 118.0.0.0,,,2023-11-01 10:20:50,2023-11-01 10:20:51,1.115s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:20:51,2023-11-01 10:20:51,0.137s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Chrome 118.0.0.0,,,2023-11-01 10:20:51,2023-11-01 10:20:51,0.493s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/div_Email or phoneEnter an email or phone number""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:20:51,2023-11-01 10:20:52,0.442s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:20:52,2023-11-01 10:20:52,0.466s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:20:52,2023-11-01 10:20:52,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Benefits test,Chrome 118.0.0.0,,,2023-11-01 10:20:52,2023-11-01 10:21:06,14.025s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:20:52,2023-11-01 10:20:52,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:20:52,2023-11-01 10:20:55,2.802s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:20:55,2023-11-01 10:20:58,3.417s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:20:58,2023-11-01 10:20:59,0.148s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:20:59,2023-11-01 10:21:00,1.621s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo""))",Chrome 118.0.0.0,,,2023-11-01 10:21:00,2023-11-01 10:21:03,2.724s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Seamless test automation with an end-to_9d1ee8""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:03,2023-11-01 10:21:04,1.238s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Visibility throughout the test pipeline""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:04,2023-11-01 10:21:05,0.423s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Centralized workflows to focus on softw_0ff7fc""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:05,2023-11-01 10:21:05,0.296s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Low-code UI to keep everyone, tech or b_bd4e50""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:05,2023-11-01 10:21:05,0.298s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/div_Out-of-the-box fit for any ALM, CI tool_5242ad""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:05,2023-11-01 10:21:06,0.748s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:21:06,2023-11-01 10:21:06,0.294s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:06,2023-11-01 10:21:06,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Learn More verification,Chrome 118.0.0.0,,,2023-11-01 10:21:06,2023-11-01 10:21:20,14.249s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:06,2023-11-01 10:21:06,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:21:06,2023-11-01 10:21:09,2.974s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:21:09,2023-11-01 10:21:12,2.974s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:21:12,2023-11-01 10:21:12,0.191s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:21:12,2023-11-01 10:21:14,1.824s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Learn more""))",Chrome 118.0.0.0,,,2023-11-01 10:21:14,2023-11-01 10:21:15,0.609s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Learn more""))",Chrome 118.0.0.0,,,2023-11-01 10:21:15,2023-11-01 10:21:17,2.417s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/div_TABLE OF CONTENTS""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:17,2023-11-01 10:21:18,1.254s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/a_Key performance improvements in Katalon S_185eed""))",Chrome 118.0.0.0,,,2023-11-01 10:21:18,2023-11-01 10:21:19,0.378s,PASSED
+"rightClick(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/strong_Key performance improvements in Kata_e75e1d""))",Chrome 118.0.0.0,,,2023-11-01 10:21:19,2023-11-01 10:21:19,0.587s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/strong_Key performance improvements in Kata_e75e1d""))",Chrome 118.0.0.0,,,2023-11-01 10:21:19,2023-11-01 10:21:20,0.373s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/strong_Key performance improvements in Kata_e75e1d""))",Chrome 118.0.0.0,,,2023-11-01 10:21:20,2023-11-01 10:21:20,0.312s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:21:20,2023-11-01 10:21:20,0.335s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:20,2023-11-01 10:21:20,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Review star verification,Chrome 118.0.0.0,,,2023-11-01 10:21:20,2023-11-01 10:21:33,12.621s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:20,2023-11-01 10:21:20,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:21:20,2023-11-01 10:21:23,2.815s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:21:23,2023-11-01 10:21:26,3.113s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:21:26,2023-11-01 10:21:27,0.150s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:21:27,2023-11-01 10:21:28,1.785s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo""))",Chrome 118.0.0.0,,,2023-11-01 10:21:28,2023-11-01 10:21:31,2.609s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/img_rating""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:31,2023-11-01 10:21:33,1.752s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:21:33,2023-11-01 10:21:33,0.382s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:33,2023-11-01 10:21:33,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Contact an expert in Katalon,Chrome 118.0.0.0,,,2023-11-01 10:21:33,2023-11-01 10:21:46,12.908s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:33,2023-11-01 10:21:33,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:21:33,2023-11-01 10:21:36,2.768s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:21:36,2023-11-01 10:21:39,3.212s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:21:39,2023-11-01 10:21:39,0.142s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:21:39,2023-11-01 10:21:42,2.502s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us""))",Chrome 118.0.0.0,,,2023-11-01 10:21:42,2023-11-01 10:21:44,1.813s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/div_Contact an expert""))",Chrome 118.0.0.0,,,2023-11-01 10:21:44,2023-11-01 10:21:45,1.191s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/div_Submit""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:45,2023-11-01 10:21:46,0.961s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:21:46,2023-11-01 10:21:46,0.300s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:46,2023-11-01 10:21:46,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Contact us link is present,Chrome 118.0.0.0,,,2023-11-01 10:21:46,2023-11-01 10:21:57,11.383s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:46,2023-11-01 10:21:46,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:21:46,2023-11-01 10:21:49,2.674s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:21:49,2023-11-01 10:21:49,0.249s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:21:49,2023-11-01 10:21:52,2.917s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:21:52,2023-11-01 10:21:54,1.998s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:54,2023-11-01 10:21:54,0.446s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us""))",Chrome 118.0.0.0,,,2023-11-01 10:21:54,2023-11-01 10:21:56,1.735s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/h1_How can we help""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:21:56,2023-11-01 10:21:57,1.056s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:21:57,2023-11-01 10:21:57,0.290s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:57,2023-11-01 10:21:57,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Gartner in Katalon site,Chrome 118.0.0.0,,,2023-11-01 10:21:57,2023-11-01 10:22:10,12.706s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:21:57,2023-11-01 10:21:57,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:21:57,2023-11-01 10:22:00,2.691s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:22:00,2023-11-01 10:22:03,3.325s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:22:03,2023-11-01 10:22:05,1.978s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo""))",Chrome 118.0.0.0,,,2023-11-01 10:22:05,2023-11-01 10:22:08,2.769s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/img_industry""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:22:08,2023-11-01 10:22:10,1.499s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:22:10,2023-11-01 10:22:10,0.428s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:22:10,2023-11-01 10:22:10,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Incorrect email verification,Chrome 118.0.0.0,,,2023-11-01 10:22:10,2023-11-01 10:22:25,15.284s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:22:10,2023-11-01 10:22:10,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:22:10,2023-11-01 10:22:13,2.793s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:22:13,2023-11-01 10:22:17,4.168s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial""))",Chrome 118.0.0.0,,,2023-11-01 10:22:17,2023-11-01 10:22:21,3.446s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in""))",Chrome 118.0.0.0,,,2023-11-01 10:22:21,2023-11-01 10:22:23,2.422s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up""))",Chrome 118.0.0.0,,,2023-11-01 10:22:23,2023-11-01 10:22:24,1.236s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:22:24,2023-11-01 10:22:25,0.903s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:22:25,2023-11-01 10:22:25,0.295s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:22:25,2023-11-01 10:22:25,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Katalon version,Chrome 118.0.0.0,,,2023-11-01 10:22:25,2023-11-01 10:22:35,9.289s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:22:25,2023-11-01 10:22:25,0.000s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:22:25,2023-11-01 10:22:28,2.759s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:22:28,2023-11-01 10:22:31,2.622s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:22:31,2023-11-01 10:22:31,0.169s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:22:31,2023-11-01 10:22:34,2.883s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/span_Katalon Studio 9.0.0""), ""Katalon Studio 9.0.0"")",Chrome 118.0.0.0,,,2023-11-01 10:22:34,2023-11-01 10:22:34,0.493s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:22:34,2023-11-01 10:22:35,0.345s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:22:35,2023-11-01 10:22:35,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify the error message on the SignUp Page,Chrome 118.0.0.0,,,2023-11-01 10:22:35,2023-11-01 10:22:47,12.638s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:22:35,2023-11-01 10:22:35,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:22:35,2023-11-01 10:22:37,2.705s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:22:37,2023-11-01 10:22:40,3.021s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:22:40,2023-11-01 10:22:41,0.154s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:22:41,2023-11-01 10:22:43,1.950s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial""))",Chrome 118.0.0.0,,,2023-11-01 10:22:43,2023-11-01 10:22:45,2.213s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up""))",Chrome 118.0.0.0,,,2023-11-01 10:22:45,2023-11-01 10:22:46,1.611s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields""), ""Please fill all form fields"")",Chrome 118.0.0.0,,,2023-11-01 10:22:46,2023-11-01 10:22:47,0.637s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:22:47,2023-11-01 10:22:47,0.320s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:22:47,2023-11-01 10:22:47,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon - Video verification,Chrome 118.0.0.0,,,2023-11-01 10:22:47,2023-11-01 10:23:00,12.938s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:22:47,2023-11-01 10:22:47,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:22:47,2023-11-01 10:22:50,2.785s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:22:50,2023-11-01 10:22:53,3.251s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:22:53,2023-11-01 10:22:54,0.136s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:22:54,2023-11-01 10:22:55,1.668s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo""))",Chrome 118.0.0.0,,,2023-11-01 10:22:55,2023-11-01 10:22:58,2.895s,PASSED
+"waitForElementClickable(findTestObject(""Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background""), 10)",Chrome 118.0.0.0,,,2023-11-01 10:22:58,2023-11-01 10:22:59,1.386s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background""))",Chrome 118.0.0.0,,,2023-11-01 10:22:59,2023-11-01 10:23:00,0.329s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:23:00,2023-11-01 10:23:00,0.470s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:23:00,2023-11-01 10:23:00,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon - Why katelon verification,Chrome 118.0.0.0,,,2023-11-01 10:23:00,2023-11-01 10:23:11,10.902s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:23:00,2023-11-01 10:23:00,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:23:00,2023-11-01 10:23:03,2.768s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:23:03,2023-11-01 10:23:07,3.511s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:23:07,2023-11-01 10:23:07,0.238s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:23:07,2023-11-01 10:23:08,1.398s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Chrome 118.0.0.0,,,2023-11-01 10:23:08,2023-11-01 10:23:09,0.914s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Easy, speed""), ""Easy, speed"")",Chrome 118.0.0.0,,,2023-11-01 10:23:09,2023-11-01 10:23:10,0.466s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Flexibility, Scalability""), ""Flexibility, Scalability"")",Chrome 118.0.0.0,,,2023-11-01 10:23:10,2023-11-01 10:23:10,0.317s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Visibility""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:23:10,2023-11-01 10:23:10,0.295s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Innovation  AI""), ""Innovation & AI"")",Chrome 118.0.0.0,,,2023-11-01 10:23:10,2023-11-01 10:23:11,0.308s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Low cost, high ROI""), ""Low cost, high ROI"")",Chrome 118.0.0.0,,,2023-11-01 10:23:11,2023-11-01 10:23:11,0.331s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:23:11,2023-11-01 10:23:11,0.338s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:23:11,2023-11-01 10:23:11,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon Course finding,Chrome 118.0.0.0,,,2023-11-01 10:23:11,2023-11-01 10:23:35,23.805s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:23:11,2023-11-01 10:23:11,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:23:11,2023-11-01 10:23:14,2.704s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:23:14,2023-11-01 10:23:18,3.876s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:23:18,2023-11-01 10:23:18,0.173s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:23:18,2023-11-01 10:23:20,1.669s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources""))",Chrome 118.0.0.0,,,2023-11-01 10:23:20,2023-11-01 10:23:20,0.523s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources""))",Chrome 118.0.0.0,,,2023-11-01 10:23:20,2023-11-01 10:23:21,0.498s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy""))",Chrome 118.0.0.0,,,2023-11-01 10:23:21,2023-11-01 10:23:22,0.881s,PASSED
+"switchToWindowTitle(""Katalon Academy - Automation Testing Courses to Level Up"")",Chrome 118.0.0.0,,,2023-11-01 10:23:22,2023-11-01 10:23:25,3.472s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course""))",Chrome 118.0.0.0,,,2023-11-01 10:23:25,2023-11-01 10:23:26,1.057s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_""))",Chrome 118.0.0.0,,,2023-11-01 10:23:26,2023-11-01 10:23:27,0.726s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img""))",Chrome 118.0.0.0,,,2023-11-01 10:23:27,2023-11-01 10:23:28,0.850s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s""), ""test automation"")",Chrome 118.0.0.0,,,2023-11-01 10:23:28,2023-11-01 10:23:28,0.781s,PASSED
+"sendKeys(findTestObject(""Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s""), Keys.chord(ENTER))",Chrome 118.0.0.0,,,2023-11-01 10:23:28,2023-11-01 10:23:30,1.472s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a""))",Chrome 118.0.0.0,,,2023-11-01 10:23:30,2023-11-01 10:23:33,3.496s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:23:33,2023-11-01 10:23:34,0.882s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:23:34,2023-11-01 10:23:35,0.724s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:23:35,2023-11-01 10:23:35,0.002s,PASSED
+,,,,,,,
+Test Cases/Katalon Download Studio check,Chrome 118.0.0.0,,,2023-11-01 10:23:35,2023-11-01 10:23:51,15.773s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:23:35,2023-11-01 10:23:35,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:23:35,2023-11-01 10:23:38,2.835s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:23:38,2023-11-01 10:23:41,3.170s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:23:41,2023-11-01 10:23:41,0.159s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:23:41,2023-11-01 10:23:43,1.840s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio""))",Chrome 118.0.0.0,,,2023-11-01 10:23:43,2023-11-01 10:23:45,2.220s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d""))",Chrome 118.0.0.0,,,2023-11-01 10:23:45,2023-11-01 10:23:48,2.476s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64""))",Chrome 118.0.0.0,,,2023-11-01 10:23:48,2023-11-01 10:23:48,0.732s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0""))",Chrome 118.0.0.0,,,2023-11-01 10:23:48,2023-11-01 10:23:49,0.473s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8""))",Chrome 118.0.0.0,,,2023-11-01 10:23:49,2023-11-01 10:23:49,0.350s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:23:49,2023-11-01 10:23:50,0.521s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download""))",Chrome 118.0.0.0,,,2023-11-01 10:23:50,2023-11-01 10:23:50,0.312s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -""), ""Sign up now ->"")",Chrome 118.0.0.0,,,2023-11-01 10:23:50,2023-11-01 10:23:50,0.302s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:23:50,2023-11-01 10:23:51,0.355s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:23:51,2023-11-01 10:23:51,0.001s,PASSED
+,,,,,,,
+Test Cases/Katalon Price Check,Chrome 118.0.0.0,,,2023-11-01 10:23:51,2023-11-01 10:24:08,17.057s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:23:51,2023-11-01 10:23:51,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:23:51,2023-11-01 10:23:53,2.695s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:23:53,2023-11-01 10:23:56,2.978s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:23:56,2023-11-01 10:23:57,0.146s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-11-01 10:23:57,2023-11-01 10:23:58,1.897s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Pricing""))",Chrome 118.0.0.0,,,2023-11-01 10:23:58,2023-11-01 10:24:02,3.937s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kse_number""), ""5"")",Chrome 118.0.0.0,,,2023-11-01 10:24:02,2023-11-01 10:24:05,2.440s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_testcloud_number""), ""5"")",Chrome 118.0.0.0,,,2023-11-01 10:24:05,2023-11-01 10:24:06,1.493s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kre_number""), ""5"")",Chrome 118.0.0.0,,,2023-11-01 10:24:06,2023-11-01 10:24:07,1.095s,PASSED
+"scrollToPosition(0, 3)",Chrome 118.0.0.0,,,2023-11-01 10:24:07,2023-11-01 10:24:07,0.013s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:24:07,2023-11-01 10:24:08,0.349s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:24:08,2023-11-01 10:24:08,0.001s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the 3 languages present in PMI,Chrome 118.0.0.0,,,2023-11-01 10:24:08,2023-11-01 10:24:18,10.484s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:24:08,2023-11-01 10:24:08,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:24:08,2023-11-01 10:24:11,2.737s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Chrome 118.0.0.0,,,2023-11-01 10:24:11,2023-11-01 10:24:15,4.213s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:24:15,2023-11-01 10:24:15,0.163s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/span_OK""))",Chrome 118.0.0.0,,,2023-11-01 10:24:15,2023-11-01 10:24:17,2.113s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_View in English""), ""View in English"")",Chrome 118.0.0.0,,,2023-11-01 10:24:17,2023-11-01 10:24:17,0.312s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Ver en Espaol""), ""Ver en Español"")",Chrome 118.0.0.0,,,2023-11-01 10:24:17,2023-11-01 10:24:18,0.309s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Veja em Portugus""), ""Veja em Português"")",Chrome 118.0.0.0,,,2023-11-01 10:24:18,2023-11-01 10:24:18,0.303s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:24:18,2023-11-01 10:24:18,0.319s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:24:18,2023-11-01 10:24:18,0.001s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the portugese language in PMI,Chrome 118.0.0.0,,,2023-11-01 10:24:18,2023-11-01 10:24:33,14.532s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:24:18,2023-11-01 10:24:18,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:24:18,2023-11-01 10:24:21,2.981s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Chrome 118.0.0.0,,,2023-11-01 10:24:21,2023-11-01 10:24:25,4.039s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:24:25,2023-11-01 10:24:26,0.197s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_OK""))",Chrome 118.0.0.0,,,2023-11-01 10:24:26,2023-11-01 10:24:28,2.463s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Veja em Portugus""))",Chrome 118.0.0.0,,,2023-11-01 10:24:28,2023-11-01 10:24:32,3.721s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/PMI/Page_Just a moment/h1_www.pmi.org""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:24:32,2023-11-01 10:24:32,0.728s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:24:32,2023-11-01 10:24:33,0.385s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:24:33,2023-11-01 10:24:33,0.001s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the spanish language in PMI,Chrome 118.0.0.0,,,2023-11-01 10:24:33,2023-11-01 10:24:46,12.933s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:24:33,2023-11-01 10:24:33,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:24:33,2023-11-01 10:24:36,2.849s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Chrome 118.0.0.0,,,2023-11-01 10:24:36,2023-11-01 10:24:40,4.082s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:24:40,2023-11-01 10:24:40,0.174s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/span_OK""))",Chrome 118.0.0.0,,,2023-11-01 10:24:40,2023-11-01 10:24:42,1.564s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Ver en Espaol""))",Chrome 118.0.0.0,,,2023-11-01 10:24:42,2023-11-01 10:24:45,3.186s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/PMI/Page_Just a moment/h1_www.pmi.org""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:24:45,2023-11-01 10:24:45,0.654s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:24:45,2023-11-01 10:24:46,0.407s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:24:46,2023-11-01 10:24:46,0.001s,PASSED
+,,,,,,,
+Test Cases/Search Automation within Deloitte site,Chrome 118.0.0.0,,,2023-11-01 10:24:46,2023-11-01 10:25:23,36.895s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:24:46,2023-11-01 10:24:46,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:24:46,2023-11-01 10:24:48,2.688s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:24:48,2023-11-01 10:24:51,2.403s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:24:51,2023-11-01 10:24:51,0.442s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:24:51,2023-11-01 10:24:56,4.434s,PASSED
+"setText(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c""), ""Automation"")",Chrome 118.0.0.0,,,2023-11-01 10:24:56,2023-11-01 10:24:57,1.021s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search""))",Chrome 118.0.0.0,,,2023-11-01 10:24:57,2023-11-01 10:24:57,0.384s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:24:57,2023-11-01 10:25:19,22.115s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance""))",Chrome 118.0.0.0,,,2023-11-01 10:25:19,2023-11-01 10:25:21,2.031s,PASSED
+"click(findTestObject(""Object Repository/Page_Automation Anywhere Alliance  Deloitte US/div_Deloitte and Automation Anywhere Allian_b995eb""))",Chrome 118.0.0.0,,,2023-11-01 10:25:21,2023-11-01 10:25:22,0.709s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Automation Anywhere Alliance  Deloitte US/h1_Deloitte and Automation Anywhere Alliance""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:25:22,2023-11-01 10:25:22,0.293s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:25:22,2023-11-01 10:25:23,0.356s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:25:23,2023-11-01 10:25:23,0.002s,PASSED
+,,,,,,,
+Test Cases/Search Google,Chrome 118.0.0.0,,,2023-11-01 10:25:23,2023-11-01 10:25:43,20.381s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:25:23,2023-11-01 10:25:23,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:25:23,2023-11-01 10:25:25,2.677s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 118.0.0.0,,,2023-11-01 10:25:25,2023-11-01 10:25:27,1.838s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:25:27,2023-11-01 10:25:27,0.133s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""katalon"")",Chrome 118.0.0.0,,,2023-11-01 10:25:27,2023-11-01 10:25:28,0.667s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_katalon""))",Chrome 118.0.0.0,,,2023-11-01 10:25:28,2023-11-01 10:25:29,0.881s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool""))",Chrome 118.0.0.0,,,2023-11-01 10:25:29,2023-11-01 10:25:33,4.091s,PASSED
+"click(findTestObject(""Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool""))",Chrome 118.0.0.0,,,2023-11-01 10:25:33,2023-11-01 10:25:37,3.600s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Chrome 118.0.0.0,,,2023-11-01 10:25:37,2023-11-01 10:25:39,2.106s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Platform""))",Chrome 118.0.0.0,,,2023-11-01 10:25:39,2023-11-01 10:25:39,0.588s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Chrome 118.0.0.0,,,2023-11-01 10:25:39,2023-11-01 10:25:40,0.504s,PASSED
+"click(findTestObject(""Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started""))",Chrome 118.0.0.0,,,2023-11-01 10:25:40,2023-11-01 10:25:43,2.895s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:25:43,2023-11-01 10:25:43,0.384s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:25:43,2023-11-01 10:25:43,0.000s,PASSED
+,,,,,,,
+Test Cases/Verify Consulting present within Deloitte site,Chrome 118.0.0.0,,,2023-11-01 10:26:31,2023-11-01 10:26:53,21.622s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:26:31,2023-11-01 10:26:31,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:26:31,2023-11-01 10:26:34,3.252s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:26:34,2023-11-01 10:26:37,2.502s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:26:37,2023-11-01 10:26:41,3.849s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services""))",Chrome 118.0.0.0,,,2023-11-01 10:26:41,2023-11-01 10:26:42,0.899s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services""))",Chrome 118.0.0.0,,,2023-11-01 10:26:42,2023-11-01 10:26:42,0.501s,PASSED
+"click(findTestObject(""Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Consulting""))",Chrome 118.0.0.0,,,2023-11-01 10:26:42,2023-11-01 10:26:49,7.270s,PASSED
+"click(findTestObject(""Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting""))",Chrome 118.0.0.0,,,2023-11-01 10:26:49,2023-11-01 10:26:52,2.460s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:26:52,2023-11-01 10:26:52,0.417s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:26:52,2023-11-01 10:26:53,0.459s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:26:53,2023-11-01 10:26:53,0.002s,PASSED
+,,,,,,,
+Test Cases/Verify LifeScience in Deloitte Industry,Chrome 118.0.0.0,,,2023-11-01 10:27:26,2023-11-01 10:27:39,13.047s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:27:26,2023-11-01 10:27:26,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:27:26,2023-11-01 10:27:30,3.076s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:27:30,2023-11-01 10:27:33,3.896s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:27:33,2023-11-01 10:27:34,0.159s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:27:34,2023-11-01 10:27:38,4.587s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search""))",Chrome 118.0.0.0,,,2023-11-01 10:27:38,2023-11-01 10:27:39,0.734s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care""))",Chrome 118.0.0.0,,,2023-11-01 10:27:39,2023-11-01 10:27:39,0.576s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:27:39,2023-11-01 10:27:39,0.001s,PASSED
+,,,,,,,
+Test Cases/Verify Tax in Deloitte website,Chrome 118.0.0.0,,,2023-11-01 10:27:39,2023-11-01 10:28:01,21.883s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 10:27:39,2023-11-01 10:27:39,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 10:27:39,2023-11-01 10:27:43,3.555s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-11-01 10:27:43,2023-11-01 10:27:47,3.795s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 10:27:47,2023-11-01 10:27:47,0.171s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-11-01 10:27:47,2023-11-01 10:27:52,5.406s,PASSED
+"setText(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c""), ""tax"")",Chrome 118.0.0.0,,,2023-11-01 10:27:52,2023-11-01 10:27:54,1.414s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search""))",Chrome 118.0.0.0,,,2023-11-01 10:27:54,2023-11-01 10:27:57,3.159s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Deloitte/Page_Deloitte Search Basic/h1_Results for tax""), 0)",Chrome 118.0.0.0,,,2023-11-01 10:27:57,2023-11-01 10:28:01,4.023s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 10:28:01,2023-11-01 10:28:01,0.346s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 10:28:01,2023-11-01 10:28:01,0.001s,PASSED

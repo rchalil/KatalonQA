@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Gmail/Page_Gmail/span_Next",
+      "brokenLocator": "//div[@id\u003d\u0027identifierNext\u0027]/div/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/div/div/div/button/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231101_100616/Reshna - All TCs Suite2/20231101_100616/Object Repository/Gmail/Page_Gmail/span_Next_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services",
+      "brokenLocator": "//li[@id\u003d\u0027list1\u0027]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Services\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
+}

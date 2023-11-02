@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite - Katalon" time="99.564" tests="4" failures="0" errors="0">
+   <testsuite name="Test Suite - Katalon" tests="4" failures="0" errors="0" time="99.564" skipped="0" timestamp="2023-11-01 13:44:39" hostname="rchalil - USPRNRCHALIL2.us.deloitte.com" id="Test Suites/Test Suite - Katalon">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_134432\\Test Suite - Katalon\\20231101_134432"/>
+         <property name="logFiles" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_134432\\Test Suite - Katalon\\20231101_134432\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_134432\\Test Suite - Katalon\\20231101_134432\\1698860762333.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_134432\\Test Suite - Katalon\\20231101_134432\\1698860762824.png"/>
+         <property name="hostName" value="rchalil - USPRNRCHALIL2.us.deloitte.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+         <property name="browser" value="Chrome 118.0.0.0"/>
+         <property name="hostAddress" value="10.0.0.182"/>
+         <property name="sessionId" value="2b0c4fd9093e2112f1ae489ad283d410"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Katalon Course finding" time="35.354" classname="Test Cases/Katalon Course finding" status="PASSED">
+         <system-out><![CDATA[2023-11-01 13:44:39 - [TEST_CASE][PASSED] - Test Cases/Katalon Course finding: Test Cases/Katalon Course finding
+
+2023-11-01 13:44:39 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 13:44:39 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 13:44:39 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 13:44:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 13:44:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 13:44:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 13:44:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 13:44:46 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 13:44:50 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 13:44:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 13:44:51 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 13:44:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 13:44:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 13:44:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-11-01 13:44:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-11-01 13:44:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-11-01 13:44:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-11-01 13:44:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy' is clicked on
+
+2023-11-01 13:44:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy' is clicked on
+
+2023-11-01 13:44:56 - [TEST_STEP][PASSED] - switchToWindowTitle("Katalon Academy - Automation Testing Courses to Level Up"): Switched to window with title: 'Katalon Academy - Automation Testing Courses to Level Up'
+
+2023-11-01 13:45:00 - [MESSAGE][PASSED] - Switched to window with title: 'Katalon Academy - Automation Testing Courses to Level Up'
+
+2023-11-01 13:45:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course")): Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course' is clicked on
+
+2023-11-01 13:45:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course' is clicked on
+
+2023-11-01 13:45:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_")): Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_' is clicked on
+
+2023-11-01 13:45:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_' is clicked on
+
+2023-11-01 13:45:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img")): Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img' is clicked on
+
+2023-11-01 13:45:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img' is clicked on
+
+2023-11-01 13:45:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s"), "test automation"): Text 'test automation' is set on object 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-11-01 13:45:05 - [MESSAGE][PASSED] - Text 'test automation' is set on object 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-11-01 13:45:05 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-11-01 13:45:07 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-11-01 13:45:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a")): Object: 'Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a' is clicked on
+
+2023-11-01 13:45:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a' is clicked on
+
+2023-11-01 13:45:12 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll"), 0): Object 'Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll' is present
+
+2023-11-01 13:45:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 13:45:13 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll' is present
+
+2023-11-01 13:45:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 13:45:14 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 13:45:14 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 13:45:14 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 13:45:14 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon Download Studio check" time="16.558" classname="Test Cases/Katalon Download Studio check" status="PASSED">
+         <system-out><![CDATA[2023-11-01 13:45:14 - [TEST_CASE][PASSED] - Test Cases/Katalon Download Studio check: Test Cases/Katalon Download Studio check
+
+2023-11-01 13:45:14 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 13:45:14 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 13:45:14 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 13:45:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 13:45:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 13:45:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 13:45:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 13:45:18 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 13:45:21 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 13:45:21 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 13:45:22 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 13:45:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 13:45:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 13:45:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio' is clicked on
+
+2023-11-01 13:45:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio' is clicked on
+
+2023-11-01 13:45:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d' is clicked on
+
+2023-11-01 13:45:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d' is clicked on
+
+2023-11-01 13:45:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64' is clicked on
+
+2023-11-01 13:45:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64' is clicked on
+
+2023-11-01 13:45:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0' is clicked on
+
+2023-11-01 13:45:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0' is clicked on
+
+2023-11-01 13:45:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8' is clicked on
+
+2023-11-01 13:45:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8' is clicked on
+
+2023-11-01 13:45:29 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download"), 0): Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is present
+
+2023-11-01 13:45:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 13:45:30 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is present
+
+2023-11-01 13:45:30 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download")): Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is visible
+
+2023-11-01 13:45:30 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is visible
+
+2023-11-01 13:45:30 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -"), "Sign up now ->"): Actual text and expected text of test object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -' are matched.
+
+2023-11-01 13:45:30 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -' are matched.
+
+2023-11-01 13:45:30 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 13:45:31 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 13:45:31 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 13:45:31 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 13:45:31 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify Incorrect email verification" time="16.027" classname="Test Cases/Katalon - Verify Incorrect email verification" status="PASSED">
+         <system-out><![CDATA[2023-11-01 13:45:31 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify Incorrect email verification: Test Cases/Katalon - Verify Incorrect email verification
+
+2023-11-01 13:45:31 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 13:45:31 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 13:45:31 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 13:45:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 13:45:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 13:45:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 13:45:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 13:45:34 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 13:45:37 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 13:45:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-11-01 13:45:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-11-01 13:45:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in")): Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in' is clicked on
+
+2023-11-01 13:45:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in' is clicked on
+
+2023-11-01 13:45:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up")): Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-11-01 13:45:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-11-01 13:45:45 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text"), 0): Object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text' is present
+
+2023-11-01 13:45:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 13:45:46 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text' is present
+
+2023-11-01 13:45:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 13:45:47 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 13:45:47 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 13:45:47 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 13:45:47 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify the error message on the SignUp Page" time="15.544" classname="Test Cases/Katalon - Verify the error message on the SignUp Page" status="PASSED">
+         <system-out><![CDATA[2023-11-01 13:46:03 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify the error message on the SignUp Page: Test Cases/Katalon - Verify the error message on the SignUp Page
+
+2023-11-01 13:46:03 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 13:46:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 13:46:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 13:46:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 13:46:03 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-01 13:46:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 13:46:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 13:46:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 13:46:08 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 13:46:11 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 13:46:11 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 13:46:11 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 13:46:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 13:46:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 13:46:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-11-01 13:46:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-11-01 13:46:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up")): Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up' is clicked on
+
+2023-11-01 13:46:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up' is clicked on
+
+2023-11-01 13:46:17 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields"), "Please fill all form fields"): Actual text and expected text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' are matched.
+
+2023-11-01 13:46:18 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' are matched.
+
+2023-11-01 13:46:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 13:46:18 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 13:46:18 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 13:46:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 13:46:18 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-11-01 13:44:39 - [TEST_SUITE][FAILED] - Test Suite - Katalon: Test Cases/Katalon - Verify the error message on the SignUp Page FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4796)
+	at Katalon - Verify the error message on the SignUp Page.run(Katalon - Verify the error message on the SignUp Page:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698860672704.run(TempTestSuite1698860672704.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text '' and expected text 'Please fill all form fields' of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[2023-11-01 13:44:39 - [TEST_SUITE][FAILED] - Test Suite - Katalon: Test Cases/Katalon - Verify the error message on the SignUp Page FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4796)
+	at Katalon - Verify the error message on the SignUp Page.run(Katalon - Verify the error message on the SignUp Page:32)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698860672704.run(TempTestSuite1698860672704.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text '' and expected text 'Please fill all form fields' of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

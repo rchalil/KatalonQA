@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Reshna - Gmail Suite" time="66.48" tests="4" failures="0" errors="0">
+   <testsuite name="Reshna - Gmail Suite" tests="4" failures="0" errors="0" time="66.48" skipped="0" timestamp="2023-11-01 11:44:42" hostname="rchalil - USPRNRCHALIL2.us.deloitte.com" id="Test Suites/Reshna - Gmail Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_114432\\Reshna - Gmail Suite\\20231101_114433"/>
+         <property name="logFiles" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_114432\\Reshna - Gmail Suite\\20231101_114433\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="rchalil - USPRNRCHALIL2.us.deloitte.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+         <property name="browser" value="Edge Chromium 118"/>
+         <property name="hostAddress" value="10.0.0.182"/>
+         <property name="sessionId" value="c5fb55c4f57f3d21d86f51fae4e86521"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Gmail - Forgot email verification" time="40.149" classname="Test Cases/Gmail - Forgot email verification" status="PASSED">
+         <system-out><![CDATA[2023-11-01 11:44:43 - [TEST_CASE][PASSED] - Test Cases/Gmail - Forgot email verification: Test Cases/Gmail - Forgot email verification
+
+2023-11-01 11:44:43 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 11:44:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 11:44:43 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 11:44:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 11:44:43 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2023-11-01 11:44:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 11:44:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 11:44:47 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyz2KxDaCIoSux7c4LnD_19qaKALraXqCL6tDXgQtR0fl_r0sRWKJdWPPWF9Ald7Va9H4pwIZA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285881911%3A1698779896826121&theme=glif#inbox"): Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyz2KxDaCIoSux7c4LnD_19qaKALraXqCL6tDXgQtR0fl_r0sRWKJdWPPWF9Ald7Va9H4pwIZA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285881911%3A1698779896826121&theme=glif#inbox' successfully
+
+2023-11-01 11:44:49 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyz2KxDaCIoSux7c4LnD_19qaKALraXqCL6tDXgQtR0fl_r0sRWKJdWPPWF9Ald7Va9H4pwIZA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285881911%3A1698779896826121&theme=glif#inbox' successfully
+
+2023-11-01 11:44:49 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 11:44:49 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 11:44:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/button_Forgot email")): Object: 'Object Repository/Gmail/Page_Gmail/button_Forgot email' is clicked on
+
+2023-11-01 11:44:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/button_Forgot email' is clicked on
+
+2023-11-01 11:44:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:22 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='identifierNext']/div/button/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-11-01 11:45:22 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Gmail/Page_Gmail/span_Next'. Try using Self-healing.
+
+2023-11-01 11:45:22 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Gmail/Page_Gmail/span_Next' was broken. Propose an alternative one: '//div[2]/div/div/div/div/button/span'.
+
+2023-11-01 11:45:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Gmail/Page_Gmail/div_Enter a valid email or phone number"), 0): Object 'Object Repository/Gmail/Page_Gmail/div_Enter a valid email or phone number' is present
+
+2023-11-01 11:45:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 11:45:22 - [MESSAGE][PASSED] - Object 'Object Repository/Gmail/Page_Gmail/div_Enter a valid email or phone number' is present
+
+2023-11-01 11:45:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 11:45:23 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 11:45:23 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 11:45:23 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 11:45:23 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Gmail - Incorrect login verification" time="6.648" classname="Test Cases/Gmail - Incorrect login verification" status="PASSED">
+         <system-out><![CDATA[2023-11-01 11:45:23 - [TEST_CASE][PASSED] - Test Cases/Gmail - Incorrect login verification: Test Cases/Gmail - Incorrect login verification
+
+2023-11-01 11:45:23 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 11:45:23 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 11:45:23 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 11:45:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 11:45:23 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2023-11-01 11:45:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 11:45:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 11:45:26 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywlj-QeinCv6drOjCNfoQ8bXTmpp7Hl7eVjr0AUWTEmWXqv0AIumDuU5lI3vpnkTyFo2aOM&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458760932%3A1698778577004689&theme=glif#inbox"): Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywlj-QeinCv6drOjCNfoQ8bXTmpp7Hl7eVjr0AUWTEmWXqv0AIumDuU5lI3vpnkTyFo2aOM&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458760932%3A1698778577004689&theme=glif#inbox' successfully
+
+2023-11-01 11:45:27 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywlj-QeinCv6drOjCNfoQ8bXTmpp7Hl7eVjr0AUWTEmWXqv0AIumDuU5lI3vpnkTyFo2aOM&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458760932%3A1698778577004689&theme=glif#inbox' successfully
+
+2023-11-01 11:45:27 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 11:45:27 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 11:45:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Gmail/Page_Gmail/input_identifier"), "abcxyz"): Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 11:45:28 - [MESSAGE][PASSED] - Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 11:45:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:28 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Gmail/Page_Gmail/span_Couldnt sign you in"), 0): Object 'Object Repository/Gmail/Page_Gmail/span_Couldnt sign you in' is present
+
+2023-11-01 11:45:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 11:45:29 - [MESSAGE][PASSED] - Object 'Object Repository/Gmail/Page_Gmail/span_Couldnt sign you in' is present
+
+2023-11-01 11:45:29 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 11:45:30 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 11:45:30 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 11:45:30 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 11:45:30 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Gmail - Try again with invalid login" time="12.525" classname="Test Cases/Gmail - Try again with invalid login" status="PASSED">
+         <system-out><![CDATA[2023-11-01 11:45:30 - [TEST_CASE][PASSED] - Test Cases/Gmail - Try again with invalid login: Test Cases/Gmail - Try again with invalid login
+
+2023-11-01 11:45:30 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 11:45:30 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 11:45:30 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 11:45:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 11:45:30 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2023-11-01 11:45:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 11:45:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 11:45:33 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S218891431%3A1698778883803894&theme=glif#inbox"): Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S218891431%3A1698778883803894&theme=glif#inbox' successfully
+
+2023-11-01 11:45:34 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S218891431%3A1698778883803894&theme=glif#inbox' successfully
+
+2023-11-01 11:45:34 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 11:45:34 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 11:45:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Gmail/Page_Gmail/input_identifier"), "abcxyz"): Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 11:45:35 - [MESSAGE][PASSED] - Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 11:45:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb")): Object: 'Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb' is clicked on
+
+2023-11-01 11:45:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb' is clicked on
+
+2023-11-01 11:45:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Gmail/Page_Gmail/input_identifier"), "abcxyz"): Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 11:45:40 - [MESSAGE][PASSED] - Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 11:45:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:40 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1"), 0): Object 'Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1' is present
+
+2023-11-01 11:45:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 11:45:41 - [MESSAGE][PASSED] - Object 'Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1' is present
+
+2023-11-01 11:45:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 11:45:42 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 11:45:42 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 11:45:42 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 11:45:42 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Gmail - Verify the validation message" time="6.858" classname="Test Cases/Gmail - Verify the validation message" status="PASSED">
+         <system-out><![CDATA[2023-11-01 11:45:42 - [TEST_CASE][PASSED] - Test Cases/Gmail - Verify the validation message: Test Cases/Gmail - Verify the validation message
+
+2023-11-01 11:45:42 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 11:45:42 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 11:45:42 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 11:45:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 11:45:42 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2023-11-01 11:45:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 11:45:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 11:45:45 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyzR6pw5d28fypnZRPD2z3UMAtruQJTmGrturMB1BE3plFqEShDNo4O4MTXu67xx9JFqi_TIZw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292309958%3A1698780033683571&theme=glif#inbox"): Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyzR6pw5d28fypnZRPD2z3UMAtruQJTmGrturMB1BE3plFqEShDNo4O4MTXu67xx9JFqi_TIZw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292309958%3A1698780033683571&theme=glif#inbox' successfully
+
+2023-11-01 11:45:47 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyzR6pw5d28fypnZRPD2z3UMAtruQJTmGrturMB1BE3plFqEShDNo4O4MTXu67xx9JFqi_TIZw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292309958%3A1698780033683571&theme=glif#inbox' successfully
+
+2023-11-01 11:45:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 11:45:48 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 11:45:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 11:45:48 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Gmail/Page_Gmail/div_Email or phoneEnter an email or phone number"), 0): Object 'Object Repository/Gmail/Page_Gmail/div_Email or phoneEnter an email or phone number' is present
+
+2023-11-01 11:45:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 11:45:48 - [MESSAGE][PASSED] - Object 'Object Repository/Gmail/Page_Gmail/div_Email or phoneEnter an email or phone number' is present
+
+2023-11-01 11:45:48 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 11:45:49 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 11:45:49 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 11:45:49 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 11:45:49 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-11-01 11:44:42 - [TEST_SUITE][PASSED] - Reshna - Gmail Suite: Test Cases/Gmail - Verify the validation message]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
