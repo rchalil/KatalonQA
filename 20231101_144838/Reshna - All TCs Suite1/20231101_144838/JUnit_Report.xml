@@ -1,0 +1,1889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Reshna - All TCs Suite1" time="747.059" tests="20" failures="3" errors="0">
+   <testsuite name="Reshna - All TCs Suite1" tests="20" failures="3" errors="0" time="747.059" skipped="0" timestamp="2023-11-01 14:48:45" hostname="rchalil - USPRNRCHALIL2.us.deloitte.com" id="Test Suites/Reshna - All TCs Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838"/>
+         <property name="logFiles" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864777143.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864777348.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864822161.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864822331.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864868221.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864868390.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864912260.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864912493.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864964409.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698865014238.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698865064354.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698865113867.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698865156446.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698865169682.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698865181501.png, C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698865193667.png"/>
+         <property name="hostName" value="rchalil - USPRNRCHALIL2.us.deloitte.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+         <property name="browser" value="Chrome 118.0.0.0"/>
+         <property name="hostAddress" value="10.0.0.182"/>
+         <property name="sessionId" value="546b562061ee46ea54c275c1cb045468"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Gmail - Try again with invalid login" time="14.951" classname="Test Cases/Gmail - Try again with invalid login" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:48:46 - [TEST_CASE][PASSED] - Test Cases/Gmail - Try again with invalid login: Test Cases/Gmail - Try again with invalid login
+
+2023-11-01 14:48:46 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:48:46 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:48:46 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:48:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:48:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:48:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:48:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:48:51 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S218891431%3A1698778883803894&theme=glif#inbox"): Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S218891431%3A1698778883803894&theme=glif#inbox' successfully
+
+2023-11-01 14:48:52 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S218891431%3A1698778883803894&theme=glif#inbox' successfully
+
+2023-11-01 14:48:52 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:48:52 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:48:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Gmail/Page_Gmail/input_identifier"), "abcxyz"): Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 14:48:53 - [MESSAGE][PASSED] - Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 14:48:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 14:48:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 14:48:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb")): Object: 'Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb' is clicked on
+
+2023-11-01 14:48:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb' is clicked on
+
+2023-11-01 14:48:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Gmail/Page_Gmail/input_identifier"), "abcxyz"): Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 14:48:59 - [MESSAGE][PASSED] - Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 14:48:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 14:48:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 14:48:59 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1"), 0): Object 'Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1' is present
+
+2023-11-01 14:48:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:49:00 - [MESSAGE][PASSED] - Object 'Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1' is present
+
+2023-11-01 14:49:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:49:01 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:49:01 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:49:01 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:49:01 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Gmail - Verify the validation message" time="7.744" classname="Test Cases/Gmail - Verify the validation message" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:49:01 - [TEST_CASE][PASSED] - Test Cases/Gmail - Verify the validation message: Test Cases/Gmail - Verify the validation message
+
+2023-11-01 14:49:01 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:49:01 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:49:01 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:49:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:49:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:49:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:49:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:49:05 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyzR6pw5d28fypnZRPD2z3UMAtruQJTmGrturMB1BE3plFqEShDNo4O4MTXu67xx9JFqi_TIZw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292309958%3A1698780033683571&theme=glif#inbox"): Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyzR6pw5d28fypnZRPD2z3UMAtruQJTmGrturMB1BE3plFqEShDNo4O4MTXu67xx9JFqi_TIZw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292309958%3A1698780033683571&theme=glif#inbox' successfully
+
+2023-11-01 14:49:07 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyzR6pw5d28fypnZRPD2z3UMAtruQJTmGrturMB1BE3plFqEShDNo4O4MTXu67xx9JFqi_TIZw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292309958%3A1698780033683571&theme=glif#inbox' successfully
+
+2023-11-01 14:49:07 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:49:07 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:49:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 14:49:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 14:49:08 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Gmail/Page_Gmail/div_Email or phoneEnter an email or phone number"), 0): Object 'Object Repository/Gmail/Page_Gmail/div_Email or phoneEnter an email or phone number' is present
+
+2023-11-01 14:49:08 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:49:08 - [MESSAGE][PASSED] - Object 'Object Repository/Gmail/Page_Gmail/div_Email or phoneEnter an email or phone number' is present
+
+2023-11-01 14:49:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:49:09 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:49:09 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:49:09 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:49:09 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Benefits test" time="17.259" classname="Test Cases/Katalon - Benefits test" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:49:09 - [TEST_CASE][PASSED] - Test Cases/Katalon - Benefits test: Test Cases/Katalon - Benefits test
+
+2023-11-01 14:49:09 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:49:09 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:49:09 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:49:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:49:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:49:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:49:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:49:12 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:49:17 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:49:17 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:49:17 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:49:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:49:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:49:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-11-01 14:49:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-11-01 14:49:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Seamless test automation with an end-to_9d1ee8"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Seamless test automation with an end-to_9d1ee8' is present
+
+2023-11-01 14:49:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:49:24 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Seamless test automation with an end-to_9d1ee8' is present
+
+2023-11-01 14:49:24 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Visibility throughout the test pipeline"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Visibility throughout the test pipeline' is present
+
+2023-11-01 14:49:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:49:24 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Visibility throughout the test pipeline' is present
+
+2023-11-01 14:49:24 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Centralized workflows to focus on softw_0ff7fc"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Centralized workflows to focus on softw_0ff7fc' is present
+
+2023-11-01 14:49:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:49:25 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Centralized workflows to focus on softw_0ff7fc' is present
+
+2023-11-01 14:49:25 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Low-code UI to keep everyone, tech or b_bd4e50"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Low-code UI to keep everyone, tech or b_bd4e50' is present
+
+2023-11-01 14:49:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:49:25 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Low-code UI to keep everyone, tech or b_bd4e50' is present
+
+2023-11-01 14:49:25 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Out-of-the-box fit for any ALM, CI tool_5242ad"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Out-of-the-box fit for any ALM, CI tool_5242ad' is present
+
+2023-11-01 14:49:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:49:25 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Out-of-the-box fit for any ALM, CI tool_5242ad' is present
+
+2023-11-01 14:49:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:49:26 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:49:26 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:49:26 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:49:26 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Review star verification" time="13.092" classname="Test Cases/Katalon - Review star verification" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:49:26 - [TEST_CASE][PASSED] - Test Cases/Katalon - Review star verification: Test Cases/Katalon - Review star verification
+
+2023-11-01 14:49:26 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:49:26 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:49:26 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:49:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:49:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:49:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:49:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:49:29 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:49:32 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:49:32 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:49:32 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:49:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:49:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:49:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-11-01 14:49:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-11-01 14:49:37 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/img_rating"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/img_rating' is present
+
+2023-11-01 14:49:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:49:38 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/img_rating' is present
+
+2023-11-01 14:49:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:49:39 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:49:39 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:49:39 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:49:39 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify Contact us link is present" time="40.696" classname="Test Cases/Katalon - Verify Contact us link is present" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:49:39 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify Contact us link is present: Test Cases/Katalon - Verify Contact us link is present
+
+2023-11-01 14:49:39 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:49:39 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:49:39 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:49:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:49:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:49:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:49:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:49:42 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:49:47 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:49:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:49:47 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:49:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:50:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:50:14 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us"), 0): Object 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us' is present
+
+2023-11-01 14:50:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:50:15 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us' is present
+
+2023-11-01 14:50:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us' is clicked on
+
+2023-11-01 14:50:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us' is clicked on
+
+2023-11-01 14:50:18 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/h1_How can we help"), 0): Object 'Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/h1_How can we help' is present
+
+2023-11-01 14:50:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:50:19 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/h1_How can we help' is present
+
+2023-11-01 14:50:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:50:20 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:50:20 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:50:20 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:50:20 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify Gartner in Katalon site" time="13.184" classname="Test Cases/Katalon - Verify Gartner in Katalon site" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:50:20 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify Gartner in Katalon site: Test Cases/Katalon - Verify Gartner in Katalon site
+
+2023-11-01 14:50:20 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:50:20 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:50:20 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:50:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:50:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:50:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:50:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:50:23 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:50:26 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:50:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:50:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:50:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-11-01 14:50:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-11-01 14:50:31 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/img_industry"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/img_industry' is present
+
+2023-11-01 14:50:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:50:32 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/img_industry' is present
+
+2023-11-01 14:50:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:50:33 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:50:33 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:50:33 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:50:33 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify Incorrect email verification" time="16.553" classname="Test Cases/Katalon - Verify Incorrect email verification" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:50:33 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify Incorrect email verification: Test Cases/Katalon - Verify Incorrect email verification
+
+2023-11-01 14:50:33 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:50:33 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:50:33 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:50:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:50:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:50:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:50:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:50:36 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:50:39 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:50:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-11-01 14:50:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-11-01 14:50:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in")): Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in' is clicked on
+
+2023-11-01 14:50:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in' is clicked on
+
+2023-11-01 14:50:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up")): Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-11-01 14:50:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-11-01 14:50:48 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text"), 0): Object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text' is present
+
+2023-11-01 14:50:48 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:50:49 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text' is present
+
+2023-11-01 14:50:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:50:49 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:50:49 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:50:49 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:50:49 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify the error message on the SignUp Page" time="13.454" classname="Test Cases/Katalon - Verify the error message on the SignUp Page" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:50:49 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify the error message on the SignUp Page: Test Cases/Katalon - Verify the error message on the SignUp Page
+
+2023-11-01 14:50:49 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:50:49 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:50:49 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:50:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:50:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:50:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:50:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:50:52 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:50:56 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:50:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:50:56 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:50:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:50:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:50:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-11-01 14:51:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-11-01 14:51:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up")): Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up' is clicked on
+
+2023-11-01 14:51:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up' is clicked on
+
+2023-11-01 14:51:02 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields"), "Please fill all form fields"): Actual text and expected text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' are matched.
+
+2023-11-01 14:51:02 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' are matched.
+
+2023-11-01 14:51:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:51:03 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:51:03 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:51:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:51:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Video verification" time="13.429" classname="Test Cases/Katalon - Video verification" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:51:03 - [TEST_CASE][PASSED] - Test Cases/Katalon - Video verification: Test Cases/Katalon - Video verification
+
+2023-11-01 14:51:03 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:51:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:51:03 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:51:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:51:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:51:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:51:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:51:06 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:51:09 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:51:09 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:51:09 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:51:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:51:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:51:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-11-01 14:51:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-11-01 14:51:14 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background"), 10): Object 'Object Repository/Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background' is clickable
+
+2023-11-01 14:51:15 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background' is clickable
+
+2023-11-01 14:51:15 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background")): Object 'Object Repository/Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background' is clickable
+
+2023-11-01 14:51:16 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/divwistia_87.big_play_button_background' is clickable
+
+2023-11-01 14:51:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:51:16 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:51:16 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:51:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:51:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon Course finding" time="23.489" classname="Test Cases/Katalon Course finding" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:51:16 - [TEST_CASE][PASSED] - Test Cases/Katalon Course finding: Test Cases/Katalon Course finding
+
+2023-11-01 14:51:16 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:51:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:51:16 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:51:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:51:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:51:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:51:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:51:19 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:51:22 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:51:22 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:51:23 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:51:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:51:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:51:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-11-01 14:51:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-11-01 14:51:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-11-01 14:51:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-11-01 14:51:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy' is clicked on
+
+2023-11-01 14:51:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy' is clicked on
+
+2023-11-01 14:51:26 - [TEST_STEP][PASSED] - switchToWindowTitle("Katalon Academy - Automation Testing Courses to Level Up"): Switched to window with title: 'Katalon Academy - Automation Testing Courses to Level Up'
+
+2023-11-01 14:51:30 - [MESSAGE][PASSED] - Switched to window with title: 'Katalon Academy - Automation Testing Courses to Level Up'
+
+2023-11-01 14:51:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course")): Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course' is clicked on
+
+2023-11-01 14:51:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course' is clicked on
+
+2023-11-01 14:51:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_")): Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_' is clicked on
+
+2023-11-01 14:51:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_' is clicked on
+
+2023-11-01 14:51:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img")): Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img' is clicked on
+
+2023-11-01 14:51:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img' is clicked on
+
+2023-11-01 14:51:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s"), "test automation"): Text 'test automation' is set on object 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-11-01 14:51:33 - [MESSAGE][PASSED] - Text 'test automation' is set on object 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-11-01 14:51:33 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-11-01 14:51:35 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-11-01 14:51:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a")): Object: 'Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a' is clicked on
+
+2023-11-01 14:51:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a' is clicked on
+
+2023-11-01 14:51:38 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll"), 0): Object 'Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll' is present
+
+2023-11-01 14:51:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:51:39 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll' is present
+
+2023-11-01 14:51:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:51:40 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:51:40 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:51:40 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:51:40 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon Download Studio check" time="15.41" classname="Test Cases/Katalon Download Studio check" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:51:40 - [TEST_CASE][PASSED] - Test Cases/Katalon Download Studio check: Test Cases/Katalon Download Studio check
+
+2023-11-01 14:51:40 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:51:40 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:51:40 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:51:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:51:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:51:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:51:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:51:43 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:51:47 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:51:47 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:51:47 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:51:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:51:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:51:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio' is clicked on
+
+2023-11-01 14:51:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio' is clicked on
+
+2023-11-01 14:51:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d' is clicked on
+
+2023-11-01 14:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d' is clicked on
+
+2023-11-01 14:51:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64' is clicked on
+
+2023-11-01 14:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64' is clicked on
+
+2023-11-01 14:51:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0' is clicked on
+
+2023-11-01 14:51:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0' is clicked on
+
+2023-11-01 14:51:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8' is clicked on
+
+2023-11-01 14:51:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8' is clicked on
+
+2023-11-01 14:51:54 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download"), 0): Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is present
+
+2023-11-01 14:51:54 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:51:54 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is present
+
+2023-11-01 14:51:54 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download")): Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is visible
+
+2023-11-01 14:51:54 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is visible
+
+2023-11-01 14:51:54 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -"), "Sign up now ->"): Actual text and expected text of test object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -' are matched.
+
+2023-11-01 14:51:55 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -' are matched.
+
+2023-11-01 14:51:55 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:51:55 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:51:55 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:51:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:51:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon Price Check" time="15.517" classname="Test Cases/Katalon Price Check" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:51:55 - [TEST_CASE][PASSED] - Test Cases/Katalon Price Check: Test Cases/Katalon Price Check
+
+2023-11-01 14:51:55 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:51:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:51:55 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:51:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:51:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:51:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:51:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:51:58 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:52:01 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-11-01 14:52:01 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:52:01 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:52:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:52:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-11-01 14:52:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Pricing")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Pricing' is clicked on
+
+2023-11-01 14:52:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Pricing' is clicked on
+
+2023-11-01 14:52:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kse_number"), "5"): Text '5' is set on object 'Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kse_number'
+
+2023-11-01 14:52:08 - [MESSAGE][PASSED] - Text '5' is set on object 'Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kse_number'
+
+2023-11-01 14:52:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_testcloud_number"), "5"): Text '5' is set on object 'Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_testcloud_number'
+
+2023-11-01 14:52:09 - [MESSAGE][PASSED] - Text '5' is set on object 'Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_testcloud_number'
+
+2023-11-01 14:52:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kre_number"), "5"): Text '5' is set on object 'Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kre_number'
+
+2023-11-01 14:52:10 - [MESSAGE][PASSED] - Text '5' is set on object 'Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kre_number'
+
+2023-11-01 14:52:10 - [TEST_STEP][PASSED] - scrollToPosition(0, 3): Browser is scrolled to position x = 0, y = 3
+
+2023-11-01 14:52:10 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 3
+
+2023-11-01 14:52:10 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:52:11 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:52:11 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:52:11 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:52:11 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search Automation within Deloitte site" time="44.186" classname="Test Cases/Search Automation within Deloitte site" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Search Automation within Deloitte site FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' is present&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)&#xa;	at Search Automation within Deloitte site.run(Search Automation within Deloitte site:33)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)&#xa;	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' located by '//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a' not found&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[2023-11-01 14:54:28 - [TEST_CASE][FAILED] - Test Cases/Search Automation within Deloitte site: Test Cases/Search Automation within Deloitte site FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at Search Automation within Deloitte site.run(Search Automation within Deloitte site:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' located by '//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+2023-11-01 14:54:28 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:54:28 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:54:28 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:54:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:54:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-01 14:54:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:54:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:54:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:54:31 - [TEST_STEP][PASSED] - navigateToUrl("https://www2.deloitte.com/us/en.html"): Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 14:54:34 - [MESSAGE][PASSED] - Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 14:54:34 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:54:34 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:54:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close")): Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 14:54:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 14:54:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c"), "Automation"): Text 'Automation' is set on object 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c'
+
+2023-11-01 14:54:40 - [MESSAGE][PASSED] - Text 'Automation' is set on object 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c'
+
+2023-11-01 14:54:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search")): Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search' is clicked on
+
+2023-11-01 14:54:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search' is clicked on
+
+2023-11-01 14:54:41 - [TEST_STEP][FAILED] - verifyElementPresent(findTestObject("Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance"), 0): Unable to verify object 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at Search Automation within Deloitte site.run(Search Automation within Deloitte site:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' located by '//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+)
+
+2023-11-01 14:54:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:55:12 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-11-01 14:55:12 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' located by '//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' located by '//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at Search Automation within Deloitte site.run(Search Automation within Deloitte site:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864912260.png]]
+
+2023-11-01 14:55:12 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' is present (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at Search Automation within Deloitte site.run(Search Automation within Deloitte site:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' located by '//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+)
+[[ATTACHMENT|C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698864912493.png]]
+
+2023-11-01 14:55:12 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:55:12 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:55:12 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[2023-11-01 14:54:28 - [TEST_CASE][FAILED] - Test Cases/Search Automation within Deloitte site: Test Cases/Search Automation within Deloitte site FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at Search Automation within Deloitte site.run(Search Automation within Deloitte site:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' located by '//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Search Google" time="49.867" classname="Test Cases/Search Google" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Search Google FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)&#xa;	at Search Google.run(Search Google:40)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)&#xa;	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;div class=&quot;hero_comapany_message&quot;>...&lt;/div> is not clickable at point (631, 544). Other element would receive the click: &lt;div id=&quot;onetrust-policy-text&quot;>...&lt;/div>&#xa;  (Session info: chrome=118.0.5993.118)&#xa;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'&#xa;System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'&#xa;Driver info: com.kms.katalon.selenium.driver.CChromeDriver&#xa;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54162}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#xa;Session ID: 43f3904f678e750856c4e1e28b743aab&#xa;	at jdk.internal.reflect.GeneratedConstructorAccessor37.newInstance(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#xa;	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#xa;	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#xa;	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#xa;	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)&#xa;	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#xa;	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#xa;	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)&#xa;	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)&#xa;	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)&#xa;	at org.openqa.selenium.WebElement$click.call(Unknown Source)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)&#xa;	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[2023-11-01 14:57:44 - [TEST_CASE][FAILED] - Test Cases/Search Google: Test Cases/Search Google FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Search Google.run(Search Google:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="hero_comapany_message">...</div> is not clickable at point (631, 544). Other element would receive the click: <div id="onetrust-policy-text">...</div>
+  (Session info: chrome=118.0.5993.118)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54162}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43f3904f678e750856c4e1e28b743aab
+	at jdk.internal.reflect.GeneratedConstructorAccessor37.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+2023-11-01 14:57:44 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:57:44 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:57:44 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:57:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:57:44 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-01 14:57:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:57:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:57:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:57:47 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+2023-11-01 14:57:49 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+2023-11-01 14:57:49 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:57:49 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:57:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/textarea_q"), "katalon"): Text 'katalon' is set on object 'Object Repository/Page_Google/textarea_q'
+
+2023-11-01 14:57:50 - [MESSAGE][PASSED] - Text 'katalon' is set on object 'Object Repository/Page_Google/textarea_q'
+
+2023-11-01 14:57:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Google/span_katalon")): Object: 'Object Repository/Page_Google/span_katalon' is clicked on
+
+2023-11-01 14:57:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Google/span_katalon' is clicked on
+
+2023-11-01 14:57:51 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool")): Object: 'Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool' is right clicked on
+
+2023-11-01 14:57:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool' is right clicked on
+
+2023-11-01 14:57:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool")): Object: 'Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool' is clicked on
+
+2023-11-01 14:57:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool' is clicked on
+
+2023-11-01 14:57:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon")): Object: 'Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon' is clicked on
+
+2023-11-01 14:57:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon' is clicked on
+
+2023-11-01 14:57:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Platform")): Object: 'Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Platform' is clicked on
+
+2023-11-01 14:58:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Platform' is clicked on
+
+2023-11-01 14:58:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon")): Object: 'Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon' is clicked on
+
+2023-11-01 14:58:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon' is clicked on
+
+2023-11-01 14:58:01 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started")): Unable to click on object 'Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Search Google.run(Search Google:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="hero_comapany_message">...</div> is not clickable at point (631, 544). Other element would receive the click: <div id="onetrust-policy-text">...</div>
+  (Session info: chrome=118.0.5993.118)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54162}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43f3904f678e750856c4e1e28b743aab
+	at jdk.internal.reflect.GeneratedConstructorAccessor37.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Script1698287168375.run(Script1698287168375.groovy:40)
+	... 18 more
+)
+
+2023-11-01 14:58:34 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Search Google.run(Search Google:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="hero_comapany_message">...</div> is not clickable at point (631, 544). Other element would receive the click: <div id="onetrust-policy-text">...</div>
+  (Session info: chrome=118.0.5993.118)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54162}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43f3904f678e750856c4e1e28b743aab
+	at jdk.internal.reflect.GeneratedConstructorAccessor37.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Script1698287168375.run(Script1698287168375.groovy:40)
+	... 18 more
+)
+[[ATTACHMENT|C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698865113867.png]]
+
+2023-11-01 14:58:34 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:58:34 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:58:34 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[2023-11-01 14:57:44 - [TEST_CASE][FAILED] - Test Cases/Search Google: Test Cases/Search Google FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Search Google.run(Search Google:40)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="hero_comapany_message">...</div> is not clickable at point (631, 544). Other element would receive the click: <div id="onetrust-policy-text">...</div>
+  (Session info: chrome=118.0.5993.118)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54162}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 43f3904f678e750856c4e1e28b743aab
+	at jdk.internal.reflect.GeneratedConstructorAccessor37.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Verify Consulting present within Deloitte site" time="25.967" classname="Test Cases/Verify Consulting present within Deloitte site" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:58:34 - [TEST_CASE][PASSED] - Test Cases/Verify Consulting present within Deloitte site: Test Cases/Verify Consulting present within Deloitte site
+
+2023-11-01 14:58:34 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:58:34 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:58:34 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:58:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:58:34 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-01 14:58:35 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:58:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:58:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:58:39 - [TEST_STEP][PASSED] - navigateToUrl("https://www2.deloitte.com/us/en.html"): Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 14:58:42 - [MESSAGE][PASSED] - Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 14:58:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close")): Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 14:58:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 14:58:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services")): Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services' is clicked on
+
+2023-11-01 14:58:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services' is clicked on
+
+2023-11-01 14:58:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services")): Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services' is clicked on
+
+2023-11-01 14:58:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Services' is clicked on
+
+2023-11-01 14:58:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Consulting")): Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Consulting' is clicked on
+
+2023-11-01 14:58:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Consulting' is clicked on
+
+2023-11-01 14:58:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting")): Object: 'Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting' is clicked on
+
+2023-11-01 14:58:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting' is clicked on
+
+2023-11-01 14:58:59 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting"), 0): Object 'Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting' is present
+
+2023-11-01 14:58:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 14:58:59 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Management Consulting Services and Sol_cbb449/h1_Consulting' is present
+
+2023-11-01 14:58:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 14:59:00 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 14:59:00 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:59:00 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:59:00 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Verify LifeScience in Deloitte Industry" time="12.161" classname="Test Cases/Verify LifeScience in Deloitte Industry" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Verify LifeScience in Deloitte Industry FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)&#xa;	at Verify LifeScience in Deloitte Industry.run(Verify LifeScience in Deloitte Industry:30)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)&#xa;	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable&#xa;  (Session info: chrome=118.0.5993.118)&#xa;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'&#xa;System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'&#xa;Driver info: com.kms.katalon.selenium.driver.CChromeDriver&#xa;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#xa;Session ID: bbe5b8335c4239da95c71464bafb061c&#xa;	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)&#xa;	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)&#xa;	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)&#xa;	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)&#xa;	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)&#xa;	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)&#xa;	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)&#xa;	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)&#xa;	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)&#xa;	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)&#xa;	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)&#xa;	at org.openqa.selenium.WebElement$click.call(Unknown Source)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)&#xa;	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 23 more&#xa;"/>
+         <system-out><![CDATA[2023-11-01 14:59:41 - [TEST_CASE][FAILED] - Test Cases/Verify LifeScience in Deloitte Industry: Test Cases/Verify LifeScience in Deloitte Industry FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Verify LifeScience in Deloitte Industry.run(Verify LifeScience in Deloitte Industry:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=118.0.5993.118)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbe5b8335c4239da95c71464bafb061c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more
+
+
+2023-11-01 14:59:41 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:59:41 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:59:41 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:59:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:59:41 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-01 14:59:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:59:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:59:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:59:45 - [TEST_STEP][PASSED] - navigateToUrl("https://www2.deloitte.com/us/en.html"): Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 14:59:48 - [MESSAGE][PASSED] - Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 14:59:48 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 14:59:48 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 14:59:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 14:59:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 14:59:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search' is clicked on
+
+2023-11-01 14:59:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search' is clicked on
+
+2023-11-01 14:59:53 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care")): Unable to click on object 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Verify LifeScience in Deloitte Industry.run(Verify LifeScience in Deloitte Industry:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=118.0.5993.118)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbe5b8335c4239da95c71464bafb061c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Script1698757120781.run(Script1698757120781.groovy:30)
+	... 18 more
+)
+
+2023-11-01 14:59:53 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Verify LifeScience in Deloitte Industry.run(Verify LifeScience in Deloitte Industry:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=118.0.5993.118)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbe5b8335c4239da95c71464bafb061c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Script1698757120781.run(Script1698757120781.groovy:30)
+	... 18 more
+)
+[[ATTACHMENT|C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231101_144838\\Reshna - All TCs Suite1\\20231101_144838\\1698865193667.png]]
+
+2023-11-01 14:59:53 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 14:59:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:59:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[2023-11-01 14:59:41 - [TEST_CASE][FAILED] - Test Cases/Verify LifeScience in Deloitte Industry: Test Cases/Verify LifeScience in Deloitte Industry FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/a_Life Sciences  Health Care'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at Verify LifeScience in Deloitte Industry.run(Verify LifeScience in Deloitte Industry:30)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:369)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=118.0.5993.118)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'USPRNRCHALIL2', ip: '10.0.0.182', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\rchalil\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55262}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bbe5b8335c4239da95c71464bafb061c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at jdk.internal.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 23 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Verify Tax in Deloitte website" time="17.208" classname="Test Cases/Verify Tax in Deloitte website" status="PASSED">
+         <system-out><![CDATA[2023-11-01 14:59:53 - [TEST_CASE][PASSED] - Test Cases/Verify Tax in Deloitte website: Test Cases/Verify Tax in Deloitte website
+
+2023-11-01 14:59:53 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 14:59:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 14:59:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 14:59:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 14:59:54 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2023-11-01 14:59:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 14:59:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 14:59:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 14:59:57 - [TEST_STEP][PASSED] - navigateToUrl("https://www2.deloitte.com/us/en.html"): Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 15:00:00 - [MESSAGE][PASSED] - Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 15:00:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 15:00:00 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 15:00:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 15:00:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 15:00:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c"), "tax"): Text 'tax' is set on object 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c'
+
+2023-11-01 15:00:06 - [MESSAGE][PASSED] - Text 'tax' is set on object 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/input_cmp-advanced-search__input ng-untouch_fd955c'
+
+2023-11-01 15:00:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search' is clicked on
+
+2023-11-01 15:00:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/i_icon-search' is clicked on
+
+2023-11-01 15:00:10 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Deloitte/Page_Deloitte Search Basic/h1_Results for tax"), 0): Object 'Object Repository/Deloitte/Page_Deloitte Search Basic/h1_Results for tax' is present
+
+2023-11-01 15:00:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 15:00:10 - [MESSAGE][PASSED] - Object 'Object Repository/Deloitte/Page_Deloitte Search Basic/h1_Results for tax' is present
+
+2023-11-01 15:00:10 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 15:00:11 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 15:00:11 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 15:00:11 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 15:00:11 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Gmail - Incorrect login verification" time="7.83" classname="Test Cases/Gmail - Incorrect login verification" status="PASSED">
+         <system-out><![CDATA[2023-11-01 15:00:11 - [TEST_CASE][PASSED] - Test Cases/Gmail - Incorrect login verification: Test Cases/Gmail - Incorrect login verification
+
+2023-11-01 15:00:11 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 15:00:11 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 15:00:11 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 15:00:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 15:00:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 15:00:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 15:00:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 15:00:14 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywlj-QeinCv6drOjCNfoQ8bXTmpp7Hl7eVjr0AUWTEmWXqv0AIumDuU5lI3vpnkTyFo2aOM&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458760932%3A1698778577004689&theme=glif#inbox"): Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywlj-QeinCv6drOjCNfoQ8bXTmpp7Hl7eVjr0AUWTEmWXqv0AIumDuU5lI3vpnkTyFo2aOM&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458760932%3A1698778577004689&theme=glif#inbox' successfully
+
+2023-11-01 15:00:15 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywlj-QeinCv6drOjCNfoQ8bXTmpp7Hl7eVjr0AUWTEmWXqv0AIumDuU5lI3vpnkTyFo2aOM&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458760932%3A1698778577004689&theme=glif#inbox' successfully
+
+2023-11-01 15:00:15 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 15:00:15 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 15:00:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Gmail/Page_Gmail/input_identifier"), "abcxyz"): Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 15:00:16 - [MESSAGE][PASSED] - Text 'abcxyz' is set on object 'Object Repository/Gmail/Page_Gmail/input_identifier'
+
+2023-11-01 15:00:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 15:00:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 15:00:18 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Gmail/Page_Gmail/span_Couldnt sign you in"), 0): Object 'Object Repository/Gmail/Page_Gmail/span_Couldnt sign you in' is present
+
+2023-11-01 15:00:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 15:00:18 - [MESSAGE][PASSED] - Object 'Object Repository/Gmail/Page_Gmail/span_Couldnt sign you in' is present
+
+2023-11-01 15:00:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 15:00:19 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 15:00:19 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 15:00:19 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 15:00:19 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Gmail - Forgot email verification" time="38.103" classname="Test Cases/Gmail - Forgot email verification" status="PASSED">
+         <system-out><![CDATA[2023-11-01 15:00:19 - [TEST_CASE][PASSED] - Test Cases/Gmail - Forgot email verification: Test Cases/Gmail - Forgot email verification
+
+2023-11-01 15:00:19 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 15:00:19 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 15:00:19 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 15:00:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 15:00:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 15:00:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 15:00:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 15:00:21 - [TEST_STEP][PASSED] - navigateToUrl("https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyz2KxDaCIoSux7c4LnD_19qaKALraXqCL6tDXgQtR0fl_r0sRWKJdWPPWF9Ald7Va9H4pwIZA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285881911%3A1698779896826121&theme=glif#inbox"): Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyz2KxDaCIoSux7c4LnD_19qaKALraXqCL6tDXgQtR0fl_r0sRWKJdWPPWF9Ald7Va9H4pwIZA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285881911%3A1698779896826121&theme=glif#inbox' successfully
+
+2023-11-01 15:00:23 - [MESSAGE][PASSED] - Navigate to 'https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyz2KxDaCIoSux7c4LnD_19qaKALraXqCL6tDXgQtR0fl_r0sRWKJdWPPWF9Ald7Va9H4pwIZA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285881911%3A1698779896826121&theme=glif#inbox' successfully
+
+2023-11-01 15:00:23 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 15:00:23 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 15:00:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/button_Forgot email")): Object: 'Object Repository/Gmail/Page_Gmail/button_Forgot email' is clicked on
+
+2023-11-01 15:00:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/button_Forgot email' is clicked on
+
+2023-11-01 15:00:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Gmail/Page_Gmail/span_Next")): Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 15:00:56 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='identifierNext']/div/button/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-11-01 15:00:56 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Gmail/Page_Gmail/span_Next'. Try using Self-healing.
+
+2023-11-01 15:00:56 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Gmail/Page_Gmail/span_Next' was broken. Propose an alternative one: '//div[2]/div/div/div/div/button/span'.
+
+2023-11-01 15:00:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Gmail/Page_Gmail/span_Next' is clicked on
+
+2023-11-01 15:00:56 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Gmail/Page_Gmail/div_Enter a valid email or phone number"), 0): Object 'Object Repository/Gmail/Page_Gmail/div_Enter a valid email or phone number' is present
+
+2023-11-01 15:00:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-11-01 15:00:56 - [MESSAGE][PASSED] - Object 'Object Repository/Gmail/Page_Gmail/div_Enter a valid email or phone number' is present
+
+2023-11-01 15:00:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 15:00:57 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 15:00:57 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 15:00:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 15:00:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Download Deloitte Survey findins - Switch Window" time="15.928" classname="Test Cases/Download Deloitte Survey findins - Switch Window" status="PASSED">
+         <system-out><![CDATA[2023-11-01 15:00:57 - [TEST_CASE][PASSED] - Test Cases/Download Deloitte Survey findins - Switch Window: Test Cases/Download Deloitte Survey findins - Switch Window
+
+2023-11-01 15:00:57 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-11-01 15:00:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 15:00:57 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-11-01 15:00:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-11-01 15:00:57 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-11-01 15:00:57 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-11-01 15:01:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-11-01 15:01:00 - [TEST_STEP][PASSED] - navigateToUrl("https://www2.deloitte.com/us/en.html"): Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 15:01:02 - [MESSAGE][PASSED] - Navigate to 'https://www2.deloitte.com/us/en.html' successfully
+
+2023-11-01 15:01:02 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-11-01 15:01:02 - [MESSAGE][PASSED] - Current window maximized
+
+2023-11-01 15:01:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 15:01:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close' is clicked on
+
+2023-11-01 15:01:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings")): Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings' is clicked on
+
+2023-11-01 15:01:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings' is clicked on
+
+2023-11-01 15:01:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img")): Object: 'Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img' is clicked on
+
+2023-11-01 15:01:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img' is clicked on
+
+2023-11-01 15:01:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-11-01 15:01:13 - [MESSAGE][PASSED] - Browser is closed
+
+2023-11-01 15:01:13 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-11-01 15:01:13 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-11-01 15:01:13 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-11-01 14:48:45 - [TEST_SUITE][FAILED] - Reshna - All TCs Suite1: Test Cases/Search Automation within Deloitte site FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at Search Automation within Deloitte site.run(Search Automation within Deloitte site:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' located by '//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[2023-11-01 14:48:45 - [TEST_SUITE][FAILED] - Reshna - All TCs Suite1: Test Cases/Search Automation within Deloitte site FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to verify object 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' is present
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.verifyElementPresent(VerifyElementPresentKeyword.groovy:92)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword.execute(VerifyElementPresentKeyword.groovy:68)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementPresent(WebUiBuiltInKeywords.groovy:1464)
+	at Search Automation within Deloitte site.run(Search Automation within Deloitte site:33)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:187)
+	at TempTestSuite1698864518362.run(TempTestSuite1698864518362.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Deloitte Search Basic/a_Deloitte and Automation Anywhere Alliance' located by '//div[@id='cmp-search-page']/div[2]/div/div/ds-results-list/ul/li/ds-solution/div[2]/h2/a' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.doCall(VerifyElementPresentKeyword.groovy:85)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementPresentKeyword$_verifyElementPresent_closure1.call(VerifyElementPresentKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

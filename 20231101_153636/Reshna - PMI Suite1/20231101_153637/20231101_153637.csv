@@ -1,0 +1,36 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reshna - PMI Suite1,Chrome 118.0.0.0,,,2023-11-01 15:36:47,2023-11-01 15:37:30,43.279s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the 3 languages present in PMI,Chrome 118.0.0.0,,,2023-11-01 15:36:47,2023-11-01 15:37:02,14.310s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 15:36:47,2023-11-01 15:36:48,0.071s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 15:36:48,2023-11-01 15:36:52,4.608s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Chrome 118.0.0.0,,,2023-11-01 15:36:52,2023-11-01 15:36:56,4.133s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 15:36:56,2023-11-01 15:36:57,0.600s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/span_OK""))",Chrome 118.0.0.0,,,2023-11-01 15:36:57,2023-11-01 15:36:59,1.671s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_View in English""), ""View in English"")",Chrome 118.0.0.0,,,2023-11-01 15:36:59,2023-11-01 15:37:00,0.904s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Ver en Espaol""), ""Ver en Español"")",Chrome 118.0.0.0,,,2023-11-01 15:37:00,2023-11-01 15:37:00,0.306s,PASSED
+"verifyElementText(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Veja em Portugus""), ""Veja em Português"")",Chrome 118.0.0.0,,,2023-11-01 15:37:00,2023-11-01 15:37:00,0.329s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 15:37:00,2023-11-01 15:37:02,1.414s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 15:37:02,2023-11-01 15:37:02,0.004s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the spanish language in PMI,Chrome 118.0.0.0,,,2023-11-01 15:37:02,2023-11-01 15:37:16,14.096s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 15:37:02,2023-11-01 15:37:02,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 15:37:02,2023-11-01 15:37:05,2.894s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Chrome 118.0.0.0,,,2023-11-01 15:37:05,2023-11-01 15:37:09,4.371s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 15:37:09,2023-11-01 15:37:09,0.230s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/span_OK""))",Chrome 118.0.0.0,,,2023-11-01 15:37:09,2023-11-01 15:37:10,1.183s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Ver en Espaol""))",Chrome 118.0.0.0,,,2023-11-01 15:37:10,2023-11-01 15:37:15,4.199s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/PMI/Page_Just a moment/h1_www.pmi.org""), 0)",Chrome 118.0.0.0,,,2023-11-01 15:37:15,2023-11-01 15:37:15,0.755s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 15:37:15,2023-11-01 15:37:16,0.361s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 15:37:16,2023-11-01 15:37:16,0.004s,PASSED
+,,,,,,,
+Test Cases/PMI - Verify the portugese language in PMI,Chrome 118.0.0.0,,,2023-11-01 15:37:16,2023-11-01 15:37:30,14.588s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-11-01 15:37:16,2023-11-01 15:37:16,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-11-01 15:37:16,2023-11-01 15:37:19,2.871s,PASSED
+"navigateToUrl(""https://www.pmi.org/certifications"")",Chrome 118.0.0.0,,,2023-11-01 15:37:19,2023-11-01 15:37:23,4.521s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-11-01 15:37:23,2023-11-01 15:37:24,0.239s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_OK""))",Chrome 118.0.0.0,,,2023-11-01 15:37:24,2023-11-01 15:37:26,2.196s,PASSED
+"click(findTestObject(""Object Repository/PMI/Page_Certifications  PMI/a_Veja em Portugus""))",Chrome 118.0.0.0,,,2023-11-01 15:37:26,2023-11-01 15:37:29,3.485s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/PMI/Page_Just a moment/h1_www.pmi.org""), 0)",Chrome 118.0.0.0,,,2023-11-01 15:37:29,2023-11-01 15:37:30,0.765s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-11-01 15:37:30,2023-11-01 15:37:30,0.398s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-11-01 15:37:30,2023-11-01 15:37:30,0.002s,PASSED
