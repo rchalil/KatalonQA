@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite-Test1,Chrome 118.0.0.0,,,2023-10-25 22:30:14,2023-10-25 22:30:52,38.030s,PASSED
+,,,,,,,
+Test Cases/Search Google,Chrome 118.0.0.0,,,2023-10-25 22:30:14,2023-10-25 22:30:52,37.893s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-25 22:30:14,2023-10-25 22:30:17,2.566s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 118.0.0.0,,,2023-10-25 22:30:17,2023-10-25 22:30:18,1.333s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/textarea_q""), ""katalon"")",Chrome 118.0.0.0,,,2023-10-25 22:30:18,2023-10-25 22:30:19,0.834s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_katalon""))",Chrome 118.0.0.0,,,2023-10-25 22:30:19,2023-10-25 22:30:20,0.840s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool""))",Chrome 118.0.0.0,,,2023-10-25 22:30:20,2023-10-25 22:30:23,3.163s,PASSED
+"click(findTestObject(""Object Repository/Page_katalon - Google Search/span_Katalon Platform - Best Codeless Testing Tool""))",Chrome 118.0.0.0,,,2023-10-25 22:30:23,2023-10-25 22:30:49,25.949s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Chrome 118.0.0.0,,,2023-10-25 22:30:49,2023-10-25 22:30:51,1.346s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Platform""))",Chrome 118.0.0.0,,,2023-10-25 22:30:51,2023-10-25 22:30:51,0.474s,PASSED
+"click(findTestObject(""Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon""))",Chrome 118.0.0.0,,,2023-10-25 22:30:51,2023-10-25 22:30:51,0.456s,PASSED
+"click(findTestObject(""Object Repository/Page_Business Outcomes  Software Testing  Q_7c4bce/div_Get started""))",Chrome 118.0.0.0,,,2023-10-25 22:30:51,2023-10-25 22:30:52,0.371s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-25 22:30:52,2023-10-25 22:30:52,0.322s,PASSED

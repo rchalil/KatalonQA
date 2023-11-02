@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite - Katalon" time="76.123" tests="4" failures="0" errors="0">
+   <testsuite name="Test Suite - Katalon" tests="4" failures="0" errors="0" time="76.123" skipped="0" timestamp="2023-10-29 22:50:25" hostname="rchalil - USPRNRCHALIL2.us.deloitte.com" id="Test Suites/Test Suite - Katalon">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231029_225019\\Test Suite - Katalon\\20231029_225019"/>
+         <property name="logFiles" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231029_225019\\Test Suite - Katalon\\20231029_225019\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="rchalil - USPRNRCHALIL2.us.deloitte.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+         <property name="browser" value="Chrome 118.0.0.0"/>
+         <property name="hostAddress" value="10.0.0.182"/>
+         <property name="sessionId" value="6132c639d55f9623b6a75a92c2e59943"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Katalon Course finding" time="27.728" classname="Test Cases/Katalon Course finding" status="PASSED">
+         <system-out><![CDATA[2023-10-29 22:50:25 - [TEST_CASE][PASSED] - Test Cases/Katalon Course finding: Test Cases/Katalon Course finding
+
+2023-10-29 22:50:25 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-29 22:50:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-29 22:50:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-29 22:50:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-29 22:50:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-29 22:50:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-29 22:50:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-29 22:50:30 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-10-29 22:50:34 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-10-29 22:50:34 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-10-29 22:50:34 - [MESSAGE][PASSED] - Current window maximized
+
+2023-10-29 22:50:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-29 22:50:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-29 22:50:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-10-29 22:50:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-10-29 22:50:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-10-29 22:50:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Resources' is clicked on
+
+2023-10-29 22:50:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy' is clicked on
+
+2023-10-29 22:50:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Academy' is clicked on
+
+2023-10-29 22:50:37 - [TEST_STEP][PASSED] - switchToWindowTitle("Katalon Academy - Automation Testing Courses to Level Up"): Switched to window with title: 'Katalon Academy - Automation Testing Courses to Level Up'
+
+2023-10-29 22:50:41 - [MESSAGE][PASSED] - Switched to window with title: 'Katalon Academy - Automation Testing Courses to Level Up'
+
+2023-10-29 22:50:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course")): Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course' is clicked on
+
+2023-10-29 22:50:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/button_Choose a course' is clicked on
+
+2023-10-29 22:50:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_")): Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_' is clicked on
+
+2023-10-29 22:50:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/span_' is clicked on
+
+2023-10-29 22:50:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img")): Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img' is clicked on
+
+2023-10-29 22:50:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/img' is clicked on
+
+2023-10-29 22:50:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s"), "test automation"): Text 'test automation' is set on object 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-10-29 22:50:45 - [MESSAGE][PASSED] - Text 'test automation' is set on object 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-10-29 22:50:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-10-29 22:50:46 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Katalon/Page_Katalon Academy - Automation Testing C_4c4a56/input_s'
+
+2023-10-29 22:50:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a")): Object: 'Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a' is clicked on
+
+2023-10-29 22:50:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_You searched for test automation - Kat_2262e6/a_Test Authoring With Katalon Handling Aler_e0066a' is clicked on
+
+2023-10-29 22:50:51 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll"), 0): Object 'Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll' is present
+
+2023-10-29 22:50:51 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-29 22:50:52 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Handling Alerts, Dialog Boxes, and Dro_d965ab/button_Enroll' is present
+
+2023-10-29 22:50:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-29 22:50:53 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-29 22:50:53 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-29 22:50:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-29 22:50:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon Download Studio check" time="16.005" classname="Test Cases/Katalon Download Studio check" status="PASSED">
+         <system-out><![CDATA[2023-10-29 22:50:53 - [TEST_CASE][PASSED] - Test Cases/Katalon Download Studio check: Test Cases/Katalon Download Studio check
+
+2023-10-29 22:50:53 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-29 22:50:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-29 22:50:53 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-29 22:50:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-29 22:50:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-29 22:50:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-29 22:50:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-29 22:50:56 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-10-29 22:51:00 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-10-29 22:51:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-10-29 22:51:00 - [MESSAGE][PASSED] - Current window maximized
+
+2023-10-29 22:51:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-29 22:51:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-29 22:51:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio' is clicked on
+
+2023-10-29 22:51:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Download Studio' is clicked on
+
+2023-10-29 22:51:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d' is clicked on
+
+2023-10-29 22:51:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d' is clicked on
+
+2023-10-29 22:51:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64' is clicked on
+
+2023-10-29 22:51:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Windows 64' is clicked on
+
+2023-10-29 22:51:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0' is clicked on
+
+2023-10-29 22:51:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 9.0.0Ver. 8.6.8Ver. 9.0.0' is clicked on
+
+2023-10-29 22:51:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8")): Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8' is clicked on
+
+2023-10-29 22:51:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Ver. 8.6.8' is clicked on
+
+2023-10-29 22:51:07 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download"), 0): Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is present
+
+2023-10-29 22:51:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-29 22:51:08 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is present
+
+2023-10-29 22:51:08 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download")): Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is visible
+
+2023-10-29 22:51:08 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/div_Download' is visible
+
+2023-10-29 22:51:08 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -"), "Sign up now ->"): Actual text and expected text of test object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -' are matched.
+
+2023-10-29 22:51:08 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Katalon/Page_Katalon Studio Free Download  Katalon/a_Sign up now -' are matched.
+
+2023-10-29 22:51:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-29 22:51:09 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-29 22:51:09 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-29 22:51:09 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-29 22:51:09 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify Incorrect email verification" time="16.669" classname="Test Cases/Katalon - Verify Incorrect email verification" status="PASSED">
+         <system-out><![CDATA[2023-10-29 22:51:09 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify Incorrect email verification: Test Cases/Katalon - Verify Incorrect email verification
+
+2023-10-29 22:51:09 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-29 22:51:09 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-29 22:51:09 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-29 22:51:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-29 22:51:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-29 22:51:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-29 22:51:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-29 22:51:12 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-10-29 22:51:15 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-10-29 22:51:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-10-29 22:51:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-10-29 22:51:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up")): Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-10-29 22:51:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-10-29 22:51:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/inputregisterFullname"), "Abcd EFG"): Text 'Abcd EFG' is set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/inputregisterFullname'
+
+2023-10-29 22:51:22 - [MESSAGE][PASSED] - Text 'Abcd EFG' is set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/inputregisterFullname'
+
+2023-10-29 22:51:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_email"), "abc@gmail.com"): Text 'abc@gmail.com' is set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_email'
+
+2023-10-29 22:51:23 - [MESSAGE][PASSED] - Text 'abc@gmail.com' is set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_email'
+
+2023-10-29 22:51:23 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_password"), "4aUHZLRHJF4="): Text ****** has been set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_password'
+
+2023-10-29 22:51:23 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_password'
+
+2023-10-29 22:51:23 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_password-confirm"), "4aUHZLRHJF4="): Text ****** has been set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_password-confirm'
+
+2023-10-29 22:51:23 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_password-confirm'
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_id(katalon-rec_elementInfoDiv)")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_id(katalon-rec_elementInfoDiv)"))
+
+2023-10-29 22:51:23 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_id(katalon-rec_elementInfoDiv)"))
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44"))
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/button_Next")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/button_Next"))
+
+2023-10-29 22:51:23 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/button_Next"))
+
+2023-10-29 22:51:23 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1"))
+
+2023-10-29 22:51:24 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1"))
+
+2023-10-29 22:51:24 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1"))
+
+2023-10-29 22:51:24 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1"))
+
+2023-10-29 22:51:24 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1"))
+
+2023-10-29 22:51:24 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1"))
+
+2023-10-29 22:51:24 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1"))
+
+2023-10-29 22:51:24 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/img_rc-image-tile-44_1"))
+
+2023-10-29 22:51:24 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/button_Verify")): NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/button_Verify"))
+
+2023-10-29 22:51:24 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/button_Verify"))
+
+2023-10-29 22:51:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up")): Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up' is clicked on
+
+2023-10-29 22:51:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up' is clicked on
+
+2023-10-29 22:51:24 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_This email doesnt exist. Please try again"), "This email doesn't exist. Please try again."): Actual text and expected text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_This email doesnt exist. Please try again' are matched.
+
+2023-10-29 22:51:25 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_This email doesnt exist. Please try again' are matched.
+
+2023-10-29 22:51:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-29 22:51:25 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-29 22:51:25 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-29 22:51:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-29 22:51:25 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify the error message on the SignUp Page" time="15.434" classname="Test Cases/Katalon - Verify the error message on the SignUp Page" status="PASSED">
+         <system-out><![CDATA[2023-10-29 22:51:26 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify the error message on the SignUp Page: Test Cases/Katalon - Verify the error message on the SignUp Page
+
+2023-10-29 22:51:26 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-29 22:51:26 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-29 22:51:26 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-29 22:51:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-29 22:51:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-29 22:51:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-29 22:51:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-29 22:51:28 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-10-29 22:51:32 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-10-29 22:51:32 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-10-29 22:51:32 - [MESSAGE][PASSED] - Current window maximized
+
+2023-10-29 22:51:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-10-29 22:51:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-10-29 22:51:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up")): Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-10-29 22:51:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-10-29 22:51:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/inputregisterFullname"), "abc"): Text 'abc' is set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/inputregisterFullname'
+
+2023-10-29 22:51:39 - [MESSAGE][PASSED] - Text 'abc' is set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/inputregisterFullname'
+
+2023-10-29 22:51:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_email"), "abc@123"): Text 'abc@123' is set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_email'
+
+2023-10-29 22:51:39 - [MESSAGE][PASSED] - Text 'abc@123' is set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_email'
+
+2023-10-29 22:51:39 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_password"), "8ylGA/40/qI="): Text ****** has been set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_password'
+
+2023-10-29 22:51:40 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_password'
+
+2023-10-29 22:51:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text")): Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text' is clicked on
+
+2023-10-29 22:51:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text' is clicked on
+
+2023-10-29 22:51:40 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields"), "Please fill all form fields"): Actual text and expected text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' are matched.
+
+2023-10-29 22:51:41 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields' are matched.
+
+2023-10-29 22:51:41 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-29 22:51:41 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-29 22:51:41 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-29 22:51:41 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-29 22:51:41 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-10-29 22:50:25 - [TEST_SUITE][PASSED] - Test Suite - Katalon: Test Cases/Katalon - Verify the error message on the SignUp Page]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
