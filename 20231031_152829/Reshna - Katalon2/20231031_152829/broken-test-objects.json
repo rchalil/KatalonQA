@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/inputregisterFullname",
+      "brokenLocator": "//input[@id\u003d\u0027registerFullname\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027kc-content-wrapper\u0027]/div/div[3]/div/form/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231031_152829/Reshna - Katalon2/20231031_152829/Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/inputregisterFullname_idRelative.png"
+    }
+  ]
+}

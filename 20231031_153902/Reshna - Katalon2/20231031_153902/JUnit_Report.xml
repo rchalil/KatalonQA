@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Reshna - Katalon2" time="69.096" tests="5" failures="0" errors="0">
+   <testsuite name="Reshna - Katalon2" tests="5" failures="0" errors="0" time="69.096" skipped="0" timestamp="2023-10-31 15:39:08" hostname="rchalil - USPRNRCHALIL2.us.deloitte.com" id="Test Suites/Reshna - Katalon2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231031_153902\\Reshna - Katalon2\\20231031_153902"/>
+         <property name="logFiles" value="C:\\Users\\rchalil\\Katalon Studio\\My First Web UI Project\\Reports\\20231031_153902\\Reshna - Katalon2\\20231031_153902\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="rchalil - USPRNRCHALIL2.us.deloitte.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.0.0.212"/>
+         <property name="browser" value="Chrome 118.0.0.0"/>
+         <property name="hostAddress" value="10.0.0.182"/>
+         <property name="sessionId" value="385c52136e88b90e74605c9334368d26"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Katalon - Benefits test" time="16.426" classname="Test Cases/Katalon - Benefits test" status="PASSED">
+         <system-out><![CDATA[2023-10-31 15:39:08 - [TEST_CASE][PASSED] - Test Cases/Katalon - Benefits test: Test Cases/Katalon - Benefits test
+
+2023-10-31 15:39:08 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-31 15:39:08 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:39:08 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-31 15:39:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-31 15:39:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-31 15:39:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-31 15:39:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-31 15:39:12 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:39:15 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:39:15 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-10-31 15:39:15 - [MESSAGE][PASSED] - Current window maximized
+
+2023-10-31 15:39:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-31 15:39:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-31 15:39:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-10-31 15:39:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-10-31 15:39:21 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Seamless test automation with an end-to_9d1ee8"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Seamless test automation with an end-to_9d1ee8' is present
+
+2023-10-31 15:39:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:39:22 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Seamless test automation with an end-to_9d1ee8' is present
+
+2023-10-31 15:39:22 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Visibility throughout the test pipeline"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Visibility throughout the test pipeline' is present
+
+2023-10-31 15:39:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:39:23 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Visibility throughout the test pipeline' is present
+
+2023-10-31 15:39:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Centralized workflows to focus on softw_0ff7fc"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Centralized workflows to focus on softw_0ff7fc' is present
+
+2023-10-31 15:39:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:39:23 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Centralized workflows to focus on softw_0ff7fc' is present
+
+2023-10-31 15:39:23 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Low-code UI to keep everyone, tech or b_bd4e50"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Low-code UI to keep everyone, tech or b_bd4e50' is present
+
+2023-10-31 15:39:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:39:24 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Low-code UI to keep everyone, tech or b_bd4e50' is present
+
+2023-10-31 15:39:24 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/div_Out-of-the-box fit for any ALM, CI tool_5242ad"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Out-of-the-box fit for any ALM, CI tool_5242ad' is present
+
+2023-10-31 15:39:24 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:39:24 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/div_Out-of-the-box fit for any ALM, CI tool_5242ad' is present
+
+2023-10-31 15:39:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-31 15:39:24 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-31 15:39:24 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-31 15:39:24 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:39:24 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Review star verification" time="12.204" classname="Test Cases/Katalon - Review star verification" status="PASSED">
+         <system-out><![CDATA[2023-10-31 15:39:24 - [TEST_CASE][PASSED] - Test Cases/Katalon - Review star verification: Test Cases/Katalon - Review star verification
+
+2023-10-31 15:39:24 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-31 15:39:24 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:39:24 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-31 15:39:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-31 15:39:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-31 15:39:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-31 15:39:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-31 15:39:27 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:39:30 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:39:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-10-31 15:39:31 - [MESSAGE][PASSED] - Current window maximized
+
+2023-10-31 15:39:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-31 15:39:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-31 15:39:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-10-31 15:39:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-10-31 15:39:35 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/img_rating"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/img_rating' is present
+
+2023-10-31 15:39:35 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:39:36 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/img_rating' is present
+
+2023-10-31 15:39:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-31 15:39:37 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-31 15:39:37 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-31 15:39:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:39:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify Contact us link is present" time="11.802" classname="Test Cases/Katalon - Verify Contact us link is present" status="PASSED">
+         <system-out><![CDATA[2023-10-31 15:39:37 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify Contact us link is present: Test Cases/Katalon - Verify Contact us link is present
+
+2023-10-31 15:39:37 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-31 15:39:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:39:37 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-31 15:39:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-31 15:39:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-31 15:39:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-31 15:39:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-31 15:39:40 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:39:43 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:39:43 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-10-31 15:39:43 - [MESSAGE][PASSED] - Current window maximized
+
+2023-10-31 15:39:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-31 15:39:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-31 15:39:45 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us"), 0): Object 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us' is present
+
+2023-10-31 15:39:45 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:39:45 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us' is present
+
+2023-10-31 15:39:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us' is clicked on
+
+2023-10-31 15:39:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Contact us' is clicked on
+
+2023-10-31 15:39:47 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/h1_How can we help"), 0): Object 'Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/h1_How can we help' is present
+
+2023-10-31 15:39:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:39:48 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Contact Us  Katalon Quality Management_4f5e38/h1_How can we help' is present
+
+2023-10-31 15:39:48 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-31 15:39:48 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-31 15:39:48 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-31 15:39:48 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:39:48 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify Gartner in Katalon site" time="13.471" classname="Test Cases/Katalon - Verify Gartner in Katalon site" status="PASSED">
+         <system-out><![CDATA[2023-10-31 15:39:48 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify Gartner in Katalon site: Test Cases/Katalon - Verify Gartner in Katalon site
+
+2023-10-31 15:39:48 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-31 15:39:48 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:39:48 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-31 15:39:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-31 15:39:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-31 15:39:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-31 15:39:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-31 15:39:51 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:39:55 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:39:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-31 15:39:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies' is clicked on
+
+2023-10-31 15:39:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-10-31 15:40:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_View a demo' is clicked on
+
+2023-10-31 15:40:00 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_View a demo  Katalon/img_industry"), 0): Object 'Object Repository/Katalon/Page_View a demo  Katalon/img_industry' is present
+
+2023-10-31 15:40:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:40:01 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_View a demo  Katalon/img_industry' is present
+
+2023-10-31 15:40:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-31 15:40:02 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-31 15:40:02 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-31 15:40:02 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:40:02 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Katalon - Verify Incorrect email verification" time="14.882" classname="Test Cases/Katalon - Verify Incorrect email verification" status="PASSED">
+         <system-out><![CDATA[2023-10-31 15:40:02 - [TEST_CASE][PASSED] - Test Cases/Katalon - Verify Incorrect email verification: Test Cases/Katalon - Verify Incorrect email verification
+
+2023-10-31 15:40:02 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: null
+
+2023-10-31 15:40:02 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:40:02 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+2023-10-31 15:40:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-31 15:40:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-31 15:40:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-31 15:40:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-31 15:40:05 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon.com/"): Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:40:08 - [MESSAGE][PASSED] - Navigate to 'https://katalon.com/' successfully
+
+2023-10-31 15:40:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial")): Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-10-31 15:40:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial' is clicked on
+
+2023-10-31 15:40:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in")): Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in' is clicked on
+
+2023-10-31 15:40:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in' is clicked on
+
+2023-10-31 15:40:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up")): Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-10-31 15:40:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up' is clicked on
+
+2023-10-31 15:40:15 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text"), 0): Object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text' is present
+
+2023-10-31 15:40:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-10-31 15:40:16 - [MESSAGE][PASSED] - Object 'Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text' is present
+
+2023-10-31 15:40:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-31 15:40:17 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-31 15:40:17 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-10-31 15:40:17 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+2023-10-31 15:40:17 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-10-31 15:39:08 - [TEST_SUITE][PASSED] - Reshna - Katalon2: Test Cases/Katalon - Verify Incorrect email verification]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite - Failed tests,Chrome 118.0.0.0,,,2023-10-31 15:41:18,2023-10-31 15:41:55,36.543s,PASSED
+,,,,,,,
+Test Cases/Download Deloitte Survey findins - Switch Window,Chrome 118.0.0.0,,,2023-10-31 15:41:19,2023-10-31 15:41:38,19.663s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 15:41:19,2023-10-31 15:41:19,0.131s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 15:41:19,2023-10-31 15:41:23,4.222s,PASSED
+"navigateToUrl(""https://www2.deloitte.com/us/en.html"")",Chrome 118.0.0.0,,,2023-10-31 15:41:23,2023-10-31 15:41:26,2.976s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 15:41:26,2023-10-31 15:41:27,0.551s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/button_Accept and close""))",Chrome 118.0.0.0,,,2023-10-31 15:41:27,2023-10-31 15:41:33,6.435s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_Deloitte US  Audit, Consulting, Adviso_ec7ae4/div_Read the survey findings""))",Chrome 118.0.0.0,,,2023-10-31 15:41:33,2023-10-31 15:41:37,3.705s,PASSED
+"click(findTestObject(""Object Repository/Deloitte/Page_2023 Deloitte holiday retail survey  D_2a1ba5/img""))",Chrome 118.0.0.0,,,2023-10-31 15:41:37,2023-10-31 15:41:38,0.918s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 15:41:38,2023-10-31 15:41:38,0.472s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 15:41:38,2023-10-31 15:41:38,0.007s,PASSED
+,,,,,,,
+Test Cases/Katalon Price Check,Chrome 118.0.0.0,,,2023-10-31 15:41:38,2023-10-31 15:41:55,16.561s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 15:41:38,2023-10-31 15:41:38,0.003s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 15:41:38,2023-10-31 15:41:41,2.950s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-10-31 15:41:41,2023-10-31 15:41:45,3.331s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 15:41:45,2023-10-31 15:41:45,0.194s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-10-31 15:41:45,2023-10-31 15:41:47,2.622s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Pricing""))",Chrome 118.0.0.0,,,2023-10-31 15:41:47,2023-10-31 15:41:50,2.278s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kse_number""), ""5"")",Chrome 118.0.0.0,,,2023-10-31 15:41:50,2023-10-31 15:41:52,2.091s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_testcloud_number""), ""5"")",Chrome 118.0.0.0,,,2023-10-31 15:41:52,2023-10-31 15:41:53,1.314s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kre_number""), ""5"")",Chrome 118.0.0.0,,,2023-10-31 15:41:53,2023-10-31 15:41:54,1.102s,PASSED
+"scrollToPosition(0, 3)",Chrome 118.0.0.0,,,2023-10-31 15:41:54,2023-10-31 15:41:54,0.032s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 15:41:54,2023-10-31 15:41:55,0.458s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 15:41:55,2023-10-31 15:41:55,0.003s,PASSED
