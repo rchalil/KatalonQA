@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter a valid email or phone number</name>
+   <tag></tag>
+   <elementGuidId>f6cd989e-7c83-40b0-9cf4-f42278bffabf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view_container']/div/div/div[2]/div/div/div/form/span/section/div/div/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.o6cuMc.Jj6Lae</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b84bdcfc-28f3-4304-b343-d5cea650d8f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o6cuMc Jj6Lae</value>
+      <webElementGuid>5ee7d3cc-2fa4-4783-a53d-5c880a7403bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter a valid email or phone number</value>
+      <webElementGuid>a31189f6-e99e-4e77-9bcf-72c9e52e9f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view_container&quot;)/div[@class=&quot;zWl5kd&quot;]/div[@class=&quot;DRS7Fe bxPAYd k6Zj8d&quot;]/div[@class=&quot;pwWryf bxPAYd&quot;]/div[@class=&quot;Wxwduf Us7fWe JhUD8d&quot;]/div[@class=&quot;WEQkZc&quot;]/div[@class=&quot;bCAAsb&quot;]/form[1]/span[1]/section[@class=&quot;aTzEhb&quot;]/div[@class=&quot;CxRgyd&quot;]/div[@class=&quot;VBGMK&quot;]/div[@class=&quot;d2CFce cDSmF cxMOTc&quot;]/div[@class=&quot;rFrNMe N3Hzgf jjwyfe QBQrY zKHdkd sdJrJc Tyc9J k0tWj IYewr&quot;]/div[@class=&quot;LXRPh&quot;]/div[@class=&quot;dEOOab RxsGPe&quot;]/div[@class=&quot;o6cuMc Jj6Lae&quot;]</value>
+      <webElementGuid>07e05aed-95c5-4071-8c85-d49cd183863b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view_container']/div/div/div[2]/div/div/div/form/span/section/div/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>bbbc4f56-4946-42f6-99e6-03838d75712c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>ad94a538-5b39-45c6-a81d-0134043e8bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enter a valid email or phone number' or . = 'Enter a valid email or phone number')]</value>
+      <webElementGuid>77004737-4f8a-4b28-944e-0de6b364a2a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

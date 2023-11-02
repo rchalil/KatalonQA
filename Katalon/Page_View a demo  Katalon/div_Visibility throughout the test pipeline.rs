@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Visibility throughout the test pipeline</name>
+   <tag></tag>
+   <elementGuidId>c141efa2-b79a-441f-bf4d-ff2002d2a7b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa4b5b49-65e7-4885-8dd5-3ab4cd0c5f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>fae03600-88e2-4090-9a8f-2cb34c968096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visibility throughout the test pipeline</value>
+      <webElementGuid>97ef0ce5-0172-42e0-b8e0-f509730ec594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;ViewADemo_wrappingViewADemo__y3r6W&quot;]/div[@class=&quot;view-a-demo&quot;]/div[@class=&quot;hero&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;features&quot;]/div[@class=&quot;feature&quot;]/div[@class=&quot;description&quot;]</value>
+      <webElementGuid>4b8ef70c-497c-47cb-a127-12df1d3bdb8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>eb12bcf8-ec9d-49b9-b7c9-56feb7490932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>714d8245-0e70-47d6-99bb-014e4d14d2b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Visibility throughout the test pipeline' or . = 'Visibility throughout the test pipeline')]</value>
+      <webElementGuid>3fdd89a4-d9bf-4211-a1d2-b628716d20e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Out-of-the-box fit for any ALM, CI tool_5242ad</name>
+   <tag></tag>
+   <elementGuidId>4aa8f113-6612-41a0-8621-8733f2a66b11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[2]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8b13ce4-b610-43bb-a237-ef87ec3f92e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>1ddd5829-00cb-4136-a320-6054bbbd11e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Out-of-the-box fit for any ALM, CI tools, and system</value>
+      <webElementGuid>66d6a345-2f19-485c-ac51-9e2cd2c2f9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;ViewADemo_wrappingViewADemo__y3r6W&quot;]/div[@class=&quot;view-a-demo&quot;]/div[@class=&quot;hero&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;features&quot;]/div[@class=&quot;feature&quot;]/div[@class=&quot;description&quot;]</value>
+      <webElementGuid>73baa1f6-6d79-4cde-84e5-94f34cca363f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[2]/div[4]/div</value>
+      <webElementGuid>471bd8d0-0cb7-4598-a752-2620e90409d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[4]/div</value>
+      <webElementGuid>b2670c50-1520-4878-a227-15130ab6335d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Out-of-the-box fit for any ALM, CI tools, and system' or . = 'Out-of-the-box fit for any ALM, CI tools, and system')]</value>
+      <webElementGuid>ed1dc331-70b3-44ae-a2b9-af035c446bbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

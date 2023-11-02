@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_This email doesnt exist. Please try again</name>
+   <tag></tag>
+   <elementGuidId>e6347756-e690-421b-ac5a-a0944fc2be33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kc-content-wrapper']/div/div[3]/div/form/div[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a90c06c-baf6-4f73-8d52-581dabae2ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This email doesn't exist. Please try again.</value>
+      <webElementGuid>b9ff5702-11c0-4b0b-9f13-daf693e85101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kc-content-wrapper&quot;)/div[@class=&quot;wrapSignIn&quot;]/div[@class=&quot;sign_up_section&quot;]/div[@class=&quot;sign_up_form&quot;]/form[@class=&quot;form_sign_up&quot;]/div[@class=&quot;section-error-message&quot;]/span[1]</value>
+      <webElementGuid>7178c1df-5379-44bb-b718-29a418ef38e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kc-content-wrapper']/div/div[3]/div/form/div[6]/span</value>
+      <webElementGuid>07b278c3-f66a-4d5d-81b8-d986f0921161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>dbbb0ea0-4c06-47b7-8afc-aa5bb4de1393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;This email doesn&quot; , &quot;'&quot; , &quot;t exist. Please try again.&quot;) or . = concat(&quot;This email doesn&quot; , &quot;'&quot; , &quot;t exist. Please try again.&quot;))]</value>
+      <webElementGuid>b8100764-7740-4214-bf1f-4f7da90c8d3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

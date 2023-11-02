@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contact an expert</name>
+   <tag></tag>
+   <elementGuidId>bdfd699c-e2c2-4313-89fb-063834a9f8c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section[2]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.contact_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>19a68fff-7549-49b4-a6d2-3d108ea92de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>contact_button</value>
+      <webElementGuid>ac1647a8-bf44-4259-b352-ce64eefc38a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact an expert</value>
+      <webElementGuid>65c3e7cd-0d7c-4c74-a381-1e038ee669c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;ContactUs_wrapContactUs__DBmCs&quot;]/section[@class=&quot;contact_options_list&quot;]/div[@class=&quot;contact_option contact_sales&quot;]/a[1]/div[@class=&quot;contact_button&quot;]</value>
+      <webElementGuid>8904393a-d9bb-4bd8-9c99-e489f7b82b83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section[2]/div/a/div</value>
+      <webElementGuid>ee7418c2-81bd-4a01-b568-836ff3eb4120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/a/div</value>
+      <webElementGuid>a4f28d89-5e42-4d6e-a8a4-5612671254cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contact an expert' or . = 'Contact an expert')]</value>
+      <webElementGuid>9bee9737-b380-4c19-96cc-fb206adf120d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

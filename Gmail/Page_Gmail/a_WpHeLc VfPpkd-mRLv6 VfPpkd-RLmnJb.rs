@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb</name>
+   <tag></tag>
+   <elementGuidId>b1bb0577-1c66-48bf-869e-59229ff8aadd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='next']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.WpHeLc.VfPpkd-mRLv6.VfPpkd-RLmnJb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a2a09ad0-875c-41dd-bf26-3031c9da69f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb</value>
+      <webElementGuid>cf6def85-d520-4e97-a517-069af78c737d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/restart?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&amp;dsh=S218891431%3A1698778883803894&amp;emr=1&amp;flowEntry=ServiceLogin&amp;flowName=GlifWebSignIn&amp;followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&amp;ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&amp;osid=1&amp;service=mail&amp;theme=glif</value>
+      <webElementGuid>a6e3489b-eb33-4d23-b410-942c3ce926b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Try again</value>
+      <webElementGuid>bf577d32-2c8a-4581-9af7-a609c0a5d37a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>hSRGPd</value>
+      <webElementGuid>f1b91a6b-6187-4d1f-ad06-f57ef4f881e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;next&quot;)/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/div[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d&quot;]/a[@class=&quot;WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb&quot;]</value>
+      <webElementGuid>0f5f27c7-8f50-4a0b-94dd-3174a5bed6da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='next']/div/div/a</value>
+      <webElementGuid>60e5ecd1-c952-4278-ae47-3323dabdd1cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/restart?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&amp;dsh=S218891431%3A1698778883803894&amp;emr=1&amp;flowEntry=ServiceLogin&amp;flowName=GlifWebSignIn&amp;followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&amp;ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&amp;osid=1&amp;service=mail&amp;theme=glif')]</value>
+      <webElementGuid>31b61c33-c2b0-4a3d-a692-5da87cbbdb6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a</value>
+      <webElementGuid>abaab250-57ee-4558-97d5-f7964e9fcd68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/restart?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&amp;dsh=S218891431%3A1698778883803894&amp;emr=1&amp;flowEntry=ServiceLogin&amp;flowName=GlifWebSignIn&amp;followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&amp;ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&amp;osid=1&amp;service=mail&amp;theme=glif']</value>
+      <webElementGuid>dc4ca750-0c1b-450f-9f16-7af4f668d846</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

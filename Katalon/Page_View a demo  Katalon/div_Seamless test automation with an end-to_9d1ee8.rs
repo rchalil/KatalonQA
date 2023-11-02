@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Seamless test automation with an end-to_9d1ee8</name>
+   <tag></tag>
+   <elementGuidId>8879a0fa-4d41-48dc-a8a6-f03705bc95ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content > div.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e062d208-0557-4f0a-bcf2-b2db40b9c695</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>a1076825-6fc3-44f3-b470-29482b444181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seamless test automation with an end-to-end quality platform</value>
+      <webElementGuid>cf1aba13-8f78-4ac0-bce7-e8f0e35f2386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;ViewADemo_wrappingViewADemo__y3r6W&quot;]/div[@class=&quot;view-a-demo&quot;]/div[@class=&quot;hero&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>712c671f-6967-4197-9635-09537b62fa0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>6ca86419-4791-4fb9-b4db-7f986080cbfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>d32e9e93-4e69-4450-9fbf-101ddbddff89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Seamless test automation with an end-to-end quality platform' or . = 'Seamless test automation with an end-to-end quality platform')]</value>
+      <webElementGuid>9ce34201-72ca-4ea9-8317-78d4957ddff2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

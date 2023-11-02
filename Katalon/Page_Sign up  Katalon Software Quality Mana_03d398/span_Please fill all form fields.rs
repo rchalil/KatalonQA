@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please fill all form fields</name>
+   <tag></tag>
+   <elementGuidId>15337eed-b8d3-47d3-b776-beaea7fc8d05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kc-content-wrapper']/div/div[3]/div/form/div[6]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e1afc3a2-7997-48de-a0a8-6225d5a8bf84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please fill all form fields</value>
+      <webElementGuid>060898a6-7fb0-4d9d-8ec6-d3894a751720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kc-content-wrapper&quot;)/div[@class=&quot;wrapSignIn&quot;]/div[@class=&quot;sign_up_section&quot;]/div[@class=&quot;sign_up_form&quot;]/form[@class=&quot;form_sign_up&quot;]/div[@class=&quot;section-error-message signup&quot;]/span[1]</value>
+      <webElementGuid>28e25dd8-3646-4211-80b4-d829e5adac83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kc-content-wrapper']/div/div[3]/div/form/div[6]/span</value>
+      <webElementGuid>4166b671-f7af-4ea8-9a31-ddb7e0ce84cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>9b6a1c65-427a-4377-9c39-3bf2388f9838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Please fill all form fields' or . = 'Please fill all form fields')]</value>
+      <webElementGuid>3ce3db7d-af49-4305-9d7c-65dc457739ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

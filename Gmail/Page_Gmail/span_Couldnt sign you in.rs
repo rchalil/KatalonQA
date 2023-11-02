@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Couldnt sign you in</name>
+   <tag></tag>
+   <elementGuidId>8082cf4c-c82b-47b1-b1fe-0ca4f61e3538</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='headingText']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#headingText > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f607552d-74c9-4982-985f-0a060fb902fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Couldn’t sign you in</value>
+      <webElementGuid>09d3da56-c21d-4c68-a9e7-ce78dd1f2e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingText&quot;)/span[1]</value>
+      <webElementGuid>2d5fab84-5eab-4359-a295-1a587622e366</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h1[@id='headingText']/span</value>
+      <webElementGuid>f22b089a-f63b-40a7-a4f5-d7889b2938df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>b0319fb3-a6a9-4ab3-80f0-2ffd47736c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Couldn’t sign you in' or . = 'Couldn’t sign you in')]</value>
+      <webElementGuid>e6cd409b-5ae4-4595-9816-02fe473eab23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

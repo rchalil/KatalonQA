@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_3,500  test results</name>
+   <tag></tag>
+   <elementGuidId>b3af21b4-288c-4ee0-a823-6aa9db11be87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[2]/div/div[3]/div/div[2]/div[5]/div[3]/div/div[2]/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4a1bc4e-ad1d-4641-b5da-e0234a0dda7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>monthly_limit_number</value>
+      <webElementGuid>403adcbf-e779-4174-99da-c0c16b73ac37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3,500  test results</value>
+      <webElementGuid>eb41236b-04c5-4265-aa13-4b25dab64170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;Pricing_wrapPricing__KL0Xj&quot;]/div[@class=&quot;pricing_block_section&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;package_content&quot;]/div[@class=&quot;pricing_package_section pricing_package_platform active&quot;]/div[@class=&quot;package_item premium&quot;]/div[@class=&quot;product_section quality_management&quot;]/div[@class=&quot;wrap_content&quot;]/div[@class=&quot;product_item&quot;]/div[@class=&quot;product_price_input_dropdown active&quot;]/div[@class=&quot;dropdown_option&quot;]/div[@class=&quot;option_item testops_option&quot;]/div[@class=&quot;monthly_limit_number&quot;]</value>
+      <webElementGuid>772bf728-b159-428d-a9cb-dfe289d5f45f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[2]/div/div[3]/div/div[2]/div[5]/div[3]/div/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>b275ef0b-9135-449b-8417-7ea30984968b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]/div/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>aac2f368-ffd3-4e68-9f6c-57c330c3fb64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '3,500  test results' or . = '3,500  test results')]</value>
+      <webElementGuid>6f2e5f6b-d2d7-4f9b-9b18-c59dbbae97b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

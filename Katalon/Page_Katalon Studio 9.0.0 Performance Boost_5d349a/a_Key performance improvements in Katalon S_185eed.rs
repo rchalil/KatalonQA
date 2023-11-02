@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Key performance improvements in Katalon S_185eed</name>
+   <tag></tag>
+   <elementGuidId>0e479aac-6539-4316-9c22-b2ab3bbe0ce5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='ToC']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ad827513-9ae4-4f45-95fa-0470ecda5673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#h0</value>
+      <webElementGuid>00a289d3-8ce2-4b70-92fc-d9d9b25ecae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Key performance improvements in Katalon Studio 9.0.0</value>
+      <webElementGuid>581f39fb-3bc9-458b-939f-447c51367591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ToC&quot;)/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>a5bc53ab-56be-4250-88bf-1fe8cff17fcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='ToC']/ul/li/a</value>
+      <webElementGuid>06eed174-d5b5-41b8-8a81-be7a12f00c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Key performance improvements in Katalon Studio 9.0.0')]</value>
+      <webElementGuid>d4e9d37e-8fca-4c51-bd55-5f346bc655f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#h0')]</value>
+      <webElementGuid>b95f281c-7a55-4f2e-bb3b-3e37f2ca6e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>868bf58a-eb2f-46ad-a9ce-d45881cf4f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#h0' and (text() = 'Key performance improvements in Katalon Studio 9.0.0' or . = 'Key performance improvements in Katalon Studio 9.0.0')]</value>
+      <webElementGuid>691e9aa5-fb39-4af4-814e-a6ffae5efeac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

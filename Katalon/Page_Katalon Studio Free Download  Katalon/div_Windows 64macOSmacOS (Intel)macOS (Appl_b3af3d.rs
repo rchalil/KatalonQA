@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Windows 64macOSmacOS (Intel)macOS (Appl_b3af3d</name>
+   <tag></tag>
+   <elementGuidId>ab9a5618-472e-4941-bb06-84f8544c58dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown_os</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e50e97c0-5578-40d6-bb61-271a92b3bd7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown_os</value>
+      <webElementGuid>ac17bdb3-cc33-43e4-8515-cbcd7a9e873b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Windows 64macOSmacOS (Intel)macOS (Apple Silicon)Windows 64Linux</value>
+      <webElementGuid>36b936f5-ea8a-4ff7-93b0-38a997a1b604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;DownloadPage_wrapDownload__oXIBd&quot;]/div[@class=&quot;download_page_container&quot;]/div[@class=&quot;download_section&quot;]/div[@class=&quot;choose_os_and_version_section&quot;]/div[@class=&quot;dropdown_section&quot;]/div[@class=&quot;dropdown_os&quot;]</value>
+      <webElementGuid>dd29080f-43de-488e-99d5-d628c28bef41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>64843d02-96b7-4694-922f-f4da4d4cec03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>b0e4be70-ae90-4c70-9f7c-b7f01c532c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Windows 64macOSmacOS (Intel)macOS (Apple Silicon)Windows 64Linux' or . = 'Windows 64macOSmacOS (Intel)macOS (Apple Silicon)Windows 64Linux')]</value>
+      <webElementGuid>b0fb8e4c-0f38-4ad3-a07e-346547c99ff7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

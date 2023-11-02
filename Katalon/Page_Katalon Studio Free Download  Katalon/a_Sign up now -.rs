@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign up now -</name>
+   <tag></tag>
+   <elementGuidId>b348b48e-7f65-494d-873a-1f447ec02e83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn_sign_up.trackable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div[3]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>80e9b715-9522-45c6-92a3-b24566eebe75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_sign_up trackable</value>
+      <webElementGuid>ea84061e-93c6-4532-b0a2-12d0c30ddd6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sign-up?ref=download_page</value>
+      <webElementGuid>30d25823-9d23-40f1-be92-8563937cc210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-name</name>
+      <type>Main</type>
+      <value>Sign Up Now Button Clicked</value>
+      <webElementGuid>f029862f-3b85-45bf-b991-b56b8817a451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-category</name>
+      <type>Main</type>
+      <value>User acquisition</value>
+      <webElementGuid>5140ba91-e0c6-4c00-a870-a54dcb08cf7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-label</name>
+      <type>Main</type>
+      <value>Download Page</value>
+      <webElementGuid>0543136d-5fe6-4e4a-9857-cc8825e5f39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up now -></value>
+      <webElementGuid>4b4abf98-6214-483f-a0c0-bfb42d5e7015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;DownloadPage_wrapDownload__oXIBd&quot;]/div[@class=&quot;download_page_container&quot;]/div[@class=&quot;signup_reminder_section&quot;]/div[@class=&quot;content&quot;]/a[@class=&quot;btn_sign_up trackable&quot;]</value>
+      <webElementGuid>489ff6a7-e605-4db1-b43b-63345319c7ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div[3]/div/a</value>
+      <webElementGuid>330ba467-21d1-49c9-a7a5-629295099456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/sign-up?ref=download_page')]</value>
+      <webElementGuid>8c2bc42f-2b1c-47dd-a259-3fea9a56500a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/a</value>
+      <webElementGuid>02f42ddb-01fc-41f3-bf74-90e45460bcc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sign-up?ref=download_page' and (text() = 'Sign up now ->' or . = 'Sign up now ->')]</value>
+      <webElementGuid>f35b3a20-852c-425a-9558-3c25e6c539ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

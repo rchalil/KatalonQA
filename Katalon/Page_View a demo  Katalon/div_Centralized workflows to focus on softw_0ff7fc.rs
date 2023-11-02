@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Centralized workflows to focus on softw_0ff7fc</name>
+   <tag></tag>
+   <elementGuidId>e68de1f7-8f3b-43b7-bb90-d28015dd7685</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a6cdef7-26cf-4865-976e-d458ade5e5cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>09afef9c-cc06-4f44-8dd3-9646721b43a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Centralized workflows to focus on software that wins</value>
+      <webElementGuid>fe051802-b477-4112-96d5-46d858422d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;ViewADemo_wrappingViewADemo__y3r6W&quot;]/div[@class=&quot;view-a-demo&quot;]/div[@class=&quot;hero&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;features&quot;]/div[@class=&quot;feature&quot;]/div[@class=&quot;description&quot;]</value>
+      <webElementGuid>2c906185-a356-47f2-b9f6-f1393ff3b0a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>83d075d6-488b-4dd4-a568-c1fc0213eb5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>307cc713-978b-4a66-b191-a742d882d556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Centralized workflows to focus on software that wins' or . = 'Centralized workflows to focus on software that wins')]</value>
+      <webElementGuid>bee98dde-5171-45c5-a805-f84571961031</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

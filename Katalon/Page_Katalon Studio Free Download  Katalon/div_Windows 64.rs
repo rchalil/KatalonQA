@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Windows 64</name>
+   <tag></tag>
+   <elementGuidId>78d0531d-2cfc-4d04-bf55-5b8f077dffb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div/div/div[2]/div[4]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fecba7e5-0879-45ba-9dc2-1935f95667ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>os_text</value>
+      <webElementGuid>87e3086b-1835-474c-87dd-54cb2c3817eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Windows 64</value>
+      <webElementGuid>e410cb27-0145-42c7-ba6d-c17b15058588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;DownloadPage_wrapDownload__oXIBd&quot;]/div[@class=&quot;download_page_container&quot;]/div[@class=&quot;download_section&quot;]/div[@class=&quot;choose_os_and_version_section&quot;]/div[@class=&quot;dropdown_section&quot;]/div[@class=&quot;dropdown_os active&quot;]/div[@class=&quot;list_options_os&quot;]/div[@class=&quot;os_option&quot;]/div[@class=&quot;os_text&quot;]</value>
+      <webElementGuid>3a9d1e05-286d-48c9-94ef-8190fc9a48f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div/div[2]/div/div/div/div[2]/div[4]/div[2]</value>
+      <webElementGuid>b3e4eef8-555b-4368-aec5-6900d617b55e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[4]/div[2]</value>
+      <webElementGuid>24592314-b0fb-4e5d-9320-411764aa9771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Windows 64' or . = 'Windows 64')]</value>
+      <webElementGuid>a5e1364a-9016-4883-a10f-af805e9479a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

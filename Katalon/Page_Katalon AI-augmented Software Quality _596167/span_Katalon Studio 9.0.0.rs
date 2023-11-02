@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Katalon Studio 9.0.0</name>
+   <tag></tag>
+   <elementGuidId>7df5abd2-2813-4dde-8f14-dd1d61e3c3a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.bold_text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0a37c8a7-af25-4fe1-bf8a-bdea41632292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bold_text</value>
+      <webElementGuid>11fa0c4c-c6dd-4218-b59c-9dd93a85b88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon Studio 9.0.0</value>
+      <webElementGuid>0f2a7e9d-9b63-4512-ae27-6e03b7c3dc06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;homepage_banner&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_content&quot;]/div[@class=&quot;banner_content&quot;]/span[@class=&quot;bold_text&quot;]</value>
+      <webElementGuid>9ad75132-e27d-4ea3-91a1-eedc2399a431</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section/div/div/div/span</value>
+      <webElementGuid>6fc489e7-7782-432b-ab3d-eeaf96d851dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>9448f42c-ab6f-4868-8d3a-549b77ae3f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Katalon Studio 9.0.0' or . = 'Katalon Studio 9.0.0')]</value>
+      <webElementGuid>1521dbec-f9ba-4466-b05a-b34c0eed2a71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

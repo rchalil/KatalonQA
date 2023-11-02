@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Start free trial</name>
+   <tag></tag>
+   <elementGuidId>da1cc001-1259-4ade-8ec9-08121ddab2aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn_primary.btn_start_free_trial.trackable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a9b3c2e1-b1af-4e96-831f-7be34dba3a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_primary btn_start_free_trial trackable</value>
+      <webElementGuid>761da38b-c354-46cb-bf1e-9bde955d1f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-name</name>
+      <type>Main</type>
+      <value>Top Nav Start Free Trial Button Clicked</value>
+      <webElementGuid>046355d4-a9e8-4c71-bc40-b373f5940850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-category</name>
+      <type>Main</type>
+      <value>User acquisition</value>
+      <webElementGuid>831b3467-f926-4278-b36e-3fee44aba2e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-label</name>
+      <type>Main</type>
+      <value>All pages</value>
+      <webElementGuid>58e24fc0-c037-4998-b931-6125fc8ff199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/sign-up?ref=header_signup_btn</value>
+      <webElementGuid>326d0caf-781a-4e58-916e-4df3e4572678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start free trial</value>
+      <webElementGuid>f06de005-380c-4de5-8df0-9f694d87433b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header undefined&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;right_button&quot;]/a[@class=&quot;btn_primary btn_start_free_trial trackable&quot;]</value>
+      <webElementGuid>a545a4f8-6c2b-44aa-9576-3ef6989986a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div[2]/a[2]</value>
+      <webElementGuid>1e432d70-a058-42ff-b5c8-1003d9f772ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Start free trial')]</value>
+      <webElementGuid>4711eed5-9c7b-4d56-b24f-08e53e018aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/sign-up?ref=header_signup_btn')]</value>
+      <webElementGuid>bce91558-bd5a-4976-83c9-a511f5827a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div[2]/a[2]</value>
+      <webElementGuid>2c054b62-2173-4259-80da-d724cc0cdd49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/sign-up?ref=header_signup_btn' and (text() = 'Start free trial' or . = 'Start free trial')]</value>
+      <webElementGuid>ff9dd1e1-1188-4574-834e-e24d7cedc32f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

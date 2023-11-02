@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Low-code UI to keep everyone, tech or b_bd4e50</name>
+   <tag></tag>
+   <elementGuidId>05db55c0-f4fc-4927-8a6b-cc38a1340bc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[2]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55aff8be-0259-4c72-a765-a49df698e264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>9210181c-b2e1-4ff0-a6b7-25f5bfc5c161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Low-code UI to keep everyone, tech or business, in the loop</value>
+      <webElementGuid>519eb948-c5b9-4f4b-8e78-19493bad7792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;ViewADemo_wrappingViewADemo__y3r6W&quot;]/div[@class=&quot;view-a-demo&quot;]/div[@class=&quot;hero&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;features&quot;]/div[@class=&quot;feature&quot;]/div[@class=&quot;description&quot;]</value>
+      <webElementGuid>3b9796a5-eea1-4e3f-a0a4-f8e202a5a9ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[2]/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>57b8e98f-4ee1-40bb-b7bb-54205ed55f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>0ae1418f-906c-48d7-9587-ef17f998b8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Low-code UI to keep everyone, tech or business, in the loop' or . = 'Low-code UI to keep everyone, tech or business, in the loop')]</value>
+      <webElementGuid>73ee79e4-a470-4915-bbbe-1406113127be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Low cost, high ROI</name>
+   <tag></tag>
+   <elementGuidId>2e4cccad-8e58-4d71-bf11-36c1480451c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div/div/div/div[2]/div/div[2]/a[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6faa0d50-5ba2-492a-905b-100f4aab7103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>735bb80e-778c-4d45-ba91-731f0ea61682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Low cost, high ROI</value>
+      <webElementGuid>8890ac0c-e553-4fd2-9bc4-beb89d92f3d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header undefined&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/div[@class=&quot;katalon_topnav&quot;]/div[@class=&quot;top_nav_item have_child_menu&quot;]/div[@class=&quot;top_nav_dropdown why_katalon&quot;]/div[@class=&quot;content_container&quot;]/div[@class=&quot;right_content&quot;]/a[@class=&quot;business_outcome_item&quot;]/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>2bf510e4-9ff4-44e2-8025-5a7e91538640</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div/div/div/div[2]/div/div[2]/a[5]/div</value>
+      <webElementGuid>495557c6-24bc-4c87-9b9d-aee9318cbb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div</value>
+      <webElementGuid>c5168743-4f90-4653-bbed-0bcac2f16751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Low cost, high ROI' or . = 'Low cost, high ROI')]</value>
+      <webElementGuid>f42fbfe6-6a6c-486f-a583-4919eaa2bcf5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

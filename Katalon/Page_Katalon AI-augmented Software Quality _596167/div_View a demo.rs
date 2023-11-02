@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_View a demo</name>
+   <tag></tag>
+   <elementGuidId>3847d2d1-6dce-49c6-bd0a-42550373ddd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section/div[4]/a[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn_view_a_demo.trackable</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c47ee16-70b4-41ac-b2b5-bfac09b6d802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn_view_a_demo trackable</value>
+      <webElementGuid>9549f100-760b-47c1-91d9-a3c4a34af454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-name</name>
+      <type>Main</type>
+      <value>View a demo Button Clicked</value>
+      <webElementGuid>1f60f980-9492-4d14-9990-07a07a6e39b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-category</name>
+      <type>Main</type>
+      <value>Sales related action</value>
+      <webElementGuid>53e9030b-0c4e-4d87-804f-63f54dfe6333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-event-label</name>
+      <type>Main</type>
+      <value>New Platfrom Home Page Sep 2022</value>
+      <webElementGuid>a2980cb0-783f-4aa8-905e-779e6193ba60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View a demo</value>
+      <webElementGuid>9131749a-b415-411a-8537-6e4176f92e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;HomePage_wrapHomePage__zdHwS&quot;]/section[@class=&quot;hero_section&quot;]/div[@class=&quot;hero_btn&quot;]/a[2]/div[@class=&quot;btn_view_a_demo trackable&quot;]</value>
+      <webElementGuid>7c45f0e0-7386-4673-ac26-c67ad6c330c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section/div[4]/a[2]/div</value>
+      <webElementGuid>1b4debff-e149-4daf-a14e-94330cc299eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[4]/a[2]/div</value>
+      <webElementGuid>5d167c86-0963-4e3e-b8ec-9efacc58c57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'View a demo' or . = 'View a demo')]</value>
+      <webElementGuid>3fdf852f-2168-4e46-b100-490592dac63e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

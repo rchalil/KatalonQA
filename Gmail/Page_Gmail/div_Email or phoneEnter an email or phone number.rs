@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email or phoneEnter an email or phone number</name>
+   <tag></tag>
+   <elementGuidId>a90d87ff-8d8f-468c-9ce6-9e1121029976</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div/div/form/span/section/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rFrNMe.N3Hzgf.jjwyfe.QBQrY.zKHdkd.sdJrJc.Tyc9J.k0tWj.IYewr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a9000ba5-a000-4ab9-9c68-891e09eb03f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rFrNMe N3Hzgf jjwyfe QBQrY zKHdkd sdJrJc Tyc9J k0tWj IYewr</value>
+      <webElementGuid>ab52d3a4-9114-48bd-a112-b0a87ed4119c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jscontroller</name>
+      <type>Main</type>
+      <value>pxq3x</value>
+      <webElementGuid>80be63be-5281-4857-a7eb-0847ff1d2ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>clickonly:KjsqPd; focus:Jt1EX; blur:fpfTEe; input:Lg5SV</value>
+      <webElementGuid>656cd0b8-c9f8-4a1e-92c2-89fc29c0f36f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>Ufn6O</value>
+      <webElementGuid>e5a38318-644f-406d-9c58-87d58b9c1aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email or phoneEnter an email or phone number</value>
+      <webElementGuid>66d1d64a-31f2-425c-90b5-7a010f0fff00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;g98c7c&quot;]/div[@class=&quot;aDGQwe&quot;]/div[@class=&quot;eKnrVb&quot;]/div[@class=&quot;CYBold&quot;]/div[@class=&quot;j663ec&quot;]/div[@class=&quot;tCpFMc&quot;]/form[1]/span[1]/section[@class=&quot;aTzEhb&quot;]/div[@class=&quot;CxRgyd&quot;]/div[@class=&quot;VBGMK&quot;]/div[@class=&quot;d2CFce cDSmF cxMOTc&quot;]/div[@class=&quot;rFrNMe N3Hzgf jjwyfe QBQrY zKHdkd sdJrJc Tyc9J k0tWj IYewr&quot;]</value>
+      <webElementGuid>2e640eea-9872-4dd6-bb4b-ac4b513a2082</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div/div/form/span/section/div/div/div/div</value>
+      <webElementGuid>42074c5e-6e31-4ae1-8a63-940f1499e235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div</value>
+      <webElementGuid>3ab467a0-e96c-4fe8-ac85-476b9402956b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email or phoneEnter an email or phone number' or . = 'Email or phoneEnter an email or phone number')]</value>
+      <webElementGuid>78432224-ab75-4b1a-8cf9-2410f6c0a98f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_How can we help</name>
+   <tag></tag>
+   <elementGuidId>39b299e1-45aa-4dcb-bb9e-c84ece7c302c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.hero_title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>d046a038-bfce-488d-9889-86547b067edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hero_title</value>
+      <webElementGuid>77e2173c-1110-425e-8ed7-cc33a60c1014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>How can we help?</value>
+      <webElementGuid>9b89df86-420c-4075-81c5-a5fd61eb8c0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;ContactUs_wrapContactUs__DBmCs&quot;]/section[@class=&quot;hero_section&quot;]/h1[@class=&quot;hero_title&quot;]</value>
+      <webElementGuid>182239f5-798a-4b92-87e3-bf8fe32c430c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section/h1</value>
+      <webElementGuid>39ccd0b8-7c50-453e-8a4f-eeeeda704534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>c8c155ff-aec9-40a2-91e8-8690d422ae69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'How can we help?' or . = 'How can we help?')]</value>
+      <webElementGuid>573052a0-d749-472b-98cd-3c07298aa839</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
