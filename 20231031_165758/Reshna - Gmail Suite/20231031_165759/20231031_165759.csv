@@ -1,0 +1,48 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reshna - Gmail Suite,Edge Chromium 118,,,2023-10-31 16:58:09,2023-10-31 16:59:16,1m - 7.270s,PASSED
+,,,,,,,
+Test Cases/Gmail - Forgot email verification,Edge Chromium 118,,,2023-10-31 16:58:09,2023-10-31 16:58:51,41.447s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 118,,,2023-10-31 16:58:10,2023-10-31 16:58:10,0.094s,PASSED
+"openBrowser("""")",Edge Chromium 118,,,2023-10-31 16:58:10,2023-10-31 16:58:14,4.649s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyz2KxDaCIoSux7c4LnD_19qaKALraXqCL6tDXgQtR0fl_r0sRWKJdWPPWF9Ald7Va9H4pwIZA&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S285881911%3A1698779896826121&theme=glif#inbox"")",Edge Chromium 118,,,2023-10-31 16:58:14,2023-10-31 16:58:17,2.224s,PASSED
+maximizeWindow(),Edge Chromium 118,,,2023-10-31 16:58:17,2023-10-31 16:58:17,0.257s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/button_Forgot email""))",Edge Chromium 118,,,2023-10-31 16:58:17,2023-10-31 16:58:18,1.570s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Edge Chromium 118,,,2023-10-31 16:58:18,2023-10-31 16:58:50,31.501s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/div_Enter a valid email or phone number""), 0)",Edge Chromium 118,,,2023-10-31 16:58:50,2023-10-31 16:58:50,0.443s,PASSED
+closeBrowser(),Edge Chromium 118,,,2023-10-31 16:58:50,2023-10-31 16:58:51,0.436s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 118,,,2023-10-31 16:58:51,2023-10-31 16:58:51,0.006s,PASSED
+,,,,,,,
+Test Cases/Gmail - Incorrect login verification,Edge Chromium 118,,,2023-10-31 16:58:51,2023-10-31 16:58:58,6.879s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 118,,,2023-10-31 16:58:51,2023-10-31 16:58:51,0.003s,PASSED
+"openBrowser("""")",Edge Chromium 118,,,2023-10-31 16:58:51,2023-10-31 16:58:54,2.925s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywlj-QeinCv6drOjCNfoQ8bXTmpp7Hl7eVjr0AUWTEmWXqv0AIumDuU5lI3vpnkTyFo2aOM&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458760932%3A1698778577004689&theme=glif#inbox"")",Edge Chromium 118,,,2023-10-31 16:58:54,2023-10-31 16:58:55,1.312s,PASSED
+maximizeWindow(),Edge Chromium 118,,,2023-10-31 16:58:55,2023-10-31 16:58:55,0.165s,PASSED
+"setText(findTestObject(""Object Repository/Gmail/Page_Gmail/input_identifier""), ""abcxyz"")",Edge Chromium 118,,,2023-10-31 16:58:55,2023-10-31 16:58:56,0.900s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Edge Chromium 118,,,2023-10-31 16:58:56,2023-10-31 16:58:57,0.599s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Couldnt sign you in""), 0)",Edge Chromium 118,,,2023-10-31 16:58:57,2023-10-31 16:58:57,0.523s,PASSED
+closeBrowser(),Edge Chromium 118,,,2023-10-31 16:58:57,2023-10-31 16:58:58,0.347s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 118,,,2023-10-31 16:58:58,2023-10-31 16:58:58,0.002s,PASSED
+,,,,,,,
+Test Cases/Gmail - Try again with invalid login,Edge Chromium 118,,,2023-10-31 16:58:58,2023-10-31 16:59:10,12.564s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 118,,,2023-10-31 16:58:58,2023-10-31 16:58:58,0.003s,PASSED
+"openBrowser("""")",Edge Chromium 118,,,2023-10-31 16:58:58,2023-10-31 16:59:01,2.832s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeywjvDYoN5FDADVUpdLkv_4Dss1DZHwOFdZCBX9CuM3ITel-sS3Srk5PAoPo89chcvj7pJ2Kng&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S218891431%3A1698778883803894&theme=glif#inbox"")",Edge Chromium 118,,,2023-10-31 16:59:01,2023-10-31 16:59:02,1.315s,PASSED
+maximizeWindow(),Edge Chromium 118,,,2023-10-31 16:59:02,2023-10-31 16:59:02,0.154s,PASSED
+"setText(findTestObject(""Object Repository/Gmail/Page_Gmail/input_identifier""), ""abcxyz"")",Edge Chromium 118,,,2023-10-31 16:59:02,2023-10-31 16:59:03,0.781s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Edge Chromium 118,,,2023-10-31 16:59:03,2023-10-31 16:59:04,0.606s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb""))",Edge Chromium 118,,,2023-10-31 16:59:04,2023-10-31 16:59:07,3.381s,PASSED
+"setText(findTestObject(""Object Repository/Gmail/Page_Gmail/input_identifier""), ""abcxyz"")",Edge Chromium 118,,,2023-10-31 16:59:07,2023-10-31 16:59:08,0.863s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Edge Chromium 118,,,2023-10-31 16:59:08,2023-10-31 16:59:08,0.514s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/a_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1""), 0)",Edge Chromium 118,,,2023-10-31 16:59:08,2023-10-31 16:59:10,1.238s,PASSED
+closeBrowser(),Edge Chromium 118,,,2023-10-31 16:59:10,2023-10-31 16:59:10,0.745s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 118,,,2023-10-31 16:59:10,2023-10-31 16:59:10,0.003s,PASSED
+,,,,,,,
+Test Cases/Gmail - Verify the validation message,Edge Chromium 118,,,2023-10-31 16:59:10,2023-10-31 16:59:16,6.105s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 118,,,2023-10-31 16:59:10,2023-10-31 16:59:10,0.002s,PASSED
+"openBrowser("""")",Edge Chromium 118,,,2023-10-31 16:59:10,2023-10-31 16:59:14,3.060s,PASSED
+"navigateToUrl(""https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AVQVeyzR6pw5d28fypnZRPD2z3UMAtruQJTmGrturMB1BE3plFqEShDNo4O4MTXu67xx9JFqi_TIZw&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1292309958%3A1698780033683571&theme=glif#inbox"")",Edge Chromium 118,,,2023-10-31 16:59:14,2023-10-31 16:59:15,1.293s,PASSED
+maximizeWindow(),Edge Chromium 118,,,2023-10-31 16:59:15,2023-10-31 16:59:15,0.194s,PASSED
+"click(findTestObject(""Object Repository/Gmail/Page_Gmail/span_Next""))",Edge Chromium 118,,,2023-10-31 16:59:15,2023-10-31 16:59:15,0.485s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Gmail/Page_Gmail/div_Email or phoneEnter an email or phone number""), 0)",Edge Chromium 118,,,2023-10-31 16:59:15,2023-10-31 16:59:16,0.493s,PASSED
+closeBrowser(),Edge Chromium 118,,,2023-10-31 16:59:16,2023-10-31 16:59:16,0.443s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 118,,,2023-10-31 16:59:16,2023-10-31 16:59:16,0.003s,PASSED

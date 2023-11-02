@@ -1,0 +1,55 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reshna - Katalon Suite3,Chrome 118.0.0.0,,,2023-10-31 16:59:25,2023-10-31 17:00:28,1m - 2.849s,PASSED
+,,,,,,,
+Test Cases/Katalon - Learn More verification,Chrome 118.0.0.0,,,2023-10-31 16:59:25,2023-10-31 16:59:43,17.566s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 16:59:25,2023-10-31 16:59:25,0.058s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 16:59:26,2023-10-31 16:59:30,4.265s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-10-31 16:59:30,2023-10-31 16:59:34,3.646s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 16:59:34,2023-10-31 16:59:34,0.257s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-10-31 16:59:34,2023-10-31 16:59:35,1.535s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Learn more""))",Chrome 118.0.0.0,,,2023-10-31 16:59:35,2023-10-31 16:59:36,0.761s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Learn more""))",Chrome 118.0.0.0,,,2023-10-31 16:59:36,2023-10-31 16:59:38,2.329s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/div_TABLE OF CONTENTS""), 0)",Chrome 118.0.0.0,,,2023-10-31 16:59:38,2023-10-31 16:59:40,1.087s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/a_Key performance improvements in Katalon S_185eed""))",Chrome 118.0.0.0,,,2023-10-31 16:59:40,2023-10-31 16:59:40,0.979s,PASSED
+"rightClick(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/strong_Key performance improvements in Kata_e75e1d""))",Chrome 118.0.0.0,,,2023-10-31 16:59:40,2023-10-31 16:59:41,0.658s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/strong_Key performance improvements in Kata_e75e1d""))",Chrome 118.0.0.0,,,2023-10-31 16:59:41,2023-10-31 16:59:42,0.521s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Katalon/Page_Katalon Studio 9.0.0 Performance Boost_5d349a/strong_Key performance improvements in Kata_e75e1d""))",Chrome 118.0.0.0,,,2023-10-31 16:59:42,2023-10-31 16:59:42,0.780s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 16:59:42,2023-10-31 16:59:43,0.420s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 16:59:43,2023-10-31 16:59:43,0.008s,PASSED
+,,,,,,,
+Test Cases/Katalon Price Check,Chrome 118.0.0.0,,,2023-10-31 16:59:43,2023-10-31 16:59:59,16.281s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 16:59:43,2023-10-31 16:59:43,0.006s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 16:59:43,2023-10-31 16:59:46,2.883s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-10-31 16:59:46,2023-10-31 16:59:49,3.025s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 16:59:49,2023-10-31 16:59:49,0.195s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-10-31 16:59:49,2023-10-31 16:59:51,1.984s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/div_Pricing""))",Chrome 118.0.0.0,,,2023-10-31 16:59:51,2023-10-31 16:59:54,2.492s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kse_number""), ""5"")",Chrome 118.0.0.0,,,2023-10-31 16:59:54,2023-10-31 16:59:56,2.046s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_testcloud_number""), ""5"")",Chrome 118.0.0.0,,,2023-10-31 16:59:56,2023-10-31 16:59:58,1.947s,PASSED
+"setText(findTestObject(""Object Repository/Katalon/Page_Software Quality Management Platform  _0ea48f/inputinput_platform_kre_number""), ""5"")",Chrome 118.0.0.0,,,2023-10-31 16:59:58,2023-10-31 16:59:59,1.147s,PASSED
+"scrollToPosition(0, 3)",Chrome 118.0.0.0,,,2023-10-31 16:59:59,2023-10-31 16:59:59,0.031s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 16:59:59,2023-10-31 16:59:59,0.363s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 16:59:59,2023-10-31 16:59:59,0.004s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify Incorrect email verification,Chrome 118.0.0.0,,,2023-10-31 16:59:59,2023-10-31 17:00:15,15.333s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 16:59:59,2023-10-31 16:59:59,0.003s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 16:59:59,2023-10-31 17:00:02,2.891s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-10-31 17:00:02,2023-10-31 17:00:06,3.413s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial""))",Chrome 118.0.0.0,,,2023-10-31 17:00:06,2023-10-31 17:00:10,4.079s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/div_Sign in""))",Chrome 118.0.0.0,,,2023-10-31 17:00:10,2023-10-31 17:00:11,1.616s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Sign in  Katalon Software Quality Mana_cfddb7/div_Sign up""))",Chrome 118.0.0.0,,,2023-10-31 17:00:11,2023-10-31 17:00:13,1.950s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/input_btn_text""), 0)",Chrome 118.0.0.0,,,2023-10-31 17:00:13,2023-10-31 17:00:14,0.841s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 17:00:14,2023-10-31 17:00:15,0.395s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 17:00:15,2023-10-31 17:00:15,0.003s,PASSED
+,,,,,,,
+Test Cases/Katalon - Verify the error message on the SignUp Page,Chrome 118.0.0.0,,,2023-10-31 17:00:15,2023-10-31 17:00:28,13.389s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 118.0.0.0,,,2023-10-31 17:00:15,2023-10-31 17:00:15,0.002s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-31 17:00:15,2023-10-31 17:00:17,2.871s,PASSED
+"navigateToUrl(""https://katalon.com/"")",Chrome 118.0.0.0,,,2023-10-31 17:00:17,2023-10-31 17:00:21,3.334s,PASSED
+maximizeWindow(),Chrome 118.0.0.0,,,2023-10-31 17:00:21,2023-10-31 17:00:21,0.155s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/button_Accept All Cookies""))",Chrome 118.0.0.0,,,2023-10-31 17:00:21,2023-10-31 17:00:23,1.648s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Katalon AI-augmented Software Quality _596167/a_Start free trial""))",Chrome 118.0.0.0,,,2023-10-31 17:00:23,2023-10-31 17:00:26,3.128s,PASSED
+"click(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/divbtn-sign-up""))",Chrome 118.0.0.0,,,2023-10-31 17:00:26,2023-10-31 17:00:27,1.126s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Katalon/Page_Sign up  Katalon Software Quality Mana_03d398/span_Please fill all form fields""), ""Please fill all form fields"")",Chrome 118.0.0.0,,,2023-10-31 17:00:27,2023-10-31 17:00:27,0.512s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-31 17:00:27,2023-10-31 17:00:28,0.498s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 118.0.0.0,,,2023-10-31 17:00:28,2023-10-31 17:00:28,0.001s,PASSED
